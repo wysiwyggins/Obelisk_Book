@@ -25,7 +25,7 @@
 # ------------------------------------------------------------------------------
 
 - term: creator
-  value: Last Name, First Name
+  value: 'Last Name, First Name'
   refines:
     - role: aut
 
@@ -39,42 +39,42 @@
 # ------------------------------------------------------------------------------
 
 - term: contributor
-  value: Last Name, First Name
+  value: 'Last Name, First Name'
   refines:
     - role: edt
 
 - term: contributor
-  value: Last Name, First Name
+  value: 'Last Name, First Name'
   refines:
     - role: drt
 
 - term: contributor
-  value: Last Name, First Name
+  value: 'Last Name, First Name'
   refines:
     - role: ard
 
 - term: contributor
-  value: Last Name, First Name
+  value: 'Last Name, First Name'
   refines:
     - role: pmn
 
 - term: contributor
-  value: Last Name, First Name
+  value: 'Last Name, First Name'
   refines:
     - role: prg
 
 - term: contributor
-  value: Last Name, First Name
+  value: 'Last Name, First Name'
   refines:
     - role: dsr
 
 - term: contributor
-  value: Last Name, First Name
+  value: 'Last Name, First Name'
   refines:
     - role: mrk
 
 - term: contributor
-  value: Last Name, First Name
+  value: 'Last Name, First Name'
   refines:
     - role: rtm
 
@@ -119,4 +119,6 @@
 
 - term: identifier
   value: 339e849a459ca89b707c93e7fd6e508f3e2ecf6f
+- term: cover
+  value: __bber_cover__48c9a0b5926444c2ffb192e96f6112ec9abe0817.jpg
 

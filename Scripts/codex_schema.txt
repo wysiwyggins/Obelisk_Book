@@ -1,0 +1,37 @@
+
+
+# <This Fantasy name> (<rune>)
+Map of <This Fantasy name>
+<Realm map>
+
+# artifacts
+<item type> of <fantasy name>
+<item type> of <skill>
+<adjective> <item type> of <fantasy name>
+lost <item type> of <fantasy name>
+
+# Endemic Reagents
+<reagent>
+
+Tables of secret knowledge:
+
+potions :
+
+<adjective> potions-
+
+Reagent       | Reagent      | Reagent      | Potion         | Effect
+------------- | ------------ |------------  | -------------- | -------------
+<reagent>     | <reagent>    | <reagent>    | <color> potion | potion of <skill>
+
+<adjective> runes: 
+
+rune          | meaning
+------------- | ------------
+<rune svg>    | <word>
+
+
+wands:
+
+Material         |  Effect
+---------------- | ------------ 
+<substance> wand | wand of <skill>
