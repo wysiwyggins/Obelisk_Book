@@ -6,7 +6,7 @@
         linear: false
 # Cover
 - cover:
-        in_toc: false
+        in_toc: true
 # Project Contents
 - obelisk-title-page
 - Index
