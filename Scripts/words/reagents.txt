@@ -2596,7 +2596,7 @@ Clasy-sage seeds
 Bricks
 Bone marrow from the flanks of an asses back legs
 Bone marrow from a pig's flanks
-Honey into which dry roses have been mixed in some way
+Honey into which dry roses have been mixed
 Seville orange
 Seville orange flowers
 Seville orange peel
@@ -2624,7 +2624,7 @@ French mercury seeds
 French mercury
 Mercury
 A Preparation using mercury
-See note for miva citoniorum
+miva citoniorum
 Pork blood
 Honey
 White honey
@@ -2718,7 +2718,6 @@ Walnut leaves
 Nutmeg
 Nutmeg flowers
 Walnut shells
-An indian nut
 The burnt shell of a nut
 Coconut
 Goose

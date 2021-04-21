@@ -10,5 +10,29 @@
 
 h1 {
     font-family: 'luminariregular';
-    font-size: 2em;
+    font-size: 3em;
+}
+
+blockquote p, blockquote{
+    &::first-letter {
+        initial-letter: 2;
+        font-family: 'luminariregular';
+        font-size:xx-large;
+        &:before{
+            display: block;
+            padding-left: 10px;
+            content: "\201C";
+            font-size:xx-large;
+            font-family: 'luminariregular';
+        }
+    }
+    
+}
+
+th {
+    background-color: #eee;
+}
+
+table {
+    margin-top: 1em;
 }

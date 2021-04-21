@@ -1,10 +1,11 @@
 ---
-title: Project Name Title Page
+title: Title Page
 type: titlepage
 ---
 
 ::: titlepage:project-name-title-page
 
-# Project Title by Author
+# Obelisk
+## User's Manual / Book of Secrets
 
 ::: exit:project-name-title-page

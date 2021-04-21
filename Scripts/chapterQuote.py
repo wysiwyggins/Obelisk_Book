@@ -38,9 +38,12 @@ def generateQuote():
     except:
         title = text_model.make_short_sentence(100)
     hashids = Hashids(salt=title)
-
+    quoteText += "\n::: blockquote:book_of_secrets:\n"
     for number in range(3):
-        quoteText += "\n" + text_model.make_sentence() + " "
+        
+        quoteText += "\n" + text_model.make_short_sentence(100) + " "
+    quoteText += "\n::: exit:book_of_secrets\n"
+    quoteText += "*–"+ title.title()+"*"
     
     return quoteText
 

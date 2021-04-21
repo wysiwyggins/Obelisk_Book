@@ -43,7 +43,7 @@ class Potion:
         reagentsList = list(reagentsFO)
         selection = random.randint(0, len(reagentsList) - 1)
         reagent = reagentsList[selection]
-        if "#" in reagent:
+        while "#" in reagent:
             selection = random.randint(0, len(reagentsList) - 1)
             reagent = reagentsList[selection]
         reagent = reagent.rstrip("\n")

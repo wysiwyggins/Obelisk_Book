@@ -1,23 +1,18 @@
-# from : by Clark Ashton Smith
-
-He who has trod the shadows of  
+He who has trod the shadows of Xeethra 
 And looked upon the coal-red sun oblique, 
 Henceforth returns to no anterior land, 
 
 But haunts a latter coast 
-
 Where cities crumble in the black sea-sand 
 
 And dead gods drink the brine. 
 
-He who has known the gardens of  
+He who has known the gardens of Xeethra 
 Where bleed the fruits tom by the simorgh’s beak, 
 Savors no fruit of greener hemispheres: 
 
 In arbors uttermost, 
-
 In sunset cycles of the sombering years, 
-
 He sips an aramanth wine. 
 
 He who has loved the wild girls of  
@@ -28,27 +23,17 @@ Nor know the vampire’s from the lover’s kiss:
 For him the scarlet ghost 
 Of Lilith from time’s last necropolis 
 Rears amorous and malign. 
-
 He who has sailed in galleys of  
 And seen the looming of strange spire and peak, 
 Must face again the sorcerer-sent typhoon. 
-
 And take the steerer’s post 
 On far-poured oceans by the shifted moon 
 Or the re-shapen Sign. 
-
-
-Clark Ashton Smith 
-
-♦From: The Dark Chateau and Other Poems , 1. 
-
-1 Xeethra 
-
+-The Dark Chateau
 
 Subtle and manifold are the nets of the Demon , who 
 followeth his chosen from birth to death and from death 
 to birth , throughout many lives . 
-
 —The Testaments of Carnamagos. 
 
 Long had the wasting summer pastured its suns, like 
@@ -59,6 +44,7 @@ far-sundered, fallen pools; the granite boulders were
 shaled by the heat; the bare earth was cracked and crev 
 iced; and the low, meager grasses were seared even to the 
 roots. 
+-Xeethra 
 
 So it occurred that the boy Xeethra, tending the black 
 and piebald goats of his uncle Pomos, was obliged to fol 
@@ -78,19 +64,16 @@ trouble himself to watch them any longer. Entranced by
 his surroundings, he began to explore the valley, after 
 quenching his thirst at the clear waters that sparkled like 
 golden wine. 
+-The Wizard Pomos
 
 To him, the place seemed a veritable garden pleasance. 
-
-3 
-
-
-
-4  
-
 Forgetting the distance he had already come, and the 
 wrath of Pomos if the flock should return late for the 
 milking, he wandered deeper among the winding crags 
-that protected the valley. On every hand the rocks grew 
+that protected the valley. 
+—The Testaments of Carnamagos. 
+
+On every hand the rocks grew 
 sterner and wilder; the valley straitened; and he stood 
 presently at its end, where a rugged wall forbade further 
 progress. 
@@ -112,8 +95,8 @@ ing gloom of the cavern, from which, unaccountably, a
 soft balmy air began to blow. There were strange odors 
 on the air, suggesting the pungency of temple incense, the 
 languor and luxury of opiate blossoms. They disturbed 
-the senses of Xeethra; and, at the same time, they se 
-duced him with their promise of unbeholden marvelous 
+the senses of Xeethra; and, at the same time, they seduced him
+with their promise of unbeholden marvelous 
 things. Hesitating, he tried to remember certain legends 
 that Pomos had told him: legends that concerned such 
 hidden caverns as the one on which he had stumbled. But 
@@ -121,8 +104,8 @@ it seemed that the tales had faded now from his mind,
 leaving only a dim sense of things that were perilous, for 
 bidden, and magical. He thought that the cavern was the 
 portal of some undiscovered world—and the portal had 
-opened expressly to permit his entrance. Being of a na 
-ture both venturesome and visionary, he was undeterred 
+opened expressly to permit his entrance. Being of a nature
+both venturesome and visionary, he was undeterred 
 by the fears that others might have felt in his place. Over 
 powered by a great curiosity, he soon entered the cave, 
 carrying for a torch a dry, resinous bough that had fallen 
@@ -130,11 +113,6 @@ from the tree in the cliff.
 
 Beyond the mouth he was swallowed by a rough- 
 arched passage that pitched downward like the gorge of 
-
-
-
- 5 
-
 some monstrous dragon. The torch’s flame blew back, 
 flaring and smoking in the warm aromatic wind that 
 strengthened from unknown depths. The cave steepened 
@@ -148,6 +126,7 @@ did he recall his abandoned duty. He lost all reckoning of
 the time consumed in his descent. Then, suddenly, his 
 torch was extinguished by a hot gush that blew upon him 
 like the expelled breath of some prankish demon. 
+-The Tome of Obelisks
 
 Feeling the assailment of a black panic, he tottered in 
 darkness and sought to secure his footing on the danger 
@@ -156,22 +135,23 @@ torch, he saw that the night around him was not com
 plete, but was tempered by a wan, golden glimmering 
 from the depths below. Forgetting his alarm in a new 
 wonder, he descended toward the mysterious light. 
+-The Book of Secrets
 
 At the bottom of the long incline, Xeethra passed 
 through a low cavern-mouth and emerged into sun-bright 
-radiance. Dazzled and bewildered, he thought for a mo 
-ment that his subterranean wanderings had brought him 
+radiance. Dazzled and bewildered, he thought for a moment 
+that his subterranean wanderings had brought him 
 back to the outer air in some unsuspected land lying 
 among the Mykrasian hills. Yet surely the region before 
 him was no part of summer-stricken Cincor: for he saw 
 neither hills nor mountains nor the black sapphire heaven 
 from which the aging but despotic sun glared down with 
-implacable drouth on the kingdoms of . 
+implacable drouth on the kingdoms of Xeethra.
 
 He stood on the threshold of a fertile plain that lapsed 
 illimitably into golden distance under the measureless 
-arch of a golden vault. Far off, through the misty radi 
-ance, there was a dim towering of unidentifiable masses 
+arch of a golden vault. Far off, through the misty radiance, 
+there was a dim towering of unidentifiable masses 
 that might have been spires and domes and ramparts. A 
 level meadow lay at his feet, covered with close-grown 
 curling sward that had the greenness of verdigris; and the 
@@ -179,31 +159,27 @@ sward, at intervals, was studded with strange blossoms
 appearing to turn and move like living eyes. Near at 
 hand, beyond the meadow, was an orchard-like grove of 
 tall, amply spreading trees amid whose lush leafage he 
-
-
-
-6  
-
 descried the burning of numberless dark-red fruits. The 
 plain, to all seeming, was empty of human life; and no 
 birds flew in the fiery air or perched on the laden boughs. 
 There was no sound other than the sighing of leaves: a 
 sound like the hissing of many small hidden serpents. 
 
-To the boy from the parched hill-country, this re alm 
+
+To the boy from the parched hill-country, this realm 
 was an Eden of untasted delights. But, for a little, he was 
 stayed by the strangeness of it all, and by the sense of 
 weird and preternatural vitality which informed the whole 
 landscape. Flakes of fire appeared to descend and melt in 
-the rippling air; the grasses coiled with verminous writh- 
-ings; the flowery eyes returned his regard intently; the 
+the rippling air; the grasses coiled with verminous writhings;
+ the flowery eyes returned his regard intently; the 
 trees palpitated as if a sanguine ichor flowed within 
 them in lieu of sap; and the undemote of adder-like hiss 
 ings amid the foliage grew louder and sharper. 
 
 Xeethra, however, was deterred only by the thought 
-that a region so fair and fertile must belong to some jeal 
-ous owner who would resent his intrusion. He scanned 
+that a region so fair and fertile must belong to some jealous
+owner who would resent his intrusion. He scanned 
 the unpeopled plain with much circumspection. Then, 
 deeming himself secure from observation, he yielded to 
 the craving that had been roused within him by the red, 
@@ -214,8 +190,7 @@ stance, as he ran forward to the nearest trees. Bowed with
 their shining globes, the branches drooped around him. 
 He plucked several of the largest fruits and stored them 
 thriftily in the bosom of his threadbare tunic. Then, un 
-able to resist his appetence any longer, he began to de 
-vour one of the fruits. The rind broke easily under his 
+able to resist his appetence any longer, he began to devour one of the fruits. The rind broke easily under his 
 teeth, and it seemed that a royal wine, sweet and puis 
 sant, was poured into his mouth from an overbrimming 
 cup. He felt in his throat and bosom a swift warmth that 
@@ -227,15 +202,10 @@ falling as if from an airy height.
 He knew instantly that the voices were not those of 
 men. They filled his ears with a rolling as of baleful 
 drums, heavy with ominous echoes; yet it seemed that 
-they spoke in articulate words, albeit of a strange lan- 
-
-
-
- 7 
-
-guage. Looking up between the thick boughs, he beheld a 
-sight that inspired him with terror. Two beings of colos- 
-sean stature, tall as the watch-towers of the mountain 
+they spoke in articulate words, albeit of a strange language.
+Looking up between the thick boughs, he beheld a 
+sight that inspired him with terror. Two beings of colossean
+stature, tall as the watch-towers of the mountain 
 people, stood waist-high above the near tree-tops. It was 
 as if they had appeared by sorcery from the green ground 
 or the gold heavens: for surely the clumps of vegetation, 
@@ -276,11 +246,6 @@ that clove downward toward him across the branches.
 Whether a bolt of levin had issued from the clear vault, 
 or whether one of the armored beings had brandished a 
 great sword, he was never quite sure afterward. The light 
-
-
-
-8  
-
 seared his vision, he recoiled in uncontrollable fright, and 
 found himself running, half blind, across the open turf. 
 Through whirling bolts of color he saw before him, in a 
@@ -310,8 +275,8 @@ During that journey, it seemed that a fever burned and
 died within him at intervals, bringing strange fancies. He 
 forgot his fear of Pomos, forgot, indeed, that he was 
 Xeethra, the humble and disregarded goatherd. He was 
-returning to another abode than the squalid hut of Por- 
-nos, built of clay and brushwood. In a high-domed city, 
+returning to another abode than the squalid hut of Pornos,
+built of clay and brushwood. In a high-domed city, 
 gates of burnished metal would open for him, and fiery- 
 colored banners would stream on the perfumed air; and 
 silver trumpets and the voices of blond odalisques and 
@@ -323,10 +288,6 @@ his fathers had ruled over all the kingdom of Calyz by the
 orient sea. Into his capital, on shaggy camels, the fierce 
 southern tribesmen would bring a levy of date-wine and 
 desert sapphires; and galleys from isles beyond the mom- 
-
-
-
- 9 
 
 ing would burden his wharves with their semi-annual trib 
 ute of spices and strange-dyed fabrics. . . . 
@@ -346,8 +307,8 @@ half-senile vehemence, waving the staff, and threatening
 to beat him for his tardiness. 
 
 Xeethra did not flinch before the staff. Again, in his 
-fancy, he was Amero, the young king of Calyz. Bewil 
-dered and astonished, he saw before him by the light of 
+fancy, he was Amero, the young king of Calyz. Bewildered 
+and astonished, he saw before him by the light of 
 the shaken lantern a foul and rancid-smelling ancient 
 whom he could not remember. Hardly could he under 
 stand the speech of Pomos; the man’s anger puzzled but 
@@ -365,19 +326,14 @@ kid, I shall flay you from thigh to shoulder.”
 Deeming that the silence of the youth was due to mere 
 obstinacy, Pomos began to beat him with the staff. At the 
 first blow, the bright cloud lifted from Xeethra’s mind. 
-Dodging the briarwood with agility, he tried to tell Por- 
-nos of the new pasture he had found among the hills. At 
+Dodging the briarwood with agility, he tried to tell Pornos
+of the new pasture he had found among the hills. At 
 this the old man suspended his blows and Xeethra went 
 on to tell of the strange cave that had conducted him to 
 an unguessed garden-land. To support his story, he 
 reached within his tunic for the blood-red apples he had 
 stolen; but, to his confoundment, the fruits were gone, 
 and he knew not whether he had lost them in the dark or 
-
-
-
-10  
-
 whether, perhaps, they had vanished by virtue of some 
 indwelling necromancy. 
 
@@ -387,10 +343,10 @@ as the youth went on; and when the story was done, he
 cried out in a trembling voice: 
 
 “Ill was this day, for you have wandered among en 
-chantments. Verily, there is no tarn such as you have de 
-scribed amid the hills; nor, at this season, has any herder 
-found such pasturage. These thin gs were illusion, de 
-signed to lead you astray; and the cave, I wot, was no 
+chantments. Verily, there is no tarn such as you have described 
+amid the hills; nor, at this season, has any herder 
+found such pasturage. These thin gs were illusion, designed 
+to lead you astray; and the cave, I wot, was no 
 honest cave but an entrance into hell. I have heard my 
 fathers tell that the gardens of Thasaidon, king of the 
 seven underworlds, lie near to the earth’s surface in this 
@@ -408,8 +364,8 @@ Once more, as he listened, the burning cloud returned
 upon Xeethra. 
 
 “Old man, I know you not,” he said perplexedly. 
-Then, using soft words of a courtly speech but half intelli 
-gible to Pomos: “It would seem that I have gone astray. 
+Then, using soft words of a courtly speech but half intelligible 
+to Pomos: “It would seem that I have gone astray. 
 Prithee, where lies the kingdom of Calyz? I am king 
 thereof, being newly crowned in the high city of Shathair, 
 over which my fathers have ruled for a thousand years.” 
@@ -424,11 +380,6 @@ long, and I, Pomos, have reared you as a son, and the
 goats have mothered you.” 
 
 “I must find my kingdom,” persisted Xeethra. “I am 
-
-
-
- 11 
-
 lost in darkness, amid uncouth things, and how I have 
 wandered here I can not remember. Old man, I would 
 have you give me food and lodging for the night. In the 
@@ -459,8 +410,8 @@ his homeward journey.
 He rose quietly from the litter of dry grasses that had 
 served him for a bed. Pomos, lying in a far comer, still 
 slept the sleep of age and senescence; and Xeethra was 
-careful not to awaken him. He was both puzzled and re 
-pelled by this unsavory ancient, who had fed him on the 
+careful not to awaken him. He was both puzzled and repelled 
+by this unsavory ancient, who had fed him on the 
 previous evening with coarse millet-bread and the strong 
 milk and cheese of goats, and had given him the hospital 
 ity of a fetid hut. He had paid little heed to the mum 
@@ -473,11 +424,6 @@ Leaving the hovel, Xeethra followed an eastward-wind
 ing footpath amid the stony hills. He knew not whither 
 the path would lead: but reasoned that Calyz, being the 
 easternmost realm of the continent , was situated 
-
-
-
-12  
-
 somewhere below the rising sun. Before him, in vision, 
 the verdant vales of his kingdom hovered like a fair mi 
 rage, and the swelling domes of Shathair were as morning 
@@ -502,7 +448,7 @@ an eastern road that ran from Cincor into the neighboring
 lowlands of the country of Zhel. 
 
 Sustained only by the vision of his lost kingdom, the 
-youth wandered for many moons throughout . 
+youth wandered for many moons throughout Xeethra. 
 People derided him when he spoke of his kingship and 
 made inquiry concerning Calyz; but many, thinking mad 
 ness a sacred thing, offered him shelter and sustenance. 
@@ -522,11 +468,6 @@ and he was only the simple goatherd, lost in foreign
 realms, and homesick for the barren hills of Cincor. 
 Then, once more, he remembered his kingship, and the 
 opulent gardens of Shathair and the proud palaces, and 
-
-
-
- 13 
-
 the names and faces of them that had served him follow 
 ing the death of his father, King Eldamaque, and his own 
 succession to the throne. 
@@ -555,8 +496,8 @@ amid the smaller stars even as he had once seen it from
 his palace-terrace in Shathair. 
 
 His heart leapt with the gladness of homecoming; but 
-much he marveled at the wildness and sterility of the re 
-gion through which he passed. It seemed that there were 
+much he marveled at the wildness and sterility of the region 
+through which he passed. It seemed that there were 
 no travelers coming and going from Calyz; and he met 
 only a few nomads, who fled at his approach like the 
 creatures of the waste. The highway was overgrown with 
@@ -572,13 +513,8 @@ past the lion with his father Eldamaque, hunting hyenas,
 and had remarked then the newness of the carving. 
 
 Now, from the high ridge of the border, he gazed down 
-upon Calyz, which had lain like a long verdant scroll be- 
-
-
-
-14  
-
-side the sea. To his wonderment and consternation, the 
+upon Calyz, which had lain like a long verdant scroll beside 
+the sea. To his wonderment and consternation, the 
 wide fields were sere as if with autumn; the rivers were 
 thin threads that wasted themselves in sand; the hills were 
 gaunt as the ribs of unceremented mummies; and there 
@@ -600,8 +536,8 @@ In the late afternoon he entered Shathair, which had
 been the white mistress of the orient sea. The streets and 
 the harbor were alike empty, and silence sat on the bro 
 ken house-tops and the ruining walls. The great bronze 
-obelisks were greened with antiquity; the massy marmo- 
-rean temples of the gods of Calyz leaned and slanted to 
+obelisks were greened with antiquity; the massy marmorean 
+temples of the gods of Calyz leaned and slanted to 
 their fall. 
 
 Tardily, as one who fears to confirm an expected thing, 
@@ -622,19 +558,14 @@ portico; and certain dubious beings, clothed in rotten tat
 ters, came sidling and crawling before him on the cracked 
 pavement. Pieces of their raiment dropped from them as 
 they moved; and about them was an unnamed horror of 
-
-
-
- 15 
-
 filth, of squalor and disease. When they neared him, 
 Xeethra saw that most of them were lacking in some 
 member or feature, and that all were marked by the 
 gnawing of leprosy. 
 
 His gorge rose within him and he could not speak. But 
-the lepers hailed him with hoarse cries and hollow croak- 
-ings, as if deeming him another outcast who had come to 
+the lepers hailed him with hoarse cries and hollow croakings, 
+as if deeming him another outcast who had come to 
 join them in their abode amid the ruins. 
 
 “Who are ye that dwell in my palace of Shathair?” he 
@@ -644,8 +575,8 @@ sume the throne of Calyz.”
 
 At this, a loathsome cackling and tittering arose among 
 the lepers. “We alone are the kings of Calyz,” one of 
-them told the youth. “The land has been a desert for cen 
-turies, and the city of Shathair has long lain unpeopled 
+them told the youth. “The land has been a desert for centuries, 
+and the city of Shathair has long lain unpeopled 
 save by such as we, who were driven out from other 
 places. Young man, you are welcome to share the realm 
 with us: for another king, more or less, is a small matter 
@@ -654,8 +585,8 @@ here.”
 Thus, with obscene cachinnations, the lepers jeered at 
 Xeethra and derided him; and he, standing amid the dark 
 fragments of his dream, could find no words to answer 
-them. However, one of the oldest lepers, well-nigh limb 
-less and faceless, shared not in the mirth of his fellows 
+them. However, one of the oldest lepers, well-nigh limbless 
+and faceless, shared not in the mirth of his fellows 
 but seemed to ponder and reflect; and he said at last to 
 Xeethra, in a voice issuing thickly from the black pit of 
 his gaping mouth: 
@@ -663,8 +594,8 @@ his gaping mouth:
 “I have heard something of the history of Calyz, and the 
 names of Amero and Eldamaque are familiar to me. In 
 bygone ages certain of the rulers were named thus; but I 
-know not which of them was the son and which the fa 
-ther. Haply both are now entombed, with the rest of their 
+know not which of them was the son and which the father. 
+Happily both are now entombed, with the rest of their 
 dynasty, in the deep-lying vaults beneath the palace.” 
 
 Now, in the graying twilight, other lepers emerged 
@@ -673,13 +604,7 @@ Hearing that he laid claim to the kingship of the desert
 realm, certain of their number went away and returned 
 presently, bearing vessels filled with rank water and 
 moldy victuals, which they proffered to Xeethra, bowing 
-
-
-
-16  
-
-low with a mummery as of chamberlains serving a mon 
-arch. 
+low with a mummery as of chamberlains serving a monarch. 
 
 Xeethra turned from them in loathing, though he was 
 famished and athirst. He fled through the ashen gardens, 
@@ -700,8 +625,8 @@ remembered so often during his journey. Bare were the
 ancient flower beds; the trees had rotted away in their 
 sunken basins; and the great flags of the pavement were 
 runneled and broken. But the veils of twilight were tender 
-upon the ruin; and the sea sighed as of yore under a pur 
-ple shrouding; and the mighty star Canopus climbed in 
+upon the ruin; and the sea sighed as of yore under a purple 
+shrouding; and the mighty star Canopus climbed in 
 the east, with the lesser stars still faint around him. 
 
 Bitter was the heart of Xeethra, thinking himself a 
@@ -722,11 +647,6 @@ remembered a boy who had herded goats under summer-
 stricken hills, and who, one day, had found a cavern that 
 opened portal-like on a land of strangeness and marvel. 
 Wandering there, the boy had eaten a blood-dark fruit 
-
-
-
- 17 
-
 and had fled in terror before the black-armored giants 
 who warded the garden. Again he was that boy; and still 
 he was the King Amero, who had sought for his lost 
@@ -756,8 +676,8 @@ Xeethra, I can not forget my former royalty and regain
 the content which I knew as a simple goatherd.” 
 
 “Harken, for there is another way,” said the shadow, 
-its voice muted like the murmur of a far ocean. “Thasai 
-don is the master of all sorceries, and a giver of magic 
+its voice muted like the murmur of a far ocean. “Thasaidon 
+is the master of all sorceries, and a giver of magic 
 gifts to those who serve him and acknowledge him as 
 their lord. Pledge your allegiance, promise your soul to 
 him; and in fee thereof the Demon will surely reward 
@@ -773,11 +693,6 @@ turn, will give me back my kingdom.”
 
 “There is more to be said,” resumed the shadow. “Not 
 wholly have you remembered your other life, but merely 
-
-
-
-18  
-
 those years that correspond to your present youth. Living 
 again as Amero, perhaps you will regret your royalty in 
 time; and if such regret should overcome you, leading 
@@ -832,8 +747,8 @@ Then, in a latter autumn, it seemed that the stars
 looked disastrously upon Calyz. Murrain and bligjit and 
 pestilence rode abroad as if on the wings of unseen drag 
 ons. The coast of the kingdom was beset and sorely har 
-ried by pirate galleys. Upon the west, the caravans com 
-ing and going through Calyz were assailed by redoubtable 
+ried by pirate galleys. Upon the west, the caravans coming 
+and going through Calyz were assailed by redoubtable 
 bands of robbers; and certain fierce desert peoples made 
 war on the villages lying near to the southern border. The 
 land was filled with turmoil and death, with lamentations 
@@ -841,17 +756,17 @@ and many miseries.
 
 Deep was Amero’s concern, hearing the distressful 
 complaints that were brought before him daily. Being but 
-little skilled in kingcraft, and wholly untried by the or 
-deals of dominion, he sought counsel of his courtlings but 
-was ill advised by them. The troubles of the realm multi 
-plied upon him; uncurbed by authority, the wild peoples 
+little skilled in kingcraft, and wholly untried by the ordeals 
+of dominion, he sought counsel of his courtlings but 
+was ill advised by them. The troubles of the realm multiplied 
+upon him; uncurbed by authority, the wild peoples 
 of the waste grew bolder, and the pirates gathered like 
 vultures of the sea. Famine and drouth divided his realm 
-with the plague; and it seemed to Amero, in his sore per 
-plexity, that such matters were beyond all medication; 
+with the plague; and it seemed to Amero, in his sore perplexity, 
+that such matters were beyond all medication; 
 and his crown was become a too onerous burden. 
 
-Striving to forget his own impotence and the woful 
+Striving to forget his own impotence and the woeful 
 plight of his kingdom, he gave himself to long nights of 
 debauch. But the wine refused its oblivion, and love had 
 now forfeited its rapture. He sought other divertisements, 
@@ -876,11 +791,11 @@ beguile the king from his grievous musings.
 One afternoon, as he sat heavily in his hall of audi 
 ence, there came to him a player of pipes who was clad in 
 tattered homespun. The eyes of the man were bright as 
-newly stirred embers, and his face was burned to a cin- 
-dery blackness, as if by the ardor of outland suns. Hailing 
+newly stirred embers, and his face was burned to a cindery 
+blackness, as if by the ardor of outland suns. Hailing 
 Amero with small servility, he announced himself as a 
-goatherd who had come to Shathair from a region of val 
-leys and mountains lying sequestered beyond the bourn of 
+goatherd who had come to Shathair from a region of valleys 
+and mountains lying sequestered beyond the bourn of 
 sunset. 
 
 “O king, I know the melodies of oblivion,” he said, 
@@ -898,8 +813,8 @@ hilltops. Subtly the pipes told of freedom and peace and
 forgetfulness lying beyond the sevenfold purple of outland 
 horizons. Dulcetly they sang of a place where the years 
 came not with an iron trampling, but were soft of tread as 
-a zephyr shod with flower petals. There the world’s tur 
-moil and troubling were lost upon measureless leagues of 
+a zephyr shod with flower petals. There the world’s turmoil 
+and troubling were lost upon measureless leagues of 
 silence, and the burdens of empire were blown away like 
 thistledown. There the goatherd, tending his flock on soli 
 tary fells, was possessed of tranquillity sweeter than the 
@@ -959,8 +874,7 @@ filled with the dream of a green silent valley, in a land
 lost beyond the turbid flowing of time with its wreckage 
 and tumult. 
 
-Now, as Amero followed the black piper, there de 
-scended upon him a sudden dimness; and he faltered in 
+Now, as Amero followed the black piper, there descended upon him a sudden dimness; and he faltered in 
 weird doubt and bewilderment. The street lights flickered 
 before him, and swiftly they expired in the gloom. The 
 
@@ -1631,8 +1545,7 @@ as the dead. He learned that the weasel-like familiar,
 whose name was Esrit, had undertaken to serve Vacham 
 for a given term, receiving in guerdon, at the full of each 
 moon, the blood of a living man chosen for redoubtable 
-strength and valor. And it was clear to Yadar that, in de 
-fault of some miracle, or sorcery beyond that of the nec 
+strength and valor. And it was clear to Yadar that, in default of some miracle, or sorcery beyond that of the nec 
 romancers, his days of life were limited by the moon’s pe 
 riod. For, other than himself and the masters, there was 
 no person in all that mansion who had not already passed 
@@ -1737,14 +1650,12 @@ Uldulla took up the furtive whispering:
 allotted term, and has imposed his authority upon us too 
 long. We, his sons, grow old: and we deem it no more 
 than rightful that we should inherit the stored treasures 
-and the magical supremacy of our father ere age has de 
-barred us from their enjoyment. Therefore we seek thy 
+and the magical supremacy of our father ere age has debarred us from their enjoyment. Therefore we seek thy 
 help in the slaying of Vacham.” 
 
 It came to Yadar, after brief reflection, that the killing 
 of the necromancer should be held in all ways a righteous 
-deed, and one to which he could lend himself without de 
-meaning of his valor or his manhood. So he said without 
+deed, and one to which he could lend himself without demeaning of his valor or his manhood. So he said without 
 demur: “I will help thee in this thing.” 
 
 
@@ -1817,8 +1728,7 @@ aimed, his eyes were blinded by the strange brightness of
 the mirror, as though a sun had blazed into them from its 
 depth across the shoulder of Vacham; and the blade 
 swerved and bit slantingly into the collar bone, so that the 
-necromancer, though sorely wounded, was saved from de 
-capitation. 
+necromancer, though sorely wounded, was saved from decapitation. 
 
 Now it seemed likely that Vacham had foreknown the 
 attempt to slay him, and had thought to do battle with his 
@@ -2396,8 +2306,7 @@ yon spoke in sere murmurs, but authoritatively, as a king
 who issues commands to his children. The dead emperors 
 and empresses stirred, like autumn leaves in a sudden 
 wind, and a whisper passed among them and went forth 
-from the palace, to be communicated at length, by de 
-vious ways, to all the dead of Cincor. 
+from the palace, to be communicated at length, by devious ways, to all the dead of Cincor. 
 
 All that night, and during the blood-dark day that fol 
 lowed, by wavering torches or the light of the failing sun, 
@@ -3038,8 +2947,7 @@ I had paid him well for the stolen chart, which he was too
 ignorant to read, suspecting only that it concerned a 
 treasure-trove. . . . 
 
-“Still later I trapped you in the same fashion, after de 
-laying you awhile with contrary winds and an adverse 
+“Still later I trapped you in the same fashion, after delaying you awhile with contrary winds and an adverse 
 
 
 calm. I have preserved you, however, for another doom 
@@ -3450,8 +3358,7 @@ Thulos; and the rusty, iron-wrought door sagged heavily
 
 
 inward on its loose hinges. At his feet there lay an extin 
-guished flambeau, dropped, no doubt, by one of the de 
-parting sextons. Seeing it, he realized that he had brought 
+guished flambeau, dropped, no doubt, by one of the departing sextons. Seeing it, he realized that he had brought 
 with him neither candle nor lanthom for the exploration 
 of the vaults, and found in that providential torch an aus 
 picious omen. 
@@ -3524,8 +3431,7 @@ sacrificed to them, and had made futile invultuations and
 death-charms against Xantlicha. In the end, she had died 
 of sheer chagrin and despair, or perhaps had slain herself 
 with some undetected poison . . . But, as was commonly 
-believed in Tasuun, a witch dying thus, with unslaked de 
-sires and frustrate cantraips, could turn herself into a 
+believed in Tasuun, a witch dying thus, with unslaked desires and frustrate cantraips, could turn herself into a 
 lamia or vampire and procure thereby the consummation 
 of all her sorceries . . . 
 
@@ -4184,8 +4090,7 @@ ments. The enigma of the missing mummies, over which
 he and his companions had puzzled vainly, was now re 
 solved. But the thing that battened upon Yanur was be 
 yond all mortal knowledge or surmise. It was some 
-ghoulish denizen of a nether world, set free by the de 
-mons of earthquake. 
+ghoulish denizen of a nether world, set free by the demons of earthquake. 
 
 Now, in the catalepsy that thralled him, he saw the 
 gradual settling of the piled d6bris in which the legs and 
@@ -4375,8 +4280,7 @@ mon a reverential farewell, he resumed his journey to Mi
 raab, wondering much as to the fortune that would befall 
 him in that sinful and many-legended city. 
 
-Famorgh, who had grown old and senile amid his de 
-baucheries, was the ruler of an aging, semi-desert land; 
+Famorgh, who had grown old and senile amid his debaucheries, was the ruler of an aging, semi-desert land; 
 and his court was a place of farsought luxury, of obliqui- 
 tous refinement and corruption. The youth Amalzain, ac 
 customed only to the simple manners, the rude virtues 
@@ -4445,8 +4349,7 @@ was unable to reply for a moment. Thereupon, seeing his
 hesitation, the great black woman lifted him in her naked 
 arms and carried him easily from the room and through 
 the palace halls. Angry, and full of discomfiture, he found 
-himself deposited in a chamber hung with shameless de 
-signs, where, amid the fuming of aphrodisiac vapors, the 
+himself deposited in a chamber hung with shameless designs, where, amid the fuming of aphrodisiac vapors, the 
 princess regarded him with luxurious gravity from a 
 couch of fire-bright scarlet. She was small as a woman of 
 the elk-folk, and voluptuous as a coiled lamia. The in 
@@ -4681,8 +4584,7 @@ and unreflecting metal; and anon he heard the voice of
 Sabmon chanting without pause the powerful words of an 
 antique formula of exorcism; and now from between the 
 oratory curtains there issued the intolerable pungency of 
-burning spices, such as are employed to drive away de 
-mons. 
+burning spices, such as are employed to drive away demons. 
 
 Then Amalzain perceived, without lifting his eyes from 
 the mirror, that the sendings of Ulua had vanished like 
@@ -5168,8 +5070,7 @@ chrally in the gloom of the cedars.
 Phariom watched the priests as they vanished within 
 the portals, carrying the girl Arctela like phantoms who 
 bear a phantom burden. The broad area of pavement be 
-tween the recoiling houses and the temple was now de 
-serted, but he did not venture to cross it in the blare of 
+tween the recoiling houses and the temple was now deserted, but he did not venture to cross it in the blare of 
 betraying daylight. Circling the area, he saw that there 
 were several other entrances to the great fane, all open 
 and unguarded. There was no sign of activity about the 
@@ -5333,8 +5234,7 @@ learned air. “But I consider that such beliefs are mere su
 perstition. There is nothing to confirm them in the real 
 nature of corpse-eating entities. So far, I have never be 
 held Mordiggian, either sleeping or awake; but in all like 
-lihood he is merely a common ghoul. I know these de 
-mons and their habits. They differ from hyenas only 
+lihood he is merely a common ghoul. I know these demons and their habits. They differ from hyenas only 
 through their monstrous shape and size, and their immor 
 tality.” 
 
@@ -5518,8 +5418,7 @@ was called Narghai. At last, above the others, the grave
 accents of the man addressed only as the Master were 
 clearly audible: 
 
-“I do not altogether approve. ... It will delay our de 
-parture . . . and the two must ride on one dromedary. 
+“I do not altogether approve. ... It will delay our departure . . . and the two must ride on one dromedary. 
 But take her, Vemba-Tsith, if you can perform the neces 
 sary spells unaided. I have no time for a double incanta 
 tion. ... It will be a good test of your proficiency.” 
@@ -5865,8 +5764,7 @@ Many were necromancers and magicians of ,
 and the infamy and marvel of their doings were legended 
 everywhere in the latter days. But among them all there 
 was none greater than Namirrha, who imposed his black 
-yoke on the cities of Xylac, and later, in a proud de 
-lirium, deemed himself the veritable peer of Thasaidon, lord 
+yoke on the cities of Xylac, and later, in a proud delirium, deemed himself the veritable peer of Thasaidon, lord 
 of Evil. 
 
 Namirrha had built his abode in Ummaos, the chief 
@@ -7169,8 +7067,8 @@ satiable as Hell’s own flame, his old hatred rose within
 him; and he drew the enchanted sword and began to hew 
 therewith at the reflection. Sometimes, because of the 
 curse laid upon him, and the impious transmigration 
-which he had performed, he thought himself Zotulla war 
-ring with the necromancer; and again, in the shiftings of 
+which he had performed, he thought himself Zotulla warring 
+with the necromancer; and again, in the shiftings of 
 his madness, he was Namirrha smiting at the emperor; 
 and then without name, he fought a nameless foe. And 
 soon the sorcerous blade, though tempered with formida 
@@ -7238,8 +7136,7 @@ untarily from certain couples who were too shameless or
 drunken to seek the shadows of privacy for their dalli 
 ance. A sudden satiety had claimed him. He felt himself 
 strangely withdrawn from the morass of wine and flesh 
-into which, not long before, he had still plunged with de 
-light. He seemed as one who stands on an alien shore, be 
+into which, not long before, he had still plunged with delight. He seemed as one who stands on an alien shore, be 
 yond waters of deepening separation. 
 
 “What ails you, Valzain? Has a vampire sucked your 
@@ -7416,8 +7313,7 @@ night to a place so desolate and eerie?
 Most credibly, she was a wanton who had come out to 
 keep a rendezvous ami d the tombs. There were, he knew, 
 certain perverse debauchees who required sepulchral sur 
-roundings and f urnishings for the titillation of their de 
-sires. 
+roundings and f urnishings for the titillation of their desires. 
 
 “Perhaps you are waiting for some one,” he suggested. 
 “I do not wish to intrude, if such is the case.” 
@@ -7729,8 +7625,8 @@ liquors of Yoros and the blood of the kingdom’s enemies.
 In that long and lusty amity, broken only by such passing 
 quarrels as concerned the division of a wine-skin or the 
 apportioning of a wench, they had served amid the sol 
-diery of King Hoaraph for a strenuous decade. Savage war 
-fare and wild, fantastic hazard had been their lot. The re 
+diery of King Hoaraph for a strenuous decade. Savage warfare 
+and wild, fantastic hazard had been their lot. The re 
 nown of their valor had drawn upon them, ultimately, the 
 honor of Hoaraph’s attention, and he had assigned them 
 for duty among the picked warriors that guarded his pal 
@@ -7958,8 +7854,8 @@ bom beasts that deafened them with its volume.
 
 Naught, however, was visible in the gloom, whose cir 
 cle now began to move swiftly, without widening or con 
-tracting. To maintain their position in its center, the war 
-riors and their charges were compelled to leave the path 
+tracting. To maintain their position in its center, the warriors 
+and their charges were compelled to leave the path 
 and to flee northwardly amid the harsh ridges and hol 
 lows. All around them the baleful noises continued, keep 
 ing, as it seemed, the same interval of distance. 
@@ -8090,8 +7986,7 @@ three-inch talons, sharp as those of some beast or bird of
 prey. 
 
 It seemed, however, that Rubalsa and Simban were 
-less abhorrently impressed, or had not noticed these de 
-tails: for both made haste to acknowledge the abbot’s 
+less abhorrently impressed, or had not noticed these details: for both made haste to acknowledge the abbot’s 
 proffer of hospitality and to urge acceptance upon the vis 
 ibly reluctant warriors. To this urging, Zobal and Cushara 
 
@@ -8231,8 +8126,7 @@ adumbrations of the vessels they carried! From Ujuk,
 however, a heavy, misshapen umbrage fell and lay like a 
 prone incubus beside his chair. 
 
-“Methinks we have come to a hatching place of de 
-mons,” whispered Zobal to Cushara. “We have fought 
+“Methinks we have come to a hatching place of demons,” whispered Zobal to Cushara. “We have fought 
 many men, thou and I, but never such as wanted whole 
 some shadows.” 
 
@@ -8304,8 +8198,8 @@ tomb.
 With his departure, it seemed that the black slumber of 
 a dead antiquity settled upon all the building. Rubalsa 
 and Simban, apparently, slept without stirring, for there 
-was no sound from behind the hempen arras. The war 
-riors spoke only in whispers, lest they should arouse the 
+was no sound from behind the hempen arras. The warriors 
+spoke only in whispers, lest they should arouse the 
 girl. Their weapons held ready for instant use, they 
 watched the shadowy hall with a jealous vigilance: for 
 they did not trust the quietude about them, being well as 
@@ -8409,8 +8303,8 @@ how he must ease that desolate anguish.
 
 Still the whispering rose and fell; and Zobal forgot that 
 he had left Cushara to a lone vigil beset with hellish dan 
-gers; forgot that the voice itself might well be only a de 
-vice of demons to lure him astray. He began to search the 
+gers; forgot that the voice itself might well be only a device 
+of demons to lure him astray. He began to search the 
 courtyard, his keen ears alert for the source of the sound; 
 and, after some dubitation, he decided that it issued from 
 the ground in a comer opposite the gateway. Here, amid 
@@ -8441,11 +8335,7 @@ mummified bodies; and plainly the place was the cata
 comb of the monastery. 
 
 The whispering had ceased, and Zobal peered about 
-him in bewilderment not unmixed with horror. 
-
-
-
-  
+him in bewilderment not unmixed with horror.  
 
 “I am here,” resumed the dry, susurrous voice, issuing 
 from amid the heaps of mortal remnants on the shelf 
@@ -8491,14 +8381,9 @@ comb we had delved for our resting place. They died with
 none to replace them. I alone survived in the end: for I 
 had won such sanctity as ensures longevous days, and 
 had also become a master of the arts of sorcery. Time 
-
-
-
-  
-
 was a demon that I held at bay, like one who stands in a 
-charmed circle. My powers were still hale and unim 
-paired; and I lived on as an anchorite in the monastery. 
+charmed circle. My powers were still hale and unimpaired; 
+and I lived on as an anchorite in the monastery. 
 
 “At first the solitude was far from irksome to me, and I 
 was wholly absorbed in my study of the arcana of nature. 
@@ -8682,8 +8567,8 @@ to a few worn blocks, and the gibbous moon shone in as
 the abbey of Puthuum crumbled silently to a gapped and 
 roofless ruin! 
 
-All this had occurred in a few moments; but the war 
-riors found no room for wonder. By the livid light of the 
+All this had occurred in a few moments; but the warriors 
+found no room for wonder. By the livid light of the 
 moon, which peered down like die face of a worm- 
 gnawed cadaver, they looked upon a scene so hideous 
 that it caused them to forget all else. Before them, on a 
@@ -9029,8 +8914,7 @@ dreaded by all who had occasion to journey between
 Yoros and Tasuun. 
 
 The sun climbed to its meridian, searching with ruth 
-less beams the nethermost umbrage of the strait, steep de 
-files. The fine ash-light sand was no longer stirred by any 
+less beams the nethermost umbrage of the strait, steep defiles. The fine ash-light sand was no longer stirred by any 
 puff of wind. 
 
 Now the road ran downward, following the course of 
@@ -9273,8 +9157,7 @@ heard a singular drumlike throbbing, as if the heart of the
 huge monster had become audible. 
 
 They knew only that a strange horror not of earth, or 
-but partially of earth, was before them. The sight de 
-prived them of thought and memory. Least of all did they 
+but partially of earth, was before them. The sight deprived them of thought and memory. Least of all did they 
 remember the storyteller in Faraad, and the tale he had 
 told concerning the hidden tomb of Ossaru and Nioth 
 Korghai, and the prophecy of the tomb’s finding by those 
@@ -9868,8 +9751,7 @@ tion of the catacombs.
 “It would seem, O Nushain, that you have doubted 
 your own horoscope,” said the guide, with a certain 
 irony. “However, even a bad astrologer, on occasion, may 
-read the heavens aright. Obey, then, the stars that de 
-creed your journey.” 
+read the heavens aright. Obey, then, the stars that decreed your journey.” 
 
 Henceforward, Nushain followed the mummy without 
 recalcitrance. Returning to the chamber in which stood 
@@ -9994,8 +9876,7 @@ mingled with a million serpents, writhing endlessly to and
 fro in hideous agitation. From all parts of that lofty island 
 the hissing came, and the serpents, with foully mottled 
 volumes, coiled, crept and slithered upon it everywhere; 
-and no single yard of its surface was free from their de 
-filement, or clear for human treading. 
+and no single yard of its surface was free from their defilement, or clear for human treading. 
 
 Turning seaward in his revulsion, Nushain found the 
 merman and the barge waiting close at hand. Hopelessly 
@@ -10486,8 +10367,7 @@ was about to hail these men, some of whom were dressed
 as humble sailors and others in the fashion of rich mer 
 chants. But he heard a laughter of strange voices, high 
 and shrill and somehow evil, that seemed to fall from 
-above; and looking up he saw that many people were de 
-scending a sort of stairway in the cliffs that enclosed the 
+above; and looking up he saw that many people were descending a sort of stairway in the cliffs that enclosed the 
 beach. 
 
 The people drew near, thronging about the barge and 
@@ -11385,8 +11265,7 @@ was a division of opinion as to whether Adompha or the
 fiend Thasaidon could be thanked for so salutary a rid 
 dance; and in consequence, the king of Sotar and the lord 
 of the seven hells were both feared and respected as 
-never before. Only the most redoubtable of men or de 
-mons could have made away with Dwerulas, who was said 
+never before. Only the most redoubtable of men or demons could have made away with Dwerulas, who was said 
 to have lived through a whole millenium never sleeping 
 for one night, and crowding all his hours with iniquities 
 and sorceries of a sub-tartarean blackness. 
@@ -12058,11 +11937,6 @@ Then, like things of nightmare, the monsters began to
 invade the hatches and assail the ports, clawing with hell 
 ish talons at the men who opposed them. And, being 
 somewhat hampered by their wings, they were driven 
-
-
-
-  
-
 back with spears and arrows, but returned again and 
 again in a thickening press without number, cheeping 
 with a faint and batlike sound. It was plain that they were 
@@ -12077,8 +11951,8 @@ ing in through their oarholes as the ships sank deeper be
 neath an ever-gathering weight. 
 
 All night, at the ports and hatches, the men of Euvoran 
-fought the vampires, taking turn in shifts when they wea 
-ried. Many of them were seized and their blood sucked 
+fought the vampires, taking turn in shifts when they wearied. 
+Many of them were seized and their blood sucked 
 before the eyes of their fellows as the night wore on; and 
 the vampires, it seemed, were not to be slain by mortal 
 weapons, though the blood they had gorged came forth in 
@@ -12105,17 +11979,12 @@ and the ship’s captain, who was with him at supper,
 guarded a second port with his claymore; and the others 
 were held by two of the king’s eunuchs, armed with scimi 
 tars. In this warfare they were favored by the smallness of 
-
-
-
-  
-
 the ports, which could hardly in any case have allowed the 
 free passages of their winged assailants. And, after light 
 less hours of tedious, horrid struggle, the darkness became 
 thinn ed with brown twilight, and the vampires lifted from 
 the vessels in a black cloud and returned to their caves in 
-the mile-high cliffs of that unname d island. 
+the mile-high cliffs of that unnamed island. 
 
 Heavy was the heart of Euvoran within him when he 
 surveyed the damage done to his proud argosies of war: 
@@ -12128,8 +11997,8 @@ empty wine-skins after the greedy drinking of the great
 bats. And the sails and banners were shredded into rags; 
 and everywhere, from beak to rudder of Euvoran’s gal 
 leys, there was the stain and reek of a Stymphalian foul 
-ness. So, lest another eve should find them within wing- 
-shot of that accursed isle, the king ordered his remaining 
+ness. So, lest another eve should find them within wing-shot 
+of that accursed isle, the king ordered his remaining 
 captains to weigh anchor; and the other ships, with sea 
 water still awash in their orlops, and some with drowned 
 rowers still at the oars of their nether banks, drew slowly 
@@ -12152,18 +12021,13 @@ deeplier into the regions of myth and story.
 
 Bravely they drove into mornings of amaranth crossed 
 by gilded lories, and noontides of darkly ardent sapphire 
-where the rose flamingos went before them to lost, invio- 
-
-
-
-  
-
-late strands. The stars changed above them, and under 
+where the rose flamingos went before them to lost, inviolate 
+strands. The stars changed above them, and under 
 the alien-figured Signs they heard the wild, melancholy 
 crying of swans that flew southward fleeing the winter of 
-realms indiscoverable, and seeking the s umme r in track 
+realms indiscoverable, and seeking the summer in track 
 less worlds. And they held speech with fabulous men who 
-wore for mantles the ell-wide pennons of the roc, tr ailing 
+wore for mantles the ell-wide pennons of the roc, trailing 
 far on the earth behind them; and men who arrayed 
 themselves in epyomis plumes. And they spoke also with 
 antic people whose bodies were covered with a down like 
@@ -12199,16 +12063,11 @@ several of his men.
 The birds, even the largest, were patently timid and in 
 offensive; for when the king landed on the beach, the very 
 trees appeared to take flight, so numerous were the fowl 
-that soared and flew inland, or sought the crags and pin 
-nacles that rose beyond bowshot. None remained of the 
-
-
-
-  
-
+that soared and flew inland, or sought the crags and pinnacles 
+that rose beyond bowshot. None remained of the 
 multitude visible shortly before; and Euvoran marveled at 
 such c unnin g; and moreover he was somewhat exasper 
-ated, for he wished not to depart without brin g in g down a 
+ated, for he wished not to depart without bringing down a 
 trophy of his skill, even though he should fail to find the 
 gazolba itself. And he deemed the behavior of the birds 
 all die more curious because of the island’s solitude: for 
@@ -12246,13 +12105,8 @@ con would have carried a small leveret. The kin g was
 wholly helpless, and he had dropped his longbow beneath 
 the onset of the birds, and his blowgun had been shaken 
 loose from the girdle at which it depended, and all his 
-darts and arrows were spilled. And he had no weapon re- 
-
-
-
-  
-
-maining, other than a sharp misericordia; and this he 
+darts and arrows were spilled. And he had no weapon remaining, 
+other than a sharp misericordia; and this he 
 could not use to any purpose against his captor in mid 
 air. 
 
@@ -12274,8 +12128,8 @@ of red-gold and yellow-ivory wrought in the form of a
 new crescent arching upward. The perch was supported 
 between posts of black jasper fleckled as if with blood, 
 and upon it there sat a most gigantic and uncommon 
-bird, eyeing Euvoran with a grim and dreadful and aus 
-tere mien, as an emperor migjht eye the gutter scum that 
+bird, eyeing Euvoran with a grim and dreadful and austere mien, 
+as an emperor migjht eye the gutter scum that 
 his guards have hailed before him for some obscene 
 offense. The plumage of the bird was Tyrian purple, and 
 his beak was like a mighty pickaxe of pale bronze that 
@@ -12295,11 +12149,6 @@ his alarm was not lessened when he saw that many other
 birds of a size inferior only to his were sitting about the 
 chamber on less costly and less elevated perches, even as 
 grandees of the realm might sit in the presence of their 
-
-
-
-  
-
 sovereign. And behind Euvoran, like guards, there stood 
 together with its fellow the creature that had rapt him to 
 the tower. 
@@ -12347,18 +12196,14 @@ In this my tower, as is right and proper, I keep the bodies
 of men that my taxidermists have stuffed for me; but 
 truly, it is not allowable nor sufferable that man should 
 
-
-
-  
-
-do thus to birds. So, for the sake of justice and retribu 
-tion, I shall presently commit thee to the care of my taxi 
+do thus to birds. So, for the sake of justice and retribution, 
+I shall presently commit thee to the care of my taxi 
 dermists. Indeed, methinks that a stuffed king (since even 
 the vermin have kings) will serve to enhance my collec 
 tion.” 
 
-After that, he addressed Euvoran’s guards and en 
-joined them: “Away with this vileness. Confide it to the 
+After that, he addressed Euvoran’s guards and enjoined 
+them: “Away with this vileness. Confide it to the 
 man-cage, and maintain a strict watch before it.” 
 
 Euvoran, urged and directed by the pecking of his 
@@ -12371,8 +12216,7 @@ cage, and the birds bolted the door upon him with their
 claws, which seemed to have the deftness of fingers. 
 Thereafter one of them remained beside the cage, eyeing 
 Euvoran vigilantly through the spaces of the bars; and the 
-other flew away through a great window and did not re 
-turn. 
+other flew away through a great window and did not return. 
 
 The king sat down on a litter of straw, since the cage 
 contained no better provision for his comfort. Despair 
@@ -12393,13 +12237,8 @@ weapons and thuddings as of boulders loosened from the
 crag. So Euvoran knew that his sailors and soldiers, hav 
 ing seen him borne into captivity in the tower, were as 
 sailing the place in an effort to succor him. And the 
-noises waxed, mounting to a most tremendous and atro- 
-
-
-
-  
-
-cious din, and there were cries as of people mortally 
+noises waxed, mounting to a most tremendous and atrocious 
+din, and there were cries as of people mortally 
 wounded, and a vengeful shrilling as of harpies in battle. 
 Then, presently, the clamor ebbed away, and the shout 
 ings grew faint, and Euvoran knew that his men had 
@@ -12425,8 +12264,8 @@ moon rose, being but little past the full, and poured a
 spectral quicksilver into the room, and paled the eyes of 
 the bird; and Euvoran conceived a desperate plan. 
 
-His captors, deeming all his weapons lost, had ne 
-glected to remove from his girdle the misericordia, which 
+His captors, deeming all his weapons lost, had neglected 
+to remove from his girdle the misericordia, which 
 was long and double-edged and needle-sharp at the tip. 
 And stealthily he gripped the hilt of the misericordia 
 under his mantle, and feigned a sudden illness with 
@@ -12441,13 +12280,8 @@ and struck quickly at the outstretched throat of the bird.
 Shrewdly the thrust went home, piercing the deepest 
 veins, and the squawking of the bird was choked by his 
 own blood; and he fell, flapping noisily, so that Euvoran 
-feared that all the occupants of the tower would be awak- 
-
-
-
-  
-
-ened by the sound. But it seemed that his fears were 
+feared that all the occupants of the tower would be awakened 
+by the sound. But it seemed that his fears were 
 bootless; for none came to the chamber; and soon the 
 flappings ceased, and the nyctalops lay still in a great 
 heap of ruffled feathers. Thereupon the king proceeded 
@@ -12490,11 +12324,6 @@ and chirped drowsily, as if aware of his presence; but none
 challenged him. And he went down to a third room, 
 and was startled to see therein the standing figures of 
 many men, some in the garb of sailors, and others clad 
-
-
-
-  
-
 like merchants, and others nude and ruddled with bright 
 ores like savages. And the men were still and stark as if 
 enchanted; and the king feared them little less than he 
@@ -12511,8 +12340,8 @@ nightfowl similar to that whose skin was worn by the
 king. Here, indeed, was his greatest peril and the supreme 
 trial of his courage; for the birds eyed him alertly with 
 their fiery golden orbs; and they greeted him with 
-a soft whoo-whooing as of owls. And the knees of Eu- 
-voran knocked together behind4he birdshanks; but, imi 
+a soft whoo-whooing as of owls. And the knees of Euvoran 
+knocked together behind the birdshanks; but, imi 
 tating the sound in reply, he passed among the guards 
 and was not molested by them. And, reaching an open 
 portal of the tower, he saw the moonlit rock of the crag 
@@ -12535,17 +12364,12 @@ gave the jeopardy in which their arrows had placed him.
 But he thought it best to refrain from attacking the tower, 
 and to quit the isle with all dispatch. So, returning to his 
 flagship, he ordered all his captains to set sail immedi 
-ately; for, knowing the baleful power of the bird-mon- 
-
-
-
-  
-
-arch, he was more than apprehensive of pursuit; and he 
+ately; for, knowing the baleful power of the bird-monarch, 
+he was more than apprehensive of pursuit; and he 
 deemed it well to place a wide interval of sea between his 
 vessels and that isle ere dawn. So the galleys drew from 
-the tranquil harbor, and rounding a northeastern promon 
-tory, they went due east in a course contrary to the 
+the tranquil harbor, and rounding a northeastern promontory, 
+they went due east in a course contrary to the 
 moon. And Euvoran, sitting in his cabin, regaled himself 
 with a variety and plenitude of viands to make up for his 
 fasting in the man-cage; and he drank a whole gallon of 
@@ -12563,8 +12387,8 @@ chaos. The ships were sundered in the gloom and were
 borne far apart; and at daybreak the king’s quadrireme 
 was alone in a prone-rushing tumult of mingled wave and 
 cloud; and the mast was shattered, together with most of 
-the beefwood oars; and the vessel was a toy for the de 
-mons of the tempest. 
+the beefwood oars; and the vessel was a toy for the demons 
+of the tempest. 
 
 For three days and nights, with no glimmer of sun or 
 star discerned through the ever-boiling murk, the vessel 
@@ -12631,13 +12455,8 @@ he pursued the gazolba.
 
 Beyond the cleft in the high and rugged crags, he 
 found a sheltered valley with quiet-flowing springs, and 
-woods of exotic leaf, and fragrant orient shrubs in bios- 
-
-
-
-  
-
-som. Here, from bough to bough before his astounded 
+woods of exotic leaf, and fragrant orient shrubs in blossom. 
+Here, from bough to bough before his astounded 
 eyes, there darted great numbers of fowl that wore the 
 gaudy plumage of the gazolba; and among them he was 
 unable to distinguish the one he had followed, deeming it 
@@ -12655,8 +12474,8 @@ heart, Euvoran bethought him that a single bird from out
 the flock would still stand as the emblem and the talisman 
 of his royalty in Ustaim, and would vindicate his quest 
 among the isles of dawn. So, with a valiant hurling of 
-sticks and stones, he tried to bring down one of the gazol- 
-bas. And ever before him as he chased them, the birds 
+sticks and stones, he tried to bring down one of the gazolbas. 
+And ever before him as he chased them, the birds 
 flew from tree to tree with a horrid shrieking, and a flurry 
 of plumes that wrought an imperial splendor on the air. 
 And at length, by his own good aim or the cast of chance, 
@@ -12671,8 +12490,8 @@ the same fowl. He came toward Euvoran, shouting indis
 tinctly through his matted beard; and the king beheld him 
 with surprise and anger, and cried loudly: 
 
-“Vile serf, how darest thou to kill the bird that is sa 
-cred to the kings of Ustaim? And knowest thou not that 
+“Vile serf, how darest thou to kill the bird that is sacred 
+to the kings of Ustaim? And knowest thou not that 
 only the kings may wear the bird for headgear? I, who 
 am King Euvoran, shall hold you to a dire accounting for 
 these deeds.” 
@@ -12680,13 +12499,8 @@ these deeds.”
 At this, eyeing Euvoran strangely, the man laughed a 
 long and derisive laugh, as if he deemed the king a per 
 son somewhat addled in his wits. And he seemed to find 
-much merriment in the aspect of the king, whose gar- 
-
-
-
-  
-
-ments were draggled and were stiff and stained with the 
+much merriment in the aspect of the king, whose garments 
+were draggled and were stiff and stained with the 
 drying sea water, and whose turban had been snatched 
 away by the felon waves, leaving his baldness without dis 
 guise. And when he had done laughing, the man said: 
@@ -12727,13 +12541,8 @@ never again should he see the marble houses of Ara-
 moam, nor live in pleasant luxury, nor administer the 
 dooms of law between the torturer and the executioner in 
 the hall of justice, nor wear the gazolba-crown amid the 
-plaudits of his people. So, being not utterly bereft of rea- 
-
-
-
-  
-
-son, he bowed him to his destiny. And he said to die sea 
+plaudits of his people. So, being not utterly bereft of reason, 
+he bowed him to his destiny. And he said to die sea 
 captain: 
 
 “There is sense in what you say. Therefore, lead on.” 
@@ -12764,12 +12573,16 @@ made him a headdress from the skin and plumes of the
 gazolba, even as Naz Obbamar had done. And this was 
 the fashion of their days till the end. 
 
-# OC intro 1
-
 The first to guard the fire
 against the seeping death of the cold
 never imagined one day it might consume them.
 
-In the first days the world formed as a cold crust around a hot miasma of poisonous gas as an egg's shell forms around its yolk. The first beings gasped for breath and huddled together on the frozen expanse. They learned to build shelter and to hunt. Slowly the crust warmed, guysers of gas turned sleet to gentle rain. From the newly formed lakes and crystal mountains, vegetation grew, and beasts came to live in the young forests. Civilization surrounded the wilds and many mysteries were catalogued. The wisest of the city dwellers came to honor the dead with obelisks in their names, made exchange currency to honor them in funeral towers and to pay dowery. As obelisk rose and generations upon generations passed from the earth, the city dwellers forgot who built the obelisks. 
+In the first days the world formed as a cold crust around a hot miasma of poisonous gas as an egg's shell forms around its yolk. 
+The first beings gasped for breath and huddled together on the frozen expanse. 
+They learned to build shelter and to hunt. Slowly the crust warmed, guysers of gas turned sleet to gentle rain. 
+From the newly formed lakes and crystal mountains, vegetation grew, and beasts came to live in the young forests. 
+Civilization surrounded the wilds and many mysteries were catalogued. 
+The wisest of the city dwellers came to honor the dead with obelisks in their names, made exchange currency to honor them in funeral towers and to pay dowery. 
+As obelisk rose and generations upon generations passed from the earth, the city dwellers forgot who built the obelisks. 
 
 

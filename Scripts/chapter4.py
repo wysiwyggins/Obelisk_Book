@@ -1,5 +1,6 @@
 import random
 import potions
+import chapterQuote
 import io
 
 def getAdjective():
@@ -13,15 +14,19 @@ def getAdjective():
 with open("../Codex/_project/_markdown/Potions.md", "w") as myfile:
     myfile.write("---\ntitle: Potions\ntype: bodymatter\n---\n")
     myfile.write("\n::: chapter:chapter-four\n")
+    myfile.write("\n::: section:page classes:\"break-after\"\n")
     myfile.write("# Potions\n\n")
+    myfile.write(chapterQuote.generateQuote())
+    myfile.write("\n::: exit:page\n")
     for x in range(50):
-        #adjective = getAdjective()
-        #myfile.write("## " + adjective.capitalize() + " Potions-\n")
-        myfile.write("\n\n")
+        myfile.write("\n::: section:table-"+str(x)+" classes:\"break-after\"\n")
+        adjective = getAdjective()
+        myfile.write("\n*" + adjective.capitalize() + " Potions-*\n")
         myfile.write("| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |\n")
         myfile.write("|-|-|-|-|-|\n")
-        for y in range(14):
+        for y in range(13):
             newPotion = potions.Potion()
             newPotion.generatePotion()
             myfile.write(str(newPotion))
+        myfile.write("\n::: exit:table-"+str(x)+"\n\n")
     myfile.write("::: exit:chapter-four\n")
