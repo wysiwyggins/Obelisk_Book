@@ -1,5 +1,4 @@
 # https://www.snh.cc/100_Herb_List.pdf
-
 Alfalfa
 Aloe vera
 Apple
@@ -99,23 +98,19 @@ Wood Betony
 Wormwood
 Yarrow
 Yellow Dock
-
 #translated from https://raw.githubusercontent.com/yao8839836/PTM/master/data/herbs_list.txt
-
-starfish
+Starfish
 Mimosa
 Huashan Ginseng
 Bezoar
 Snake slough
 grasshopper
-Soothing medicine
 Purple Bay Teeth
-quail
+Quail
 Lark
 Chestnut
 Tonic
-Yin tonic
-raspberry
+Raspberry
 pigeon
 Gecko
 Wolfberry
@@ -130,12 +125,8 @@ Astragalus
 Yam
 wheat
 Bergenia
-Close at night
 Pig bile
-Purple River Car
 Bupleurum
-live alone
-Windproof
 Pueraria
 Qianghuo
 Cohosh
@@ -168,7 +159,6 @@ Orange
 Orchid Vanilla
 Qian Hu
 Shanzi Mushroom
-Ejaculatory
 Lycoris
 Araceae
 Corrugated
@@ -182,7 +172,6 @@ Zhuru
 Bamboo leaves
 Ba Li Ma
 Prunella vulgaris
-Hundred
 Rhododendron odorifera
 Manshanhong
 Hibiscus arborescens
@@ -195,7 +184,6 @@ Passionflower
 citron
 Rhododendron xinanensis
 pomelo
-Cough and asthma medicine
 Stalactite
 Rhododendron purpurea
 Aster
@@ -205,14 +193,12 @@ Tinglizi
 Khumbu
 Seaweed
 Water chestnuts
-Fat sea
 Wood butterfly
 Honey locust
 Mustard Seeds
 Celestial shell
 Alum
-castor bean
-Bo fall back
+Castor bean
 Toad
 Smelly peony
 Soybeans
@@ -230,7 +216,7 @@ Abutilon
 Abutilon
 Bolster
 realgar
-tobacco
+Tobacco
 Benzoin
 Borneol
 Nine-section calamus
@@ -248,7 +234,7 @@ Chuan Neem
 Kawamuka
 Hedgehog skin
 Big belly skin
-garlic
+Garlic
 Sword Beans
 Cardamom
 Bergamot
@@ -349,7 +335,6 @@ Natural copper
 Lobelia
 萆薢
 tea
-Car front
 Plantain
 Plantago
 Chixiaodou
@@ -362,7 +347,6 @@ Winter Melon Peel
 Mallow
 Mallow
 Solo dishes
-Defend oneself
 Fenyi
 Sea sands
 gourd
@@ -421,7 +405,6 @@ Celery
 Tribulus
 Golden stone
 Antelope horn
-Beanie
 Apocynum venetum
 Rauvolu
 Hibiscus
@@ -703,7 +686,7 @@ grape
 Ginseng
 Taizishen
 Codonopsis
-American Ginseng
+Ginseng
 Caramel
 Roasted Licorice
 Zhihongqi
@@ -890,8 +873,6 @@ Spicy Polygonum
 Two-sided needle
 Solanum nigrum
 Mao Dongqing
-People in White
-Triangular
 Notoginseng
 San Ye Qing
 Yarrow
@@ -1471,7 +1452,7 @@ Borate(1-)
 1,10-Phenanthroline
 1,3-Benzenediol
 Sodium peroxide
-C.I. Mordant Black 11
+Mordant Black
 monosodium salt
 1-Butanaminium
 Glycine
@@ -1570,9 +1551,7 @@ Potassium sodium 2
 Potassium ethanedioate--water (2/1/1)
 Cobalt(2+) chloride--water (1/2/6)
 Amylodextrin
-
 # https://leicester.figshare.com/articles/dataset/Italian_Book_of_Secrets_Database_/10082456
-
 Southernwood
 Southernwood flowers
 Bitter wormwood
@@ -1596,8 +1575,11 @@ Muriatic Acid
 Nitric Acid
 Sulphuric acid (dilute)
 Sulphuric acid (concentrated)
-Sweet sedge, Myrtle sedge/or Sweet cane or great Galingal (JF)
-Root of sweet sedge, Myrtle sedge
+Sweet sedge
+Myrtle sedge/or Sweet cane 
+Great Galingal
+Root of sweet sedge
+Myrtle sedge
 Water
 Aperetif waters
 Radish water
@@ -1790,8 +1772,9 @@ Earth-apple roots
 Coxcomb/ woolflower.
 Gum from the giant fennel tree.
 Wake robin
-Arsenic. rats-bane
-Yellow arsenic-arsenic mixed with sulpher.
+Arsenic
+Rats-bane
+Yellow arsenic-arsenic mixed with sulpher
 Wormwood
 Wormwood seeds
 Tame-poison
@@ -1858,7 +1841,8 @@ Wound-wort
 Betony conserve
 Betony flowers
 Betony leaves
-A green stone ( AL,71 ) A morbid substance produced in the bodies of some land animals.
+A green stone
+A morbid substance produced in land animals.
 White lead oxide
 Egyptian white lead
 Burnt white lead
@@ -1997,17 +1981,19 @@ Fresh meat
 Bloody meat
 Fruit of a balsam tree
 Parchment
-Seeds of woolly safflower or distaff thistle
+Seeds of woolly safflower
+Distaff thistle
 Caraway
 Caraway seeds
 Cassia, Senna
 Cassia Fistula /Pudding pipe
 Pudding Pipe
-Cassia Lignea; Bark of the Cinnamomum Cassia tree
+Cassia Lignea
+Bark of the Cinnamomum Cassia tree
 Cassia pulp
 Cassia peel/skin
 Chestnuts in their cases
-A herb which makes one's nose to bleed but touching it
+A herb which makes one's nose bleed
 Castor oil
 Flesh of a castrated male sheep
 Hide of a castrated male sheep
@@ -2075,7 +2061,7 @@ Deer fat
 Deer bone-marrow
 Deer grease
 Root of the greater celandine
-Crimson obtained from an old world cochineal insect
+Crimson from an old world cochineal insect
 Insects which are crushed and used in dyes
 Jesuit's Bark
 Quinine
@@ -2114,7 +2100,7 @@ Cinquefoil
 Root of cinquefoil
 Cocoa pod
 Cypress
-English Galangale
+Galangale
 Cypress roots
 Round Cypress, native of east indies
 Onion
@@ -2280,7 +2266,7 @@ Figs
 Fig milk
 Fig bark
 Figs, (Dry)
-Figs, (Green )
+Figs, (Green)
 White gall
 Fenugreek
 Fenugreek flour
@@ -2488,7 +2474,6 @@ Cow's Milk
 Decotion made of allum, litharge, vinegar
 Lettuce
 Lettuce seeds
-Ladanam. Fatty, greasy from the plant rimbrentine
 Ladanam
 Ladanam in liquid
 Bay berries
@@ -2586,7 +2571,7 @@ Marsh-mallow leaves
 Marsh-mallow, white mallow flowers
 Marsh-mallow, white mallow root
 Marsh-mallow, white mallow seeds
-Member of the Pea family (Lathyrus) or a kind of vetch
+Member of the Pea family
 Mandrake
 Mandrake apples
 Mandrake root
@@ -2619,9 +2604,9 @@ Rose-apple
 Honey
 Crab-apples
 Aubergines
-Tre-foil, Blue melilot, King's clover
-Tre-foil, Blue melilot, King's clover flowers
-Tre-foil, Blue melilot, King's clover seeds
+Blue melilot, King's clover
+King's clover flowers
+King's clover seeds
 Lemon- balm
 Lemon-balm leaves
 Apple
@@ -2854,7 +2839,8 @@ Olive leaves
 Olive wood
 Olive stones
 Olive skins
-Sea buckthorn, willow thorn, sallow thorn
+Sea buckthorn
+Willow thorn
 Elm
 Elm bark
 Elm leaves
@@ -2871,10 +2857,9 @@ Urine
 Bull's urine
 The urine of a 12 year old boy
 Urine of healthy young child
-Gold (as in a ring, or scudo)
+Gold
 Gold leaf
-A pulse corn, a peony flower
-A pulse corn, a peony flower seeds
+A pulse corn
 Auripigmentum, or Arsenick
 Maiden lip, Stick-tight
 Bear fat
@@ -2906,7 +2891,6 @@ Bread
 Burnt bread
 Millet bread
 Millet
-A kind of millet?
 Cream
 Poppy
 White poppy
@@ -2914,7 +2898,8 @@ White poppy seeds
 Poppy flower
 Poppy leaves
 Pap-kind of bready soup
-Pellitory of the wall, Lich-wort
+Pellitory of the wall
+Lich-wort
 Sparrows
 Wheat paste
 Parsnip
@@ -2924,10 +2909,9 @@ Hog's fennel, Sulphur weed
 Hog's fennel, Sulphur weed roots
 Peacock bones
 Peakcock dung
-A stone from Portugal  which is green and roan, darkish, shiny and light
+A green and roan stone
 Hard pitch
 Pitch
-Greek pitch
 Liquid tar
 Oil of liquid tar
 Naval pitch
@@ -2950,8 +2934,10 @@ White pepper
 Spanish pepper
 Strong pepper
 Pepper corns
-Pimento, Red Pepper, Guinea Pepper, Capiscum
-Red pepper?
+Pimento 
+Red Pepper
+Guinea Pepper
+Capiscum
 Pears
 Quince pears
 Muscadine-pears
@@ -2980,18 +2966,14 @@ Parsley
 Parsley from Alexandria?
 Parsley roots
 Parsley (juice)
-
 Plantain
 Plantain water
 Plantain leaves
-Plantain (not sure which variety)
 Plantain roots
 Plantain seeds
-
 Pigeon
 Pigeon water
 Pigeon blood
-
 A stone from Armenia
 Borax
 A magnet
@@ -3008,16 +2990,14 @@ Pine nuts
 Pine nut shells
 St. John's wort
 St. John's wort flowers
-Pellitory of Spain, Alexander's foot
-Pills
-Pills
+Alexander's foot
 Golden pills
 Red pepper, Capsicum
 Pimpernel, Burnet sexifrage
 Pimpernel root
 Pine
 Pine
-Pine resin  (see 1149, gomma di pinattro-is same?) (Turpentine)
+Pine resin
 Pine bark
 Pine kernels
 
@@ -3072,8 +3052,9 @@ Leeks
 Leek roots
 Leek seeds
 A drink made of pressed grapes
-Potassium hydrate (Free Online medical Dictionary)
-Blood-root, septfoil, Tormentil
+Potassium hydrate
+Septfoil
+Tormentil
 Great hedge nettle
 Precipitate
 Pot marigold
@@ -3082,7 +3063,7 @@ Sloe tree
 Plum tree
 Damsons
 Plum peel
-Flea-wort and flea-bane (JF 1611)
+Flea-wort and flea-bane
 Common flea-bane mucillage
 Seeds of flea-bane
 Sneeze-wort
@@ -3094,9 +3075,9 @@ Rennet of Hare
 Oak leaves
 Acorns (Oak)
 Oak wood
-Probably polidpodio quercino: oak-fern
+Oak-fern
 Radishes
-Radish (JF says rafano is any radish-perhaps the qualification 'da mangiare' suggests radish
+Radish
 Horseradish
 Horseradish root
 Horseradish peel
@@ -3128,7 +3109,7 @@ Red Realgar
 Rice
 Rice-water
 Rice-flour
-Dock (whether smooth, or spinach-dock or bladder-dock?)
+Dock
 Patience, spinach-dock
 Swallows
 Swallows eggs
@@ -3162,7 +3143,6 @@ Privet bark
 Madder
 Madder root
 Madder
-Rocket
 Rocket seeds
 Dew
 Rum
@@ -3176,7 +3156,7 @@ Sabine, or Savin
 Sal-amoniac (Amonium chloride)
 Salt
 Rock salt
-Halite: Cloruro di sodio, a crystalline mineral, used in many other preparations
+Halite
 Purged Salt
 Glass salt: Alkali salts 
 Salamander blood
@@ -3245,7 +3225,8 @@ Jalap plant
 Resin of the jalap plant
 Winter hyacinth
 Monkey's heart
-Heart's tongue fern, Horse tongue
+Heart's tongue fern
+Horse tongue
 Lees/Dregs of oil
 Scordion or water germander
 Leaves of Scordion or water germander
@@ -3253,8 +3234,9 @@ Scorpions
 Scorpion bile
 Black bark
 Pine kernals
-Snake , (Poisonous with square head with yellow spots)
-Figwort, Great pilewort
+Snake Venom
+Figwort
+Great pilewort
 Assyrian plum
 Berries/seeds of Assyrian plum
 Mucillage of assyrian plum
@@ -3327,16 +3309,15 @@ Spike: Lavendula, French Lavender
 Water of spike
 Celtic spikenard or valerian
 Spike flowers
-Spikenard:  Aromatic substance Derived from Nardostachys Jatamansi of Northern India.
+Spikenard
 Spikenard flowers
 Buckthorn
 Buckthorn berries
 Sponge
-Red Sponge (?)
+Red Sponge
 Wax/dirt from the ears
 Spit/saliva
 Flakes (Drosse) of red brasse
-(Fish)
 Sea Onion, Squill
 Camel's hay, Scenanth, Geranium grass
 Camel's hay, Geranium grass
@@ -3417,7 +3398,7 @@ Earth
 Earth from Malta
 Earth from Lemnos
 Black earth
-Red English earth
+Red earth
 Clay
 Glazed earth
 Animal testicles
@@ -3524,7 +3505,6 @@ Sweet wine
 Lees of wine
 Lees of wine
 Excellent wine
-Greek wine
 Malvasy wine
 Muscat wine
 Black wine (Dark, red, strong??)
@@ -3595,9 +3575,7 @@ Oil of sugar
 Sugar flavoured with roses
 Red drinking sugar 
 Sugar flavoured with violets
-
 #Wiley's magic items
-
 Inchworm in amber
 Child's hair
 A note containing lies

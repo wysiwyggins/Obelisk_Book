@@ -8,6 +8,13 @@
 - cover:
         in_toc: false
 # Project Contents
-- project-name-title-page
-- project-name-chapter-01
-- project-name-colophon
+- obelisk-title-page
+- Index
+- Interface
+- History
+- Realms
+- Potions
+- Wands
+- Artifacts
+- obelisk-colophon
+
