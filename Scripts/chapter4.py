@@ -19,7 +19,7 @@ with open("../Codex/_project/_markdown/Potions.md", "w") as myfile:
     myfile.write(chapterQuote.generateQuote())
     myfile.write("\n::: exit:page\n")
     for x in range(50):
-        myfile.write("\n::: section:table-"+str(x)+" classes:\"break-after\"\n")
+        myfile.write("\n::: section:potiontable-"+str(x)+" classes:\"break-after\"\n")
         adjective = getAdjective()
         myfile.write("\n*" + adjective.capitalize() + " Potions-*\n")
         myfile.write("| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |\n")
@@ -28,5 +28,5 @@ with open("../Codex/_project/_markdown/Potions.md", "w") as myfile:
             newPotion = potions.Potion()
             newPotion.generatePotion()
             myfile.write(str(newPotion))
-        myfile.write("\n::: exit:table-"+str(x)+"\n\n")
+        myfile.write("\n::: exit:potiontable-"+str(x)+"\n\n")
     myfile.write("::: exit:chapter-four\n")
