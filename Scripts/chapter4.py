@@ -24,7 +24,7 @@ with open("../Codex/_project/_markdown/Potions.md", "w") as myfile:
         myfile.write("\n*" + adjective.capitalize() + " Potions-*\n")
         myfile.write("| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |\n")
         myfile.write("|-|-|-|-|-|\n")
-        for y in range(12):
+        for y in range(11):
             newPotion = potions.Potion()
             newPotion.generatePotion()
             myfile.write(str(newPotion))

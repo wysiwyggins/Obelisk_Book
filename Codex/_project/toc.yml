@@ -10,8 +10,8 @@
 # Project Contents
 - obelisk-title-page
 - Index
+- Introduction
 - Interface
-- History
 - Realms
 - Potions
 - Runes
@@ -20,3 +20,7 @@
 - obelisk-colophon
 
 
+
+- notes:
+    linear: false
+    in_toc: false
