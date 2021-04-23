@@ -26,15 +26,17 @@ with open("../Codex/_project/_markdown/Runes.md", "w") as myfile:
     myfile.write("|-|-|\n")
     for rune in runes.runeDict:
         runeCounter += 1
-        myfile.write('|<img src=\"'+runes.runeDict[rune]+'\" ' + 'alt=\"A glyph made from wedge-shaped marks\"\\> |' + rune + ' |\n')
+        myfile.write('|<img src=\"../images/glyphs/'+runes.runeDict[rune]+'\" ' + 'alt=\"A glyph made from wedge-shaped marks\"\\> |' + rune + ' |\n')
         if runeCounter % 10 == 0:
-            sectionNumber = str(runeCounter *.1)
-            myfile.write("\n::: exit:runetable-"+ sectionNumber-1 + "\n\n")
-            myfile.write("\n::: section:runetable"+ sectionNumber +" classes:\"break-after\"\n")
+            nextSectionNumber = str(runeCounter *.1)
+            lastSectionNumber = str(runeCounter *.1-1)
+            myfile.write("\n::: exit:runetable-"+ lastSectionNumber + "\n\n")
+            myfile.write("\n::: section:runetable"+ nextSectionNumber +" classes:\"break-after\"\n")
             myfile.write("| Glyph | Translation |\n")
             myfile.write("|-|-|\n")
         if runeCounter >= len(runes.runeDict) and runeCounter % 10 != 0:
-            myfile.write("\n::: exit:runetable-"+ sectionNumber-1 + "\n\n")
+            print("I think I'm done")
+            myfile.write("\n::: exit:runetable-"+ lastSectionNumber + "\n\n")
 
 
 
