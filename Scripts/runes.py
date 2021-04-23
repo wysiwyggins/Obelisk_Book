@@ -18,12 +18,16 @@ class Runes:
                 meaning = (random.choice(open("corpus/fantasy.txt").read().split()))
                 while meaning in self.runeDict or len(meaning) < 4:
                     meaning = (random.choice(open("corpus/fantasy.txt").read().split()))
-                meaning = meaning.replace('.', '').replace(',', '').replace(';', '').replace(':', '').replace('“', '').replace('"', '').replace('”', '')
+                meaning = meaning.replace('.', '').replace(',', '').replace(';', '').replace(':', '').replace('“', '').replace('"', '').replace('”', '').lower()
                 if d.check(meaning):
-                    meaning.lower()
+                    meaning = meaning.lower()
                     #print(meaning + " is a word I already know.")
-                #else:
-                    #print("I guess " + meaning + " is a proper noun.")
+                else:
+                    if "less" in meaning or meaning.endswith("s") or "-" in meaning:
+                        meaning = meaning.lower()
+                    else:
+                        #print("I guess " + meaning + " is a proper noun.")
+                        meaning = meaning.capitalize()
                 self.runeDict[meaning] = glyph
         #print(self.runeDict)
 
