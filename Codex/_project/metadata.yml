@@ -10,7 +10,7 @@
 # ------------------------------------------------------------------------------
 
 - term: title
-  value: Project Title
+  value: Obelisk User's Manual / Book of Secrets
   refines:
     - title-type: main
 

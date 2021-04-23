@@ -13,7 +13,7 @@ class Runes:
             meaning = (random.choice(open("corpus/fantasy.txt").read().split()))
             while meaning in self.runeDict or len(meaning) < 4:
                 meaning = (random.choice(open("corpus/fantasy.txt").read().split()))
-            meaning = meaning.replace('.', '').replace(',', '').replace(';', '').replace(':', '')
+            meaning = meaning.replace('.', '').replace(',', '').replace(';', '').replace(':', '').replace('"', '')
             self.runeDict[meaning] = glyph
         #print(self.runeDict)
 

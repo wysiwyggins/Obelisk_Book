@@ -11,1110 +11,1110 @@ type: bodymatter
  
 ::: blockquote:book_of_secrets:
 
-And he was troubled by the vision of some monstrous dragon. 
-On the first time in many prophecies, both immemorial and recent. 
-The sun climbed in the blare of betraying daylight. 
+It was said that the shrouded priests. 
+But the sorcerer had conceived for Arctela was not allayed by the simoom. 
+Mortally pale and naked form of a late moon that was direr than simoom or pestilence. 
 ::: exit:book_of_secrets
-*–It Was A Poppy-Red*
+*–He Disappeared From Her Naked Body*
 ::: exit:page
 
-::: section:table-0 classes:"break-after"
+::: section:potiontable-0 classes:"break-after"
 
-*Earnest Potions-*
+*Arbitrary Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | ??? | Pork lung | Squirting cucumber | Pale violet-red Potion | ??? |
- | ??? | ??? | Hook | ??? | Potion of Ungainliness |
- | Salt | Trisodium citrate dihydrate | White fresh peel | ??? | Photogenic Potion |
- | Common or field eryngo | King's clover seeds | ??? | Yellow Potion | ??? |
- | The Queen's water | Olive Oil | Bloom of Verdegris | ??? | Potion of Crispness |
- | ??? | Chicken dung | ??? | Fire brick Potion | ??? |
- | Parsley seeds | Adenophora | ??? | ??? | Potion of Dimness |
- | ??? | Donkey fat | ??? | Pale green Potion | ??? |
- | ??? | ??? | Holly leaf | Orange Potion | ??? |
- | ??? | Periwinkle | Elder root | Orchid Potion | ??? |
- | Camel's hay, Geranium grass | Oil of Scorpion | Guan Cork | ??? | Tearful Potion |
- | Fish herb | Cooked wine | Agrimony family | ??? | Novel Potion |
- | ??? | Potassium pyrosulfate | Hippocampus | ??? | Potion of Mysteriousness |
+ | ??? | ??? | White incense | ??? | Potion of Waxiness |
+ | Wax, (red) | ??? | Dense flower | ??? | Therapeutic Potion |
+ | Potassium chromium alum dodecahydrate | Broad bean pods | Lentil Flower | Blue Potion | ??? |
+ | ??? | ??? | Acorns (Oak) | Goldenrod Potion | ??? |
+ | Petunias | Tuna fish blood | Raisins | Light slate gray Potion | ??? |
+ | Peach | Resin/gum from the mastic tree | An ointment made of marsh-mallow | Navy Potion | ??? |
+ | Dwarf mallow seeds | Leek roots | Clover oil | Dark gray Potion | ??? |
+ | White lily leaf | A White dog | Chayote | ??? | Gaseous Potion |
+ | Rosewood | Ma Linzi | Motherwort | Flourescent green Potion | ??? |
+ | Tree peony | Pigeon water | eraser | Light blue Potion | ??? |
+ | Astmary | Lavender | ??? | ??? | Potion of Watchfulness |
+ | Bishop-weed | Face powder | Cedarwood | ??? | Plain Potion |
+ | Potassium nitrate/Saltpetre (rock salt) | ??? | ??? | ??? | Esoteric Potion |
 
-::: exit:table-0
+::: exit:potiontable-0
 
 
-::: section:table-1 classes:"break-after"
+::: section:potiontable-1 classes:"break-after"
 
-*Bashful Potions-*
+*Arbitrary Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Dock | Nitrilotriacetic acid | Potassium hydroxide | Navy-blue Potion | ??? |
- | ??? | ??? | Heartland | ??? | Potion of Rigorousness |
- | ??? | Centipede | Indigo | ??? | Potion of Fruitlessness |
- | Kiwi | Wild Thyme, mother of thyme | Milk-wort | ??? | Potion of Mysteriousness |
- | ??? | Bindweed | ??? | Flourescent yellow Potion | ??? |
- | White henbane roots | ??? | Elder tree | Navajo white Potion | ??? |
- | ??? | ??? | Salt wood | Rainbow Potion | ??? |
- | ??? | Spit/saliva | Cypress resin | Dark slate-gray Potion | ??? |
- | Potassium sulfate | Hyssop oil | ??? | Brown Potion | ??? |
- | Coix Seed | Antimony sulphide without arsenic | Hound's tongue | ??? | Potion of Rebelliousness |
- | ??? | Mucillage of flax seeds | Snow-water | Glow in the dark Potion | ??? |
- | Endive | Sea-colewort | Pigeon | Indian red Potion | ??? |
- | Sodium bromophenol Blue | ??? | ??? | ??? | Potion of Ruthfulness |
+ | Apple juice | ??? | Bergamot | Rainbow Potion | ??? |
+ | Copper II nitrate hemipentahydrate | Grape pips | Nasturtium | ??? | Potion of Whimsicalness |
+ | Antimony potassium tartrate anhydrous | Persimmon | Hardened soot | ??? | Potion of Ungraciousness |
+ | ??? | Longan Meat | ??? | ??? | Potion of Phytotoxicity |
+ | Sulfuric acid--2 | Magnesium oxide | Chuan Neem | ??? | Potion of Plainness |
+ | Wild Thistle | Poke | Comfrey | ??? | Potion of Visionariness |
+ | Fist Ginseng | ??? | ??? | Ivory Potion | ??? |
+ | ??? | Black cherries | wild caper | Camouflage Potion | ??? |
+ | Mucillage of flax seeds | Yellow Bee's wax | Pasqueflower | Green-yellow Potion | ??? |
+ | Spider's silk | Borage seeds | Red Coral | Camouflage Potion | ??? |
+ | Saponaria thorn | Tansy | Frog-fish | ??? | Salty Potion |
+ | ??? | ??? | Stalk grass | ??? | Discounted Potion |
+ | ??? | Jujube tree | ??? | ??? | Angry Potion |
 
-::: exit:table-1
-
-
-::: section:table-2 classes:"break-after"
-
-*Easygoing Potions-*
-| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
-|-|-|-|-|-|
- | Thiocyanic acid, ammonium salt | Sodium compounds | Wheat | ??? | Waxen Potion |
- | Goose testicles | Fat of a young goat | ??? | ??? | Potion of Curtness |
- | Crane fat | Siegesbeckia | White honey | Flourescent orange Potion | ??? |
- | ??? | Saffron | ??? | Silver Potion | ??? |
- | ??? | Foot of a castrated male sheep | ??? | ??? | Potion of Beautifulness |
- | ??? | Borax (B4Na2O7.10H2O) | Seeds of wild endive | ??? | Noxious Potion |
- | Sulpher (Also known as brimstone) | Puhuang | Red tube medicine | Light steel blue Potion | ??? |
- | Sea Onion, Squill | ??? | ??? | ??? | Joyous Potion |
- | ??? | ??? | Sodium dichromate dihydrate | Orchid Potion | ??? |
- | Berries/seeds of Assyrian plum | Sassafras | Sodium hydrogen sulfate | ??? | Potion of Squatness |
- | Rhubarb syrup | Snow gall | ??? | Gold Potion | ??? |
- | Peach kernel | Allum | Polygonum aoba | Light coral Potion | ??? |
- | Antler | Goose Fat | Poria | ??? | Potion of Dopeyness |
-
-::: exit:table-2
+::: exit:potiontable-1
 
 
-::: section:table-3 classes:"break-after"
-
-*Animalistic Potions-*
-| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
-|-|-|-|-|-|
- | ??? | Silver nitrate | Potassium nitrate/Saltpetre (rock salt) | ??? | Argumentative Potion |
- | ??? | Potassium thiocyanate | Clary-sage | Light salmon Potion | ??? |
- | Blood of a kind of lizard? | ??? | ??? | ??? | Potion of Plenteousness |
- | ??? | Snake Venom | Melon | ??? | Potion of Monotonicity |
- | Yahunu | ??? | Lacquer or Shellac | ??? | Potion of Inverness |
- | catechu | Lily of the valley | Daffodil | Paisley Potion | ??? |
- | Honey into which dry roses have been mixed | Ximen lung grass | Medical stone | ??? | Fading Potion |
- | ??? | Wood ashes | ??? | Deep sky blue Potion | ??? |
- | Herbs | Dung of wild dove | Hibiscus Leaf | Ghost white Potion | ??? |
- | ??? | Cinque foil, five-finger grass | ??? | ??? | Potion of Precociousness |
- | Flowers | Clary-sage roots | Abutilon | Orchid Potion | ??? |
- | Clary-sage | Ligustrum leaf | Di Yangmei | ??? | Physical Potion |
- | Oyster shells | ??? | ??? | ??? | Evil Potion |
-
-::: exit:table-3
-
-
-::: section:table-4 classes:"break-after"
-
-*Fuzzy Potions-*
-| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
-|-|-|-|-|-|
- | lemongrass | Oil of  storax | Lercio | ??? | Potion of Scornfulness |
- | Pumice stone | ??? | green vitriol | Antique white Potion | ??? |
- | ??? | Isatin | Dill | ??? | Potion of Fearfulness |
- | rosewater | Bristlegrass | Cream of tartar | ??? | Essential Potion |
- | ??? | ??? | A Mixture of aromatic substances | ??? | Potion of Gracefulness |
- | Cough-wort | Oak galls | Zinc | ??? | Abnormal Potion |
- | ??? | ??? | Pine nuts | Orange Potion | ??? |
- | Shi Jueming | Animal testicles | Qingfengteng | ??? | Potion of Shadowiness |
- | ??? | Nackre | Chives | ??? | Foulmouthed Potion |
- | Tonic | Buddha grass | Duck blood | ??? | Potion of Crispness |
- | ??? | ??? | Copper(II) nitrate trihydrate | ??? | Etiological Potion |
- | Credit | Neem | ??? | ??? | Potion of Hotness |
- | Oil or gum distilled from syrian olive trees | Jujube tree | ??? | Violet-red Potion | ??? |
-
-::: exit:table-4
-
-
-::: section:table-5 classes:"break-after"
-
-*Pataphysical Potions-*
-| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
-|-|-|-|-|-|
- | Water speedwell | Gushanlong | Marrow leaves | Blue Potion | ??? |
- | The pip of the morello cherries | ??? | Thistle | Light blue Potion | ??? |
- | malt | ??? | ??? | ??? | Potion of Indiscreetness |
- | Liverwort | ??? | A White dog | Tartan Potion | ??? |
- | ??? | ??? | Dragon's Blood | Brown Potion | ??? |
- | Green smallage | Worms | Clover/trefoil | Orange Potion | ??? |
- | Rose-apple | Probably Nettles | Virgin honey | ??? | Potion of Daftness |
- | Cassia Lignea | Oyster flesh | A Spode Rose | Paisley Potion | ??? |
- | Sweet potato | Green talcum | Evodia | ??? | Permissible Potion |
- | Viper | ??? | ??? | ??? | Complex Potion |
- | A gum made from copal | White mandala | Maiden's hair syrup | Dim gray Potion | ??? |
- | Galbano plant | ??? | ??? | Gray Potion | ??? |
- | ??? | Flax-seed oil | ??? | Pale green Potion | ??? |
-
-::: exit:table-5
-
-
-::: section:table-6 classes:"break-after"
-
-*Courteous Potions-*
-| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
-|-|-|-|-|-|
- | Steel | ??? | Black Cohosh | ??? | Metaphysical Potion |
- |  | Ivy root | Gou Bao | ??? | Lively Potion |
- | ??? | Verbena-water | Frog | Pale goldenrod Potion | ??? |
- | Chrysanthemum | Shi Jueming | ??? | ??? | Potion of Slickness |
- | Olive leaves | ??? | ??? | Chartreuse Potion | ??? |
- | ??? | ??? | Cotton | Spring green Potion | ??? |
- | ??? | Dalbergia | Chives | Spring green Potion | ??? |
- | Sodium bromide | 3,6-Disulfonaphthalene-1,8-bis(olate) | Prunella vulgaris | ??? | Potion of Pixiness |
- | Love in a mist | Abutilon | Canvas | ??? | Immoral Potion |
- | peanut | Blood-root water | Hedgehog skin | ??? | Potion of Farness |
- | Millet | Sea cow | Common flea-bane mucillage | ??? | Genetic Potion |
- | Purple Sea Urchin | Sodium peroxide | Faeces, (Dog) | Steel blue Potion | ??? |
- | ??? | Oil of vitriol | ??? | Dark slate-gray Potion | ??? |
-
-::: exit:table-6
-
-
-::: section:table-7 classes:"break-after"
-
-*Controversial Potions-*
-| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
-|-|-|-|-|-|
- | Root of wild watermelon | ??? | ??? | ??? | Religious Potion |
- | Wormwood oil | 3-Amino-7-dimethylamino-2-methylphenazine hydrochloride | ??? | ??? | Potion of Thankfulness |
- | Jujube | ??? | ??? | ??? | Potion of Incautiousness |
- | Wax/dirt from the ears | Orange water | ??? | ??? | Potion of Sorrowfulness |
- | Blue-berried | Frankincense, olibanum tree | Talc | ??? | Potion of Literariness |
- | ??? | Pig's snout | ??? | Orchid Potion | ??? |
- | Winter hyacinth | King's clover seeds | ??? | Goldenrod Potion | ??? |
- | Resin from a pear tree | ??? | Potassium dichromate | ??? | Bruised Potion |
- | Yin Chen | Caraway seeds | Blue Vervain | ??? | Potion of Waxiness |
- | ??? | White bean soup | Bracken root | ??? | Potion of Muzziness |
- | Rose buds | Agrimonia | Syrup of fumitory | Sky blue Potion | ??? |
- | Glass shavings | ??? | ??? | Lavender blush Potion | ??? |
- | papaya | ??? | ??? | ??? | Potion of Sorrowfulness |
-
-::: exit:table-7
-
-
-::: section:table-8 classes:"break-after"
-
-*Unchanging Potions-*
-| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
-|-|-|-|-|-|
- | Euphorbia | Red clay from Alessandria | Hog's fennel, Sulphur weed roots | Lavender Potion | ??? |
- | Trichosanthes | Burnt cuttle-fish bone | Peony | Grey Potion | ??? |
- | ??? | ??? | Halite | ??? | Solemn Potion |
- | Potassium carbonate | Caramel | ??? | Rust colored Potion | ??? |
- | Ferric ammonium sulfate | Pasqueflower | Salsola | Pale violet-red Potion | ??? |
- | Bran | Fever-few chrysanthemum/mother-wort | Ophiopogon japonicus | Wheat Potion | ??? |
- | Flax seeds | Dog' milk | Bai Ziren | Dark turquoise Potion | ??? |
- | ??? | ??? | Common dragon or snake plant or tarragon roots | ??? | Potion of Helpfulness |
- | Sodium sulfate anyhdrous | Aoki Xiang | Inula | Gray Potion | ??? |
- | Goat's gall | Musk-rose water | Endive water | ??? | Potion of Dolorousness |
- | Wine | Bitter beans | Snow lotus | Pale violet-red Potion | ??? |
- | Thousand Gold Frost | ??? | Sucotrine aloes | Pale green Potion | ??? |
- | Ophiopogon japonicus | green beans | Lithium tetraborate (Li2B4O7) | Lavender blush Potion | ??? |
-
-::: exit:table-8
-
-
-::: section:table-9 classes:"break-after"
-
-*Dull Potions-*
-| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
-|-|-|-|-|-|
- | Fresh meat | Bergenia | Burnt copper | ??? | Potion of Orderliness |
- | Dill | Xihe Liu | Old lard/grease | ??? | Potion of Doziness |
- | Egyptian white lead | Yam buttercup | Leaves of Scordion or water germander | Pale violet-red Potion | ??? |
- | ??? | Toad-flax roots | ??? | Forest green Potion | ??? |
- | Shandougen | Mercuric iodide | Ammonium ferrous sulfate hexahydrate | Black Potion | ??? |
- | Orange root | Dragon's blood | Sanguis | ??? | Potion of Highness |
- | Vine wood | Lye | ??? | ??? | Potion of Famousness |
- | Water speedwell | potato | Damask rose leaves | Grey Potion | ??? |
- | Magnesium perchlorate | Imidazole | Acacia pods | Deep sky blue Potion | ??? |
- | ??? | barley | Agrimonia | ??? | Potion of Goodness |
- | Flowers of Agnus Castus | ??? | Fennel flowers | ??? | Potion of Momentariness |
- | Ivy | Dafengzi | Oak galls | ??? | Potion of Ellipticity |
- | ??? | Water of Saltpetre | Trilead bis(carbonate) dihydroxide | Honeydew Potion | ??? |
-
-::: exit:table-9
-
-
-::: section:table-10 classes:"break-after"
-
-*Chemical Potions-*
-| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
-|-|-|-|-|-|
- | ??? | Extract of gentian | Goat's bladder | Light goldenrod yellow Potion | ??? |
- | Chocolate | ??? | St. John's wort | Camouflage Potion | ??? |
- | Cooling blood hemostatic medicine | Yunzhi | Euphorbia | ??? | Sad Potion |
- | Cocoa pod | ??? | ??? | ??? | Potion of Primness |
- | Citron seeds | ??? | Devil's bit | ??? | Potion of Frailness |
- | Isopropyl ether | Stinky Pill | Wormwood seeds | Flourescent green Potion | ??? |
- | Gecko | Elaeagnus | ??? | ??? | Potion of Unsightliness |
- | Melon seed gold | ??? | Strontium nitrate | ??? | Potion of Agility |
- | Radish | Ma Lin | Jin Jinxiang | Light slate-gray Potion | ??? |
- | Ma Bao | Persian buttercup | Orange oil | ??? | Outrageous Potion |
- | Sugar flavoured with roses | Capers | ??? | ??? | Potion of Atonicity |
- | Shepherd's pouch | chili | ocher | Blue-violet Potion | ??? |
- | common spleenwort | ??? | Citron-flower water | Dark violet Potion | ??? |
-
-::: exit:table-10
-
-
-::: section:table-11 classes:"break-after"
+::: section:potiontable-2 classes:"break-after"
 
 *Earthy Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Geranium | Earth Bone Skin | Burnt-rock allum | ??? | Optimal Potion |
- | ??? | Ethanol | Cerfolium-flower water | Flourescent yellow Potion | ??? |
- | beet | Shengdan | Water speedwell | Light pink Potion | ??? |
- | Two-sided needle | Vitex | Citrus juice | ??? | Potion of Wryness |
- | Shou Palace | Mandrake apples | Candied marrow | ??? | Potion of Adeptness |
- | Citron seeds | ??? | Yunzhi | Violet Potion | ??? |
- | Pea soup | Magnesium diacetate tetrahydrate | Orange peel | Flourescent orange Potion | ??? |
- | ??? | ??? | Make a gentleman | ??? | Potion of Scandalousness |
- | Asparagus | Goat-kid gall | Sunflower Seeds | Flourescent green Potion | ??? |
- | lily | ??? | Phenol | Light slate-gray Potion | ??? |
- | Vine sprigs | Leopard bone | Snow | Orange Potion | ??? |
- | Pork lard | Wild fennel | ??? | ??? | Potion of Lordliness |
- | ??? | Bai Ziren | ??? | Tye-dye Potion | ??? |
+ | White dove | Maiolica | Rose stamens | ??? | Potion of Intactness |
+ | Goose blood | Passionflower | Stalactite | ??? | Bright Potion |
+ | ??? | Isopropanol | ??? | ??? | Potion of Apostolicity |
+ | ??? | Oil of Incence | ??? | Light sea green Potion | ??? |
+ | ??? | Peony | ??? | ??? | Permissive Potion |
+ | Ephedra Root | ??? | Perilla Terrier | ??? | Potion of Facetiousness |
+ | cinnamon | ??? | ??? | Transparent Potion | ??? |
+ | Lysimachia | Wormwood, Absinth. | Cocchineal | ??? | Preeminent Potion |
+ | ??? | Wood butterfly | ??? | Light steel blue Potion | ??? |
+ | ??? | ??? | Heartland | ??? | Potion of Gracefulness |
+ | ??? | Loquat leaves | ??? | ??? | Potion of Lugubriousness |
+ | Jujube Seed | Seeds of flea-bane | Artificial bile | ??? | Potion of Criticalness |
+ | Chaparral | ??? | Wheat flour | Glittery Potion | ??? |
 
-::: exit:table-11
+::: exit:potiontable-2
 
 
-::: section:table-12 classes:"break-after"
+::: section:potiontable-3 classes:"break-after"
 
-*Bald Potions-*
+*Electric Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | ??? | Sow thistle | ??? | Light slate blue Potion | ??? |
- | wheat | Spanish Broom | Sun-flower seeds | Pale violet-red Potion | ??? |
- | Camping tree | Oil of Horn-beam | almond | ??? | Potion of Mercenariness |
- | ??? | ??? | Sea dragon | ??? | Warm Potion |
- | Pap-kind of bready soup | L-Ascorbic acid | Oil of white lilies | ??? | Clairvoyant Potion |
- | Rock-allum | Myrtle flowers | Daffodil | Tye-dye Potion | ??? |
- | ??? | Southernwood flowers | ??? | ??? | Potion of Analyticity |
- | Sodium bisulfite | Rose leaves | ??? | White Potion | ??? |
- | Rehmannia | Lercio | Yellow Dock | Fire brick Potion | ??? |
- | Clove-Leaves | Black pepper | Blood of a kind of lizard? | ??? | Potion of Bleakness |
- | ??? | ??? | Olive oil dregs | ??? | Potion of Egocentricity |
- | ??? | ??? | Flies | ??? | Ephemeral Potion |
- | ??? | Excellent wine | chili | ??? | Contemporary Potion |
+ | Eel gall | Lizard orchis | ??? | ??? | Potion of Cheapness |
+ | Bull's blood | Betel nut | Garlic | ??? | Potion of Towardliness |
+ | Globe thistle root | ??? | ??? | ??? | Bizarre Potion |
+ | Pomegranate leaves | Over the mountain dragon | Olives | White Potion | ??? |
+ | Marrow | Water from a fountain | Indigo | Orange Potion | ??? |
+ | ??? | ??? | Assa-foetida plant | ??? | Potion of Dauntlessness |
+ | ??? | ??? | Araceae | ??? | Potion of Centricity |
+ | Pigeon | Ammonium fluoride | Scutellaria | ??? | Authentic Potion |
+ | Olive leaves | Pink wood, or rose wood? | ??? | ??? | Potion of Somberness |
+ | ??? | Puzzle | ??? | ??? | Architectural Potion |
+ | Berberry, Barberry, Pipperidge | A medicinal ointment | Rags | Steel blue Potion | ??? |
+ | ??? | ??? | Roots of black hellebore | Transparent Potion | ??? |
+ | Aniseed oil | Antimony sulphide without arsenic | Hare's rennet | Light goldenrod yellow Potion | ??? |
 
-::: exit:table-12
+::: exit:potiontable-3
 
 
-::: section:table-13 classes:"break-after"
+::: section:potiontable-4 classes:"break-after"
 
-*Waxen Potions-*
+*Ornate Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Cyclamen leaves | Brazel or fernanbuck | ??? | Flourescent orange Potion | ??? |
- | L-Ascorbic acid | Mulberry | Wedelia | Light sea green Potion | ??? |
- | ??? | Rosemary oil | ??? | Sparkly Potion | ??? |
- | Trillium | ??? | ??? | Light slate gray Potion | ??? |
- | Fo Tan Mother | Clay | Tartar | Orange Potion | ??? |
- | Starch-flower | Scorpion | Bloody meat | Light salmon Potion | ??? |
- | Honey boiled with  Squil vinegar | ??? | Red sandalwood | Rust colored Potion | ??? |
- | ??? | ??? | Black pepper | Violet Potion | ??? |
- | Gladioli root | Oyster | ??? | ??? | Potion of Fanaticalness |
- | Fresh-water crab's shell | Yellow leather | Lentisk oil | ??? | Potion of Slowness |
- | Camendrio | ??? | Figwort | ??? | Potion of Anticity |
- | Lime | Pike teeth | Fenugreek seeds | ??? | Nonconformist Potion |
- | Arsenic oxide (As2O3) | White horehound | Thread from men's clothes | Rust colored Potion | ??? |
+ | ??? | Wax/dirt from the ears | ??? | ??? | Potion of Simplicity |
+ | False Unicorn | Violets (purple) | Guangzao | ??? | Rambling Potion |
+ | Celery | Globe thistle root | Oranges (juice of) | ??? | Precarious Potion |
+ | laurel Must | ??? | Coconut | ??? | Intriguing Potion |
+ | ??? | Red sandlewood flowers | ??? | ??? | Potion of Deceitfulness |
+ | Potassium chloride | ??? | Zinc compounds | Light sea green Potion | ??? |
+ | ??? | Pig sorrow | Tortoise blood | ??? | Potion of Inertness |
+ | N-(1-Naphthyl)ethylenediamine dihydrochloride | Wheat flour | ??? | ??? | Generous Potion |
+ | Essence of clove | Mint leaves | Slug | Green-yellow Potion | ??? |
+ | Virgin honey | Glass | Red saxifrage | ??? | Potion of Exothermicity |
+ | Dittany | Gall of a bird of prey | almond | Flourescent orange Potion | ??? |
+ | Wake robin juice | Ointment of Sandali | Swallows | Flourescent orange Potion | ??? |
+ | Earthenia | ??? | Cress | ??? | Potion of Illiberalness |
 
-::: exit:table-13
+::: exit:potiontable-4
 
 
-::: section:table-14 classes:"break-after"
+::: section:potiontable-5 classes:"break-after"
 
-*Unchanging Potions-*
+*Avant-garde Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Red earth | A Mixture of aromatic substances | Flower of copper/Calcitis/ Vitriol | ??? | Potion of Crotchetiness |
- | ??? | Poplar tree | ??? | Orange-red Potion | ??? |
- | Endive syrup | ??? | ??? | Light steel blue Potion | ??? |
- | Julep with violet | Pork meat | Balsam fruit oil | Green-yellow Potion | ??? |
- | Sodium hypochlorite | Date stones | Camphor | ??? | Fabulous Potion |
- | Olive wood | Dalbergia | Lemons or limes | ??? | Pensive Potion |
- | Cough-wort | Nettle root | Barium acetate | Light steel blue Potion | ??? |
- | Buddleia | ??? | ??? | Lavender blush Potion | ??? |
- | Wheat flour | Flakes (Drosse) of red brasse | Milk Thistle | Red Potion | ??? |
- | Coconut | Melon | Zilo: A tree which yields balsam | Light sea green Potion | ??? |
- | Long marrow | Arsenic oxide (As2O3) | Lentisk oil | ??? | Pliable Potion |
- | ??? | horse-pipe | ??? | ??? | Soft Potion |
- | ??? | ??? | Senecio | Dim gray Potion | ??? |
+ | Thistle | One hundred taels of gold | Crocus Martis | Blue-violet Potion | ??? |
+ | Abutilon | Calcinate Tartar | Atractylodes | ??? | Preeminent Potion |
+ | ??? | Bromophenol blue | Sugar | ??? | Admirable Potion |
+ | Carbon disulfide | Loquat leaves | ??? | ??? | Amorphous Potion |
+ | ??? | Lessia made of vine | ??? | Goldenrod Potion | ??? |
+ | Opoponax | Davidia | Bindweed | ??? | Potion of Silentness |
+ | Ink dregs | Oranges (juice of) | ??? | ??? | Potion of Woolliness |
+ | Sponge | ??? | ??? | Antique white Potion | ??? |
+ | ??? | Vine sap | ??? | Goldenrod Potion | ??? |
+ | ??? | Corrosive sublimate | Oil of tupentine | Camouflage Potion | ??? |
+ | White lead pigment. OR lead carbonate. | ??? | Silk soap | Ghost white Potion | ??? |
+ | copper sulphate | Veal grease/breast | Figs, (Green) | Rainbow Potion | ??? |
+ | Rags | Orange water | Xin Yi | Light salmon Potion | ??? |
 
-::: exit:table-14
+::: exit:potiontable-5
 
 
-::: section:table-15 classes:"break-after"
+::: section:potiontable-6 classes:"break-after"
 
-*Zesty Potions-*
+*Discounted Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Cadmium chloride | Aster | Chimney soot | Pale green Potion | ??? |
- | Shepherd's Purse | ??? | White horehound | ??? | Potion of Courageousness |
- | Oranges (juice of) | Thousand gold | ??? | ??? | Quiet Potion |
- | Sodium arsenate heptahydrate | Soybeans | St. John's Wort | Green-yellow Potion | ??? |
- | Glow-worms | Earth-apple roots | ??? | Indian red Potion | ??? |
- | Dafengzi | Desert Sage | ??? | ??? | Potion of Heavenliness |
- | ??? | Elaeagnus | ??? | Sky blue Potion | ??? |
- | Seeds fo purple violets | ??? | Fever-few chrysanthemum/mother-wort seeds | ??? | Potion of Triplicity |
- | Citron-juice syrup | A page torn from a holy codex | ??? | Rainbow Potion | ??? |
- | ??? | Bone marrow from the flanks of an asses back legs | Camphor | Red Potion | ??? |
- | ??? | ??? | Butcher's broom, box holly | ??? | Potion of Sheerness |
- | ??? | Green Leaf Gallbladder | Corn-flower water | ??? | Brazen Potion |
- | Oil of turpentine | Olive flowers | Saxifraga | Chartreuse Potion | ??? |
+ | Maple | Grass black | Coconut oil | ??? | Potion of Nephrotoxicity |
+ | ??? | Litharge | ??? | ??? | Potion of Balefulness |
+ | ??? | Excellent wine | ??? | Dark slate-gray Potion | ??? |
+ | Bezoar | Sugar flavoured with borage, or rose-campion | electuary | Pale turquoise Potion | ??? |
+ | Sodium cyanide | Glass salt: Alkali salts  | Bark of the frankincense tree | ??? | Potion of Farness |
+ | Burnt Potassium nitrate | ??? | ??? | ??? | Free Potion |
+ | Palladium(II) chloride | Olive | Unique | ??? | Potion of Firmness |
+ | Flies | Clove-Leaves | Fritillaria | ??? | Potion of Strangeness |
+ | Orange root | Crane fat | ??? | ??? | Potion of Ambitiousness |
+ | Rusty iron | plaster | Horseradish | ??? | Potion of Fallowness |
+ | Citron-juice syrup | Buckthorn | Pork Fat/Grease | ??? | Potion of Intactness |
+ | Silk worms | Sage leaves | Rose | Robin's egg blue Potion | ??? |
+ | Rosemary flowers | Purged soap | Member of the Pea family | Chartreuse Potion | ??? |
 
-::: exit:table-15
+::: exit:potiontable-6
 
 
-::: section:table-16 classes:"break-after"
+::: section:potiontable-7 classes:"break-after"
 
-*Alternative Potions-*
+*Anti-realist Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | ??? | White frankincense | Octagonal maple | ??? | Potion of Dauntlessness |
- | Tortoise/turtle  shell | Roots of black hellebore | Tansy | ??? | Potion of Gluiness |
- | Ammonium phosphate | Acorn cups | Citrus | ??? | Potion of Corporealness |
- | Agaric, Fungus Laricis | "Pome ditte rose" | Cinnabar | Dark slate-gray Potion | ??? |
- | Nepeta | Zilo: A tree which yields balsam | Breast milk | ??? | Potion of Nephrotoxicity |
- | Calcined gypsum | Myrtle sedge | Eel gall | ??? | Potion of Packness |
- | flax | Oil or gum distilled from syrian olive trees | Cinnamon sticks | ??? | Harmonious Potion |
- | Ba Li Ma | Menstrual blood | Glazed earth | ??? | Potion of Unnaturalness |
- | Rhododendron xinanensis | Rue seeds | Tannic acid | Ghost white Potion | ??? |
- | Barium chloride dihydrate | ??? | Marjoram | White Potion | ??? |
- | Chu Shizi | Stiff silkworm | ??? | ??? | Potion of Logicalness |
- | ??? | Wine (Red) | Burnt lead | Slate-gray Potion | ??? |
- | Our ladies' bed-straw | Wild teasel, Shepherd's rod | Walnut Green Peel | ??? | Potion of Fatherliness |
+ | Arborvitae leaves | Carob | Ginseng | ??? | Potion of Preppiness |
+ | Yang Qishi | ??? | Purslane | Paisley Potion | ??? |
+ | ??? | Morus parasiticum | Coffee | ??? | Precious Potion |
+ | Hog's Lard | Oil of tupentine | ??? | ??? | Quiet Potion |
+ | Big belly skin | Donkey bone marrow | Sodium | Glittery Potion | ??? |
+ | ??? | Oil of Hypericon | Belladonna | ??? | Potion of Ionicity |
+ | Cistanche | tea | Passionflower | ??? | Potion of Painfulness |
+ | Sheep dung | Sodium molybdate(VI) dihydrate | A form of Potassium | ??? | Potion of Spiritualness |
+ | Osmium tetroxide | ??? | ??? | Pale goldenrod Potion | ??? |
+ | Palm charcoal | ??? | Tripotassium phosphate | Navy Potion | ??? |
+ | Phenol | Potassium sulfate | Lentil | ??? | Potion of Whatness |
+ | ??? | Fenugreek flour | Dill root | ??? | Potion of Chillness |
+ | Tremella | ??? | Sijiqing | ??? | Hermeneutical Potion |
 
-::: exit:table-16
+::: exit:potiontable-7
 
 
-::: section:table-17 classes:"break-after"
+::: section:potiontable-8 classes:"break-after"
 
-*Platonic Potions-*
+*Orthodox Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | ??? | White henbane | ??? | Camouflage Potion | ??? |
- | ??? | Lentils | Cumin | Light goldenrod yellow Potion | ??? |
- | ??? | Fish-glue | ??? | ??? | Potion of Forcefulness |
- | Xiangfu | Humulus | ??? | Steel blue Potion | ??? |
- | Copper | Sweet wine | rosin | ??? | Potion of Gooeyness |
- | Tarragon | Donkey bone marrow | Damson or plum tree seeds | ??? | Bleeding Potion |
- | Sweed | ??? | Olive Oil | ??? | Potion of Logicalness |
- | Bad oil | Bromophenol blue sodium salt | Tortoise blood | ??? | Potion of Skinniness |
- | Cockerel gall | Wild apples | 1,2-Dichloroethane | Navy Potion | ??? |
- | Calamus | Flowers | Sodium bicarbonate | Rust colored Potion | ??? |
- | ??? | Albizia | Zilo: A tree which yields balsam | Floral white Potion | ??? |
- | ??? | Wheat oil | ??? | ??? | Potion of Auspiciousness |
- | Hawthorn? | Summer without | Cicory | ??? | Muted Potion |
+ | ??? | Millet bread | ??? | Midnight blue Potion | ??? |
+ | ??? | ??? | Nostoch | ??? | Potion of Gastness |
+ | ??? | ??? | Root of colocynth | Robin's egg blue Potion | ??? |
+ | ??? | ??? | Milk syrup | Light steel blue Potion | ??? |
+ | Galbano plant | Qian Hu | Periodic acid | ??? | Fantastic Potion |
+ | Calcium hydroxide | Stiff silkworm | Sea Breeze Vine | Light slate gray Potion | ??? |
+ | Persimmon Frost | ??? | Celestial vine | ??? | Opulent Potion |
+ | ??? | Ostrich egg | Common flea-bane | Slate-gray Potion | ??? |
+ | ??? | Fresh meat | Brocade lantern | Light cyan Potion | ??? |
+ | Septfoil | Navy fruit | Fuming sulfuric acid | ??? | Inspiring Potion |
+ | ??? | Mandrake | 萆薢 | Orchid Potion | ??? |
+ | Sea dragon | Desert Sage | Brigham Tea | Flourescent orange Potion | ??? |
+ | Benzenesulfonic acid | Goat-kid blood | Alabaster | ??? | Perpetual Potion |
 
-::: exit:table-17
+::: exit:potiontable-8
 
 
-::: section:table-18 classes:"break-after"
+::: section:potiontable-9 classes:"break-after"
 
-*Finished Potions-*
+*Grounded Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | cocoa | ??? | Lacquer or Shellac | ??? | Potion of Causticity |
- | Pennyroyal | Ivy | Comfrey | Rust colored Potion | ??? |
- | Zhihongqi | Distilled or filtered vinegar | Mercury | Green-yellow Potion | ??? |
- | Oil of Mastick | Pork fat | Water of unripened grapes | Chartreuse Potion | ??? |
- | Wulingzhi | Rhubarb | Crimson from an old world cochineal insect | Lime green Potion | ??? |
- | 1,2-Dichloroethane | Pig's trotters | Bergenia | ??? | Potion of Temporariness |
- | ??? | Rusty iron | Periodic acid | ??? | Potion of Oldness |
- | Lily of the valley | ??? | ??? | ??? | Potion of Wonderfulness |
- | ??? | Intolerance | Potassium iodate | ??? | Potion of Hopefulness |
- | ??? | ??? | tert-Butyl alcohol | ??? | Potion of Heartlessness |
- | Shanxi | Pomegranate | ??? | Light sea green Potion | ??? |
- | Sichuan Fritillaria | Strawberry | ??? | Fire brick Potion | ??? |
- | Decotion of Hemlock | Dwarf Mallow flowers | Resin or gum or balsam from the Storax | Wheat Potion | ??? |
+ | Rue leaves | Resin from a pear tree | ??? | ??? | Bright Potion |
+ | Raven | Vinegar with rose-water | ??? | Flourescent blue Potion | ??? |
+ | Vulture fat | ??? | Bromocresol green sodium salt | ??? | Potion of Bumptiousness |
+ | Cumin flowers | Blue Vervain | Bark of the Cinnamomum Cassia tree | Blue-violet Potion | ??? |
+ | Bengewine oil | ??? | ??? | ??? | Nonconformist Potion |
+ | Gu Ya | Common wax | ??? | Dim gray Potion | ??? |
+ | Spikenard | Bolster | Mochizuki sand | ??? | Potion of Dolorousness |
+ | 1-Pentanol | The tongue of a dead Snake? Or a plant? | Coffee | Light blue Potion | ??? |
+ | Carline thistle | Lithium carbonate | Spanish tar | Spring green Potion | ??? |
+ | Cassia pulp | Crab shells | Sticadove/sticadoor | ??? | Freedom-loving Potion |
+ | Agrippa's ointment | Duck | Eyebright | ??? | Poignant Potion |
+ | ??? | Clear lessia | ??? | ??? | Potion of Materialness |
+ | Alexandrian turpentine | Fever-few chrysanthemum/mother-wort | Oil of yellow violets | ??? | Potion of Droughtiness |
 
-::: exit:table-18
+::: exit:potiontable-9
 
 
-::: section:table-19 classes:"break-after"
+::: section:potiontable-10 classes:"break-after"
 
-*Desperate Potions-*
+*Boring Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | ??? | Ammonium iodide | ??? | ??? | Amazing Potion |
- | Endive root | ??? | ??? | Glittery Potion | ??? |
- | Clay | Residue left after making acqua forte | ??? | ??? | Potion of Beggarliness |
- | Oak galls | ??? | A lily | Fire brick Potion | ??? |
- | Pork lung | The tooth of a hanged man | Carob | ??? | Perceptive Potion |
- | Snake Venom | Musk | Rosemary roots | Silver Potion | ??? |
- | ??? | Bracken root | ??? | ??? | Potion of Voluntariness |
- | Pig's trotters | Oak ointment | Celestial shell | ??? | Potion of Wishfulness |
- | Raven | Su Hexiang | Quail | ??? | Barren Potion |
- | Astringent hemostatic drug | Olives | ??? | ??? | Potion of Otherness |
- | lemon | ??? | Donkey-hide glue | ??? | Fatalistic Potion |
- | xanthophyll | Borage roots | ??? | White Potion | ??? |
- | ??? | Crane grass bud | ??? | ??? | Angelic Potion |
+ | ??? | Ammonium phosphate | ??? | ??? | Potion of Cursoriness |
+ | Salamander blood | June Snow | Oat flour | Light cyan Potion | ??? |
+ | Lentil | ??? | ??? | Dim gray Potion | ??? |
+ | Ten Great Contributions | Cadmium chloride | Pine | Midnight blue Potion | ??? |
+ | ??? | Sulpher (Also known as brimstone) | Calcinate Tartar | Lavender blush Potion | ??? |
+ | A variety of small cherry | Wedelia | Gourd tea | ??? | Potion of Relentlessness |
+ | Dates | Bergamot | Gum of the giant-fennel | Red Potion | ??? |
+ | ??? | Oil of Nut-meg | Urine of healthy young child | ??? | Potion of Euphoniousness |
+ | ??? | Donkey fat | Nutmeg flowers | ??? | Rotten Potion |
+ | ??? | Starfish | Muriatic Acid | ??? | Potion of Wantonness |
+ | Cadmium chloride | Orpine | Strawberry | ??? | Potion of Blissfulness |
+ | Oyster | French mercury | Red aristoloch | Orange Potion | ??? |
+ | realgar | Balsam tree wood | The Apostles' unguent | Transparent Potion | ??? |
 
-::: exit:table-19
+::: exit:potiontable-10
 
 
-::: section:table-20 classes:"break-after"
+::: section:potiontable-11 classes:"break-after"
 
-*Adult Potions-*
+*Cosmic Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Celandine, Swallow wort | Tartar (from barrels) | White milk vetch | Light slate blue Potion | ??? |
- | Potassium sulfate | Duck fat | Fennel | Dark turquoise Potion | ??? |
- | Stamen | Hydrogen fluoride | Benzoin | ??? | Perceptible Potion |
- | Black wax | Pork kidney | Red sandalwood | ??? | Potion of Slovenliness |
- | White milk vetch | Ligroine | lemon | Light steel blue Potion | ??? |
- | Ammonium cerium(IV) sulfate | ??? | Wax, Green. | Light yellow Potion | ??? |
- | Sodium sulfide nonahydrate | Water chestnuts | Myrtle berries | ??? | Potion of Unlikeness |
- | turmeric | Rhodiola | Horseradish | ??? | Defective Potion |
- | ??? | Alchohol | Galen's ointment | ??? | Potion of Goodness |
- | Partridge gall | Mianma Guanzhong | Distilled vinegar | ??? | Potion of Greenness |
- | Cretan dittany | Sodium periodate | Yanghua | Navajo white Potion | ??? |
- | ??? | ??? | Tetrabromophenolphthalein ethyl ester | Light green Potion | ??? |
- | Elm juice | ??? | ??? | ??? | Potion of Kindliness |
+ | ??? | Plowshare | Sea cucumber | ??? | Potion of Droughtiness |
+ | Pomegranate shell | Heliotrope, | Yuzhou Leulu | Hot pink Potion | ??? |
+ | ??? | Nickel(II) chloride hexahydrate | ??? | Light pink Potion | ??? |
+ | Mulberry tree | ??? | A cordial of ambergris and musk | ??? | Potion of Neurotoxicity |
+ | White onion | ??? | Distilled water | Wheat Potion | ??? |
+ | Counter poison | ??? | Elder bark | ??? | Potion of Sightliness |
+ | Ma Bao | Hyena pelt | Common liver-wort | Silver Potion | ??? |
+ | Liu Jinu | powder from a dried birth-caul | Kava Root | Green-yellow Potion | ??? |
+ | Sage | ??? | Water of spike | Navy-blue Potion | ??? |
+ | White cardamom | Swan fat | Snails | Transparent Potion | ??? |
+ | Veal hoof/foot | Hazelnut shells | lettuce | ??? | Potion of Pointlessness |
+ | ??? | ??? | tert-Butyl alcohol | ??? | Potion of Whimsicalness |
+ | Stannous chloride dihydrate | Antler Gum | Citron oil | ??? | Potion of Facetiousness |
 
-::: exit:table-20
+::: exit:potiontable-11
 
 
-::: section:table-21 classes:"break-after"
+::: section:potiontable-12 classes:"break-after"
 
-*Everlasting Potions-*
+*Invigorating Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Jumbles, sugar paste | Scorpion bile | Sodium azide | ??? | Potion of Likeness |
- | ??? | Dill leaves | Vine root | Sparkly Potion | ??? |
- | horse-pipe | A lily | Nitric Acid | Deep sky blue Potion | ??? |
- | Sodium molybdate(VI) dihydrate | Hyacinth/ Jacinth | Spider's web | ??? | Potion of Pepperiness |
- | Astringent hemostatic drug | Frankincense, Olibanum tree | Bone-seeking style | ??? | Potion of Ungodliness |
- | False horse-tail | ??? | ??? | Dark turquoise Potion | ??? |
- | Cool blood | Curcuma | Sneeze-wort | Light sky blue Potion | ??? |
- | Mulberry tree | Bran | Theriac water | ??? | Potion of Strictness |
- | Codonopsis | ??? | ??? | Gold Potion | ??? |
- | Sweet-flag, Sweet sedge, Myrtle sedge. | Starch | Balsam tree wood | ??? | Contemptible Potion |
- | ??? | Hibiscus | St. John's Wort | ??? | Potion of Softness |
- | ??? | Diazenecarbothioic acid | Root of Snakeweed, bistort, adderword | ??? | Potion of Moistness |
- | Wild Thyme, mother of thyme | ??? | Golden Seal | Pale goldenrod Potion | ??? |
+ | Orange-water | Loofah | pumpkin seeds | ??? | Potion of Multiplicity |
+ | Balsam tree wood | Ephedra | Sodium sulfate anyhdrous | Lavender blush Potion | ??? |
+ | Tarantulas | Brother king | Flies' heads | ??? | Potion of Jazziness |
+ | Milk syrup | Pine knot | Alchohol | Glittery Potion | ??? |
+ | Potassium nitrate/Saltpetre (rock salt) | Dendrobium | Fist Ginseng | Violet-red Potion | ??? |
+ | ??? | ??? | Plantain | Light blue Potion | ??? |
+ | Salt wood | Benzenesulfonic acid | Mallow | Honeydew Potion | ??? |
+ | Horseradish root | Clarified honey | Yellow Bee's wax | Dark slate-gray Potion | ??? |
+ | Wild mountain sage leaves | Balsam tree wood | Green savin | ??? | Fertile Potion |
+ | Oil of Cinnamon | Hibiscus Leaf | Pot marigonld | Navy Potion | ??? |
+ | ??? | Lentils | Sulphuric acid | Gold Potion | ??? |
+ | ??? | Sodium 2,3-dihydroxybutanedioate--water (2/1/2) | Sneeze-wort | ??? | Precious Potion |
+ | Batavian endive seed | Donkey fat | Human hair | Goldenrod Potion | ??? |
 
-::: exit:table-21
+::: exit:potiontable-12
 
 
-::: section:table-22 classes:"break-after"
+::: section:potiontable-13 classes:"break-after"
 
-*Anxious Potions-*
+*Apologetic Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | ??? | Wild apples | ??? | ??? | Passive Potion |
- | Red saxifrage | Nickel nitrate hexahydrate | Dew | ??? | Potion of Sorrowfulness |
- | Wound-wort | gourd | Senna | ??? | Potion of Cleanness |
- | Eosin | Fennel | Lupin flour | ??? | Potion of Inelasticity |
- | ??? | ??? | Blackberry leaves | ??? | Potion of Fairness |
- | ??? | Sugar and egg white | Olive flowers | ??? | Potion of Temporariness |
- |  | Aluminum sesquisulfate octadecahydrate | Lemon-balm water | Lavender blush Potion | ??? |
- | Wax, Green. | Swallow-brain | Barley | ??? | Potion of Overtness |
- | ??? | Straw | ??? | Violet-red Potion | ??? |
- | Soot | ??? | ??? | ??? | Potion of Perniciousness |
- | Gold filings | Dwarf Mallow, round Dock | Patchouli | Matte black Potion | ??? |
- | ??? | Blackberry leaves | An exhumed piece of clothing | Dim gray Potion | ??? |
- | ??? | ??? | Winter Melon Peel | ??? | Pathological Potion |
+ | Slug | ??? | ??? | ??? | Outdated Potion |
+ | South crane louse | Ginseng | Gum or resin from a fennel plant | Light slate blue Potion | ??? |
+ | Thioacetamide | Common box oil | Silver | ??? | Potion of Arbitrariness |
+ | Butyl acetate | Hydrazine sulfate | Basil | Light sky blue Potion | ??? |
+ | Red clay from Alessandria | Dry  soap | Schisandra | Lavender blush Potion | ??? |
+ | Bai Ziren | Tripterygium wilfordii | ??? | Orange-red Potion | ??? |
+ | Iris oil | Corals | Auripigmentum, or Arsenick | Dark turquoise Potion | ??? |
+ | Solidago | Ginger | Eclipta prostrata | ??? | Potion of Agility |
+ | Worms | Endive | Scrophulariaceae | ??? | New Potion |
+ | Mullein | Gold(3+) chloride--hydrogen chloride--water (1/3/1/3) | Deer grease | Deep pink Potion | ??? |
+ | Fennel flowers | potato | Round Cypress, native of east indies | Fire brick Potion | ??? |
+ | ??? | ??? | St. John's wort oil | ??? | Potion of Sprightliness |
+ | Dill flowers | Bran | ??? | Light goldenrod yellow Potion | ??? |
 
-::: exit:table-22
+::: exit:potiontable-13
 
 
-::: section:table-23 classes:"break-after"
+::: section:potiontable-14 classes:"break-after"
 
-*Well-intentioned Potions-*
+*Noncommittal Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Bezoar | Poria | Rosemary leaves | Light slate-gray Potion | ??? |
- | ??? | ??? | Sage | Navy Potion | ??? |
- | ??? | Galen's ointment | Sea buckthorn | Lavender blush Potion | ??? |
- | ??? | ??? | Hard soap | ??? | Potion of Boxiness |
- | Angelica | ??? | Fennel | ??? | Potion of Greatness |
- | Privet | Willingxian | Musk-rose water | Light blue Potion | ??? |
- | White rose water | ??? | Camellia | Light yellow Potion | ??? |
- | Shouwu vine | ??? | Knotweed | ??? | Potion of Warmness |
- | Betony leaves | ??? | White lily bulb | Forest green Potion | ??? |
- | Dill root | Loofah | Partridge gall | Pale goldenrod Potion | ??? |
- | A cockle/whelk/winkle | Cinnabar | Barium acetate | Sky blue Potion | ??? |
- | Magnesium chloride hexahydrate | ??? | ??? | Gold Potion | ??? |
- | Potassium acetate | ??? | ??? | ??? | Potion of Thankfulness |
+ | Water-lily | ??? | ??? | ??? | Potion of Idolatrousness |
+ | Cadmium sulfate (1:1) | Bear fat | Honeysuckle | ??? | Potion of Changefulness |
+ | ??? | 1-Naphthalenesulfonic acid | ??? | ??? | Potion of Untimeliness |
+ | Sucrose | Red earth | Millet | Light slate gray Potion | ??? |
+ | Olive skins | Hook | Gang Mei | Blue-violet Potion | ??? |
+ | Fever-few chrysanthemum/mother-wort | White pepper | Gynostemma | ??? | Potion of Sprightliness |
+ | A good wine, like Malmesie | Silver(1+) diethylcarbamodithioate | Mercury | ??? | Potion of Levelness |
+ | Residue left after making acqua forte | ??? | ??? | ??? | Potion of Chivalrousness |
+ | Turpentine from the terebinto/terebinth tree | Pike teeth | A White dog | ??? | Potion of Foulness |
+ | Cupric chloride dihydrate | Water-lily | Dew | ??? | Potion of Slackness |
+ | Mao Dongqing | Lark | Skimmed honey | Light blue Potion | ??? |
+ | Sugar flavoured with borage, or rose-campion | Iron | Cardamon | ??? | Potion of Commonness |
+ | ??? | Earthworms, (Red) | ??? | ??? | Potion of Gloominess |
 
-::: exit:table-23
+::: exit:potiontable-14
 
 
-::: section:table-24 classes:"break-after"
+::: section:potiontable-15 classes:"break-after"
 
-*Cruel Potions-*
+*Golden Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | South crane louse | Hog's fennel, Sulphur weed | ??? | ??? | Potion of Mendaciousness |
- | Cinnamon | Mucillage of Goat's beard | Round Cypress, native of east indies | ??? | Quivering Potion |
- | ??? | Donkey-hide glue | 1-Butanaminium | ??? | Potion of Ungainliness |
- | ??? | Sword Beans | ??? | ??? | Potion of Glueyness |
- | Sodium periodate | ??? | ??? | Light pink Potion | ??? |
- | White Poplar | grape | Potassium chlorate | Grey Potion | ??? |
- | Hazelwort. | Guangzao | Sulfur compounds | ??? | Potion of Driving ability |
- | Heart -wort or birth wort | Corrosive sublimate | ??? | ??? | Potion of Sportfulness |
- | ??? | ??? | Andrographis | ??? | Potion of Rationalness |
- | Violet syrup | Tetrabutylammonium bromide | Abutilon | ??? | Potion of Lukewarmness |
- | ??? | Mistletoe | A bone from a deer's heart | Yellow-green Potion | ??? |
- | Clover oil | Badger grease | Herbal Bayberry | Light pink Potion | ??? |
- | Soybeans | ??? | ??? | ??? | Potion of Iciness |
+ | Hemlock leaves | Pine resin | ??? | Flourescent blue Potion | ??? |
+ | Root of white bryony | ??? | A shrub which bears peppers | ??? | Potion of Healthfulness |
+ | ??? | Benzyl alcohol | Lupin (Could be either wild or Egyptian) | ??? | Potion of Synchronicity |
+ | Branches of wild pear | Dipotassium hydrogenorthophosphate | ??? | Light blue Potion | ??? |
+ | Red clay from Alessandria | Rosemary | Dendrobium | ??? | Religious Potion |
+ | Wild teasel, Shepherd's rod | Cholesterol | Hydroxylamine hydrochloride | Ivory Potion | ??? |
+ | Artemisia annua | Ammonium cerium(IV) sulfate | Cinnamon sticks | ??? | Potion of Licitness |
+ | Potassium dichromate | Silver leaf | ??? | ??? | Persnickety Potion |
+ | Bai Ziren | ??? | ??? | ??? | Potion of Sphericity |
+ | Blackberry leaves | Wheat bran | pomegranate | ??? | Celebrated Potion |
+ | Orange root | Barley bran | Galangal | Navy-blue Potion | ??? |
+ | ??? | Bitter almonds | Folefoot or hazel wort | ??? | Potion of Drunkenness |
+ | ??? | Eargrass | Flowers | Forest green Potion | ??? |
 
-::: exit:table-24
+::: exit:potiontable-15
 
 
-::: section:table-25 classes:"break-after"
+::: section:potiontable-16 classes:"break-after"
 
-*Demented Potions-*
+*Hopeless Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Ink | Nan Zhuzi | Same as above? | ??? | Patriotic Potion |
- | Water | ??? | ??? | Brown Potion | ??? |
- | A snake | ??? | ??? | ??? | Potion of Wastefulness |
- | Violet leaves | tomato | A song bird | ??? | Potion of Fretfulness |
- | Lily seed | Potassium chromate(VI) | Pyridine | ??? | Paradoxical Potion |
- | Salvia | Silver filings | ??? | Matte black Potion | ??? |
- | Benzoic acid | Ammonium hydroxide | Back to back | Glittery Potion | ??? |
- | Leaves of Scordion or water germander | ??? | Marjoram oil | ??? | Potion of Coolness |
- | Stone flower | Sweet wine | ??? | ??? | Potion of Playfulness |
- | Sodium formate | Red lead | Breast milk | Light pink Potion | ??? |
- | ??? | Patience leaves | ??? | ??? | Potion of Momentariness |
- | ??? | Horse's tooth | ??? | Glow in the dark Potion | ??? |
- | Gum from Guiacum | Sulfuric acid | Gold | ??? | Potion of Habitualness |
+ | ??? | Rye, winter corn flour | Green Sheep Ginseng | Paisley Potion | ??? |
+ | 2-Naphthalenol | ??? | ??? | Floral white Potion | ??? |
+ | ??? | Crabs | Taizishen | Glittery Potion | ??? |
+ | ??? | ??? | Sunflower Seeds | ??? | Variable Potion |
+ | Yin Chen | Halite (sodium cloride crystals) | Pine kernals | Brown Potion | ??? |
+ | White quartz | bottle brush | Dormouse | Light slate gray Potion | ??? |
+ | Cassia, Senna | ??? | Inchworm in amber | ??? | Potion of Chilliness |
+ | A Preparation using mercury | ??? | ??? | Deep pink Potion | ??? |
+ | Barium chloride dihydrate | Marsh-mallow, white mallow root | Copper shavings | Sky blue Potion | ??? |
+ | ??? | White hoar-hound syrup | Thistle | ??? | Potion of Commodiousness |
+ | Cayenne | Chloroplatinic acid | Barium nitrate | ??? | Zesty Potion |
+ | Walnuts | Swan fat | Dwarf Mallow flowers | ??? | Potion of Iciness |
+ | ??? | ??? | Grape pips | ??? | Potion of Piousness |
 
-::: exit:table-25
+::: exit:potiontable-16
 
 
-::: section:table-26 classes:"break-after"
+::: section:potiontable-17 classes:"break-after"
 
-*Plain Potions-*
+*Hierarchic Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Myrobalan | Granulated sugar | Lemon-water | Gold Potion | ??? |
- | ??? | Unique | ??? | Yellow-green Potion | ??? |
- | ??? | ??? | Fennel leaves | Flourescent green Potion | ??? |
- | ??? | Love in a mist | Crabs | ??? | Potion of Mirthfulness |
- | Sodium sulfide nonahydrate | Celery | Probably Nettles | ??? | Carefree Potion |
- | Red powder | Millstone | Holly hock | Violet Potion | ??? |
- | ??? | Arsenic compounds | watermelon | Forest green Potion | ??? |
- | Crow's eggs | Bryony leaves | sea ​​urchin | ??? | Biological Potion |
- | ??? | ??? | Straw | Powder blue Potion | ??? |
- | Any natural hard stone, like flint | Ipecacuanha | ??? | Gray Potion | ??? |
- | Cardamom | White lead pigment. OR lead carbonate. | Mallow-seeds | Camouflage Potion | ??? |
- | Southern Snake Vine | ??? | ??? | Dark turquoise Potion | ??? |
- | Peony Root | ??? | ??? | Blue Potion | ??? |
+ | Parsley | ??? | ??? | ??? | Cruel Potion |
+ | Ginseng | ??? | ??? | Flourescent green Potion | ??? |
+ | ??? | ??? | Wound-wort | ??? | Potion of Typicalness |
+ | Red wine tartar | Mianma Guanzhong | Belleric myrobalan | ??? | Useful Potion |
+ | ??? | Eel oil | sorrel | Camouflage Potion | ??? |
+ | Rose juice | Honey-water | Cumin Powder | Silver Potion | ??? |
+ | Quick-lime | Cinnamon scented with cloves | White henbane seeds | Light goldenrod yellow Potion | ??? |
+ | Red Clover | Dove excrement | Common dragon or snake plant or tarragon roots | ??? | Potion of Capriciousness |
+ | Dog's urine | Sumu | Ointment of Sandali | ??? | Potion of Limpness |
+ | Walnut water | Impatiens | Burnt cuttle-fish bone | ??? | Happy Potion |
+ | ??? | A morbid substance produced in land animals. | ??? | ??? | Thrilling Potion |
+ | Earth from Malta | Trachelospermi | ??? | Pale turquoise Potion | ??? |
+ | Golden boiled grass | ??? | Trilead bis(carbonate) dihydroxide | ??? | Potion of Circuitousness |
 
-::: exit:table-26
+::: exit:potiontable-17
 
 
-::: section:table-27 classes:"break-after"
+::: section:potiontable-18 classes:"break-after"
 
-*Foreign Potions-*
+*Hairy Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | ??? | Dendrobium | ??? | Pale goldenrod Potion | ??? |
- | Horseradish | Elsholtzia | Distilled or filtered vinegar | Honeydew Potion | ??? |
- | ??? | Carline thistle | Sodium arsenate heptahydrate | Light slate blue Potion | ??? |
- | Vine flowers | Leaves of cretan dittany | Vine seeds | ??? | Potion of Slovenliness |
- | Palladium(II) chloride | Ammonium metavanadate | Brocade lantern | ??? | Potion of Elderliness |
- | Galangale/Cat's tail | Pigeon | Sea dragon | ??? | Pointed Potion |
- | Poppy | Phosphoric acid | Longan | Light pink Potion | ??? |
- | ??? | ??? | Winter melon seeds | Brown Potion | ??? |
- | Animal fat | Quinine | Manure | Navy-blue Potion | ??? |
- | Unique | Galangal | Horse thief | ??? | Potion of Youthfulness |
- | A herb which makes one's nose bleed | Sea-water | Leek Seeds | ??? | Potion of Cageyness |
- | Horseradish peel | Chicken fat | Ethanolamine | ??? | Potion of Lugubriousness |
- | Wax oil | Broad bean flowers | ??? | ??? | Potion of Piousness |
+ | Mucillage of flax seeds | Wax, Green. | Ophiopogon japonicus | ??? | Revisionist Potion |
+ | Slippery Elm | C.I. Basic Red 9 monohydrochloride | Sodium chlorate | ??? | Placid Potion |
+ | Brucea javanica | St. John's wort flowers | Sodium sulfide nonahydrate | ??? | Potion of Modernness |
+ | Magnesium oxide | Mercury bromide (HgBr2) | Lentil | ??? | Potion of Hurtfulness |
+ | Clary-sage | Smelly peony | Cassia Lignea | ??? | Transcendental Potion |
+ | ??? | Acetone | Oil from a gland in the beaver | ??? | Potion of Antigenicity |
+ | rhubarb | Calamus | Deer grease | ??? | Eloquent Potion |
+ | ??? | ??? | Bull's urine | ??? | Potion of Criminal knowledge |
+ | ??? | Yellow arsenic-arsenic mixed with sulpher | Sodium bromophenol Blue | ??? | Potion of Flightiness |
+ | Prawn shells | Ink | Laurel leaves | Dark gray Potion | ??? |
+ | Steel filings | Head of Mutton | Propolis | Wheat Potion | ??? |
+ | Sheep's hoof | Green Vitriol | Clover | ??? | Potion of Beautifulness |
+ | ??? | Goose fat | ??? | Light steel blue Potion | ??? |
 
-::: exit:table-27
+::: exit:potiontable-18
 
 
-::: section:table-28 classes:"break-after"
+::: section:potiontable-19 classes:"break-after"
+
+*Pataphysical Potions-*
+| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
+|-|-|-|-|-|
+ | Snakes (Vipers) | Elm juice | Wheat bran | ??? | Potion of Fictitiousness |
+ | Sodium dodecyl sulfate | Sodium metabisulfite | Great hedge nettle | ??? | Potion of Weakness |
+ | ??? | ??? | apricot | ??? | Trembling Potion |
+ | White calcinated tartar | Bear fat | Eel gall | Yellow Potion | ??? |
+ | Atractylodes | ??? | ??? | Pale turquoise Potion | ??? |
+ | ??? | Tangerine | ??? | ??? | Potion of Robustiousness |
+ | Loquat leaves | Tumblewed | Bitter bean root | Pale goldenrod Potion | ??? |
+ | Emetic holly | Scorpions | Cuttle fish | Dark gray Potion | ??? |
+ | Carline thistle | Vitex Leaf | Pellitory of the wall | ??? | Potion of Epidemicity |
+ | ??? | watermelon | ??? | ??? | Potion of Dourness |
+ | Puhuang | Elsholtzia | Xu Changqing | ??? | Delightful Potion |
+ | ??? | Loquat | ??? | ??? | Potion of Perfidiousness |
+ | ??? | Orange flowers | Violets (purple) | Light slate gray Potion | ??? |
+
+::: exit:potiontable-19
+
+
+::: section:potiontable-20 classes:"break-after"
+
+*Allegorical Potions-*
+| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
+|-|-|-|-|-|
+ | Rhubarb syrup | Corals | Cardamom | Violet-red Potion | ??? |
+ | Melon | Lavender water | White coxcomb | Fire brick Potion | ??? |
+ | Potassium hydrogen diiodate | Rye, winter corn flour | St. John's Wort | Transparent Potion | ??? |
+ | ??? | ??? | Onion juice | Navajo white Potion | ??? |
+ | ??? | Purple Bay Teeth | ??? | Light steel blue Potion | ??? |
+ | Ass's foot | Eosin | Candied marrow | ??? | Potion of Helpfulness |
+ | ??? | ??? | White lily flower water | Wheat Potion | ??? |
+ | Chickweed | ??? | ??? | Rust colored Potion | ??? |
+ | ??? | Human blood | ??? | ??? | Potion of Cruelness |
+ | Pork Bladder | ??? | ??? | ??? | Atheoretical Potion |
+ | ??? | ??? | Yin Chen | ??? | Potion of Promptness |
+ | Myrrh | Litharge | Fresh meat | Brown Potion | ??? |
+ | ??? | Camellia | Lavender water | ??? | Enigmatic Potion |
+
+::: exit:potiontable-20
+
+
+::: section:potiontable-21 classes:"break-after"
+
+*Peculiar Potions-*
+| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
+|-|-|-|-|-|
+ | Rosemary flowers | Butanedioic acid | Earth-apple roots | Ghost white Potion | ??? |
+ | Sodium formate | The tongue of a dead Snake? Or a plant? | Sticadove/sticadoor | Orchid Potion | ??? |
+ | ??? | Potassium hydrogen diiodate | Snow | ??? | Foreign Potion |
+ | Ma Bao | Seeds of woolly safflower | Holly hock | ??? | Potion of Fleetness |
+ | Cotton | Tiger Palm Grass | Mandrake | Matte black Potion | ??? |
+ | Tarragon root | Wine from  A decotion of mortella flowers | C.I. Direct Red 28 | Pale violet-red Potion | ??? |
+ | ??? | Spirit of vitriol | Oldenlandia diffusa | ??? | Potion of Skewness |
+ | Olive pit | Rose oil | Fumitory tips | ??? | Potion of Triplicity |
+ | gourd | ??? | Raspberry | Powder blue Potion | ??? |
+ | A medicinal stone | Amber | White water lily | Orange-red Potion | ??? |
+ | Fennel water | Earth-gall, fever-wort | Celestial vine | ??? | Glowing Potion |
+ | Impatient | Sweet potato | Rosemary roots | Yellow Potion | ??? |
+ | Hydroxylamine hydrochloride | Whole melon | ??? | Light blue Potion | ??? |
+
+::: exit:potiontable-21
+
+
+::: section:potiontable-22 classes:"break-after"
+
+*Accidental Potions-*
+| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
+|-|-|-|-|-|
+ | Fumitory | Natural copper | ??? | ??? | Rambling Potion |
+ | Salsola | Coggin | Donkey fat | Robin's egg blue Potion | ??? |
+ | Prawn shells | Spikenard | Erigeron | ??? | Potion of Bogusness |
+ | ??? | ??? | Leeches | ??? | Almighty Potion |
+ | Hematite | Cinnabar | Parsley roots | Pale goldenrod Potion | ??? |
+ | Goat's dung | ??? | A White dog | Dark turquoise Potion | ??? |
+ | Pearls | Ligustrum leaf | Sodium thiosulfate, pentahydrate | ??? | Potion of Miserliness |
+ | Bad oil | 3-Hydroxy-4-(6-hydroxy-m-tolylazo)naphthalene-1-sulphonic acid | Bettony water | ??? | Cinematic Potion |
+ | Thiophene | Scutellaria | Cotton-seed oil | ??? | Talented Potion |
+ | turmeric | Tench | Blue Cohosh | ??? | Potion of Wonderfulness |
+ | Potassium thiocyanate | ??? | 3-Amino-7-dimethylamino-2-methylphenazine hydrochloride | ??? | Potion of Tranquilness |
+ | antlers | Blue lily | Evodia | Light blue Potion | ??? |
+ | Sheep's fat/grease | Smallage water | Broad bean leaves | ??? | Potion of Vivaciousness |
+
+::: exit:potiontable-22
+
+
+::: section:potiontable-23 classes:"break-after"
+
+*Passive Potions-*
+| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
+|-|-|-|-|-|
+ | Geranium | Common Borage, Tale-wort/ Rose- campion | White gall | ??? | Potion of Commodiousness |
+ | Fox's blood | Sodium carbonate | ??? | ??? | Potion of Sexiness |
+ | 1,4-Benzenediamine | Castor oil | Cuttle-fish ink | Floral white Potion | ??? |
+ | Lead nitrate | Curcuma | Allum | Sky blue Potion | ??? |
+ | ??? | ??? | Potentilla | ??? | Potion of Vociferousness |
+ | Antler Cream | Cedar | Ointment of Martiatum | ??? | Potion of Haziness |
+ | Coggin | Milk-wort | Crane louse | ??? | Potion of Cleanness |
+ | Wine from  A decotion of mortella flowers | ??? | Mullein | Robin's egg blue Potion | ??? |
+ | Tomb back | Cool blood | Flesh of a castrated male sheep | ??? | Boring Potion |
+ | Slippery Elm | ??? | ??? | Antique white Potion | ??? |
+ | Sodium tungstate dihydrate | Willow wood ash? | An eagle stone | Grey Potion | ??? |
+ | Marigold | Papaya | Pitch | Violet Potion | ??? |
+ | Thyme | Urine | Peakcock dung | ??? | Potion of Sorrowfulness |
+
+::: exit:potiontable-23
+
+
+::: section:potiontable-24 classes:"break-after"
+
+*Neo-classical Potions-*
+| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
+|-|-|-|-|-|
+ | miva citoniorum | ??? | Lead filings | ??? | Potion of Salutariness |
+ | Persimmon | ??? | ??? | ??? | Perceptible Potion |
+ | Buddha grass | Scorpion bile | Lithium carbonate | Grey Potion | ??? |
+ | White water lily | Bolster | Hydroxylamine hydrochloride | ??? | Potion of Slothfulness |
+ | Blood | Mao Dongqing | Strawberry | ??? | Potion of Adversariness |
+ | ??? | Antimony | ??? | Floral white Potion | ??? |
+ | Sulpher oil | King's clover flowers | Root of the greater celandine | Camouflage Potion | ??? |
+ | Wild dwarf mallow leaves | Rose roots | Honey-water | ??? | Potion of Sleepiness |
+ | Rosemary flowers | White and | Codonopsis | Light sky blue Potion | ??? |
+ | Stop blood flow | Bryony leaves | Lentil flour | Flourescent orange Potion | ??? |
+ | Dandelion | Great Cardomom | Gao Ben | ??? | Potion of Initialness |
+ | Red dye | Trichloroethylene | Resin from a plum tree | Navajo white Potion | ??? |
+ | Red Clover | Lingxiang | White sandlewood flowers | ??? | Aromatic Potion |
+
+::: exit:potiontable-24
+
+
+::: section:potiontable-25 classes:"break-after"
+
+*Punishing Potions-*
+| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
+|-|-|-|-|-|
+ | Benzene | Cotton seeds | Sea-water | Lavender Potion | ??? |
+ | Cotton | Frog-fish | Pepper | ??? | Natural Potion |
+ | ??? | Chard or beets | ??? | ??? | Potion of Hypotonicity |
+ | Parsley seeds | cinnamon | Bear bile | Light steel blue Potion | ??? |
+ | A bone from a deer's heart | Navelwort, Kidney-wort | Gorgon | ??? | Omnipresent Potion |
+ | Coconut oil | 1-Pentanol | Yellow wax oil | ??? | Potion of Goitrogenicity |
+ | Copper(I) chloride | Arborvitae leaves | A whole egg | Flourescent green Potion | ??? |
+ | Pork blood | Hawthorn? | Ammonium carbonate | Light blue Potion | ??? |
+ | Clover oil | Pokeweed | Lithium perchlorate | Fire brick Potion | ??? |
+ | Polygonum | Pork meat | Nackre | Glow in the dark Potion | ??? |
+ | Plantain roots | 1-Octanol | Liquidambar | Sky blue Potion | ??? |
+ | Lily seed | White henbane | Breast (or grease of?) of a male animal | ??? | Slender Potion |
+ | Brain of an Eagle | Tannic acid | Snake Venom | ??? | Preeminent Potion |
+
+::: exit:potiontable-25
+
+
+::: section:potiontable-26 classes:"break-after"
+
+*Omnivorous Potions-*
+| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
+|-|-|-|-|-|
+ | As medicine | peony | Cypress roots | ??? | Potion of Inverness |
+ | ??? | Purslane seeds | ??? | ??? | Potion of Greyness |
+ | Abutilon | Apricot | Pitch | ??? | Enhanced Potion |
+ | Leopard's bane | Guinea Pepper | Sparrows | Deep pink Potion | ??? |
+ | ??? | Huanglian | Saffron | ??? | Potion of Seismicity |
+ | Eucommia | Jujube | Astilbe | ??? | Infantile Potion |
+ | St. John's wort flowers | ??? | A lily | ??? | Talented Potion |
+ | ??? | Litharge | ??? | ??? | Intriguing Potion |
+ | ??? | Antiperspirant | ??? | ??? | Potion of Cheapness |
+ | ??? | ??? | Cream | ??? | Potion of Greensickness |
+ | ??? | ??? | Wood march, common sanicle | ??? | Potion of Dilatoriness |
+ | ??? | Veal water | ??? | ??? | Potion of Prayerfulness |
+ | ??? | ??? | Rosemary water | Tartan Potion | ??? |
+
+::: exit:potiontable-26
+
+
+::: section:potiontable-27 classes:"break-after"
+
+*Joyful Potions-*
+| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
+|-|-|-|-|-|
+ | Common flea-bane mucillage | Albizia | Castor oil plant | Light goldenrod Potion | ??? |
+ | Methyl ethyl ketone | ??? | wheat | Light coral Potion | ??? |
+ | A serpent scale | ??? | ??? | ??? | Potion of Authenticity |
+ | Nan Zhuzi | ??? | ??? | Light steel blue Potion | ??? |
+ | sandalwood | Yekoto | Acacia | ??? | Potion of Greyness |
+ | Rosemary essence | Intolerance | Goat-kid gall | ??? | Potion of Motherliness |
+ | ??? | ??? | Wild boar gall | ??? | Potion of Mercenariness |
+ | Water speedwell | Bay berries | Octopus | ??? | Potion of Evenness |
+ | Pumice stone | ??? | Black pepper | ??? | Potion of Dolefulness |
+ | Swallows | Leaves of Red currants | Ladanam | Light green Potion | ??? |
+ | Isopropanol | A julep with rose | Arsenic oxide (As2O3) | ??? | Potion of Swampiness |
+ | ??? | ??? | Nettle seeds | Forest green Potion | ??? |
+ | Polyporus | Earth-gall, fever-wort | Rosemary essence | Dark gray Potion | ??? |
+
+::: exit:potiontable-27
+
+
+::: section:potiontable-28 classes:"break-after"
+
+*Naturalistic Potions-*
+| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
+|-|-|-|-|-|
+ | Magnesium sufate heptahydrate | ??? | ??? | ??? | Potion of Otherness |
+ | ??? | Goblin Grass | ??? | ??? | Potion of Resentfulness |
+ | Strong vinegar | Elaeagnus | ??? | ??? | Potion of Nothingness |
+ | Glass shavings | Buddha grass | Grass black leaves | ??? | Potion of Princeliness |
+ | Egg whites | ??? | ??? | Lavender Potion | ??? |
+ | ??? | Duck | common spleenwort | Indian red Potion | ??? |
+ | ??? | ??? | Mugwort | ??? | Potion of Contiguousness |
+ | Rhubarb | Goat's milk | Pitcher plant | Gray Potion | ??? |
+ | Willow wood ash? | King Bed | St. John's wort | Light goldenrod yellow Potion | ??? |
+ | Oil of Ivy-gum | Dianthus | Potassium hydrate | ??? | Potion of Wellness |
+ | Laurel roots | Human fat | Lily-root | ??? | Simple Potion |
+ | Red kidney beans? | Musk | Elephant tooth | Chartreuse Potion | ??? |
+ | Apples | Rue -water | ??? | Light slate gray Potion | ??? |
+
+::: exit:potiontable-28
+
+
+::: section:potiontable-29 classes:"break-after"
+
+*Perfect Potions-*
+| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
+|-|-|-|-|-|
+ | Goat's lungs | Garlic | Egg-white water | ??? | Gentle Potion |
+ | Vine sprigs | Chuan Neem | A White dog | Flourescent yellow Potion | ??? |
+ | Byzantine syrup | Xylenol orange, tetrasodium salt | 2,2,4-Trimethylpentane | ??? | Potion of Unjustness |
+ | Celtic spikenard or valerian | Snake's skin | Sea cow | ??? | Ephemeral Potion |
+ | ??? | ??? | Nitric Acid | ??? | Potion of Maliciousness |
+ | Magnesium sufate heptahydrate | Date flesh | Nigella | ??? | Potion of Narrowness |
+ | ??? | Borate(1-) | Curcuma | Blue-violet Potion | ??? |
+ | Golden Needle | ??? | ??? | Yellow-green Potion | ??? |
+ | Dwarf mallow seeds | Rhubarb | Canna | ??? | Unchanging Potion |
+ | Peach | Willow wood | ??? | Cornflower blue Potion | ??? |
+ | Teasel | Chives | Tarassico is a dandelion | ??? | Potion of Consciousness |
+ | ??? | Privet leaves | ??? | Orange-red Potion | ??? |
+ | ??? | Acetaldehyde | ??? | ??? | Post-revolutionary Potion |
+
+::: exit:potiontable-29
+
+
+::: section:potiontable-30 classes:"break-after"
+
+*Alien Potions-*
+| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
+|-|-|-|-|-|
+ | Pot marigonld | Oil of Incence | Radish water | Light goldenrod Potion | ??? |
+ | Clove-Leaves | Round onion roots | ??? | Dim gray Potion | ??? |
+ | ??? | ??? | Cassia Lignea | ??? | Bashful Potion |
+ | Veal flesh | Earth-gall, fever-wort | Benzyl alcohol | Navy-blue Potion | ??? |
+ | ??? | Squirting cucumber | ??? | ??? | Potion of Robustness |
+ | Gladioli root | Cinnabar | Corrugated | Light salmon Potion | ??? |
+ | Chives | ??? | ??? | ??? | Potion of Cursoriness |
+ | Powdered storax | Wood of the cypress tree | ??? | Powder blue Potion | ??? |
+ | Decotion made of allum, litharge, vinegar | Blood moss | ??? | ??? | Potion of Pertness |
+ | Boron sodium hydride (BNaH4) | Wheat flour | Reinecke salt | Cornflower blue Potion | ??? |
+ | ??? | Asafoetida | ??? | Light salmon Potion | ??? |
+ | Mountain Sesame | Fir-tree oil | Chuanwu | Deep sky blue Potion | ??? |
+ | Abutilon | Bengewine oil | Baijiang | Pale violet-red Potion | ??? |
+
+::: exit:potiontable-30
+
+
+::: section:potiontable-31 classes:"break-after"
+
+*Boring Potions-*
+| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
+|-|-|-|-|-|
+ | ??? | Fenugreek flour | ??? | ??? | Potion of Famousness |
+ | Chicken yellow | Bull's horn | ??? | Snow Potion | ??? |
+ | Dodder seeds | Face powder | Fennel | Chartreuse Potion | ??? |
+ | Ceratophyllum | Jin Jinxiang | Bristlegrass | ??? | Potion of Felicity |
+ | ??? | ??? | Adenophora | ??? | Potion of Propitiousness |
+ | watermelon | Spikenard | Amethyst | ??? | Low Potion |
+ | Bai Wei | Testicles of pork | Fig bark | Hot pink Potion | ??? |
+ | ??? | Sulfuric acid--2 | ??? | Glittery Potion | ??? |
+ | ??? | Venetian turpentine | Danewort | ??? | Potion of Gingerliness |
+ | Wool | Hara nut tree/ Citron myrobalan | C.I. Direct Red 28 | Pale turquoise Potion | ??? |
+ | ??? | Ma Linzi | Blood of a white dove | ??? | Potion of Suspiciousness |
+ | Seeds of wild endive | Octopus | Oil or gum distilled from syrian olive trees | Rainbow Potion | ??? |
+ | mulberry | Tarragon root | Celestial shell | Gray Potion | ??? |
+
+::: exit:potiontable-31
+
+
+::: section:potiontable-32 classes:"break-after"
 
 *Perpetual Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | White front | Orange Leaves | A White dog | ??? | Potion of Tonicity |
- | Crabs | radish | Fumitory | ??? | Accessible Potion |
- | Pepper corns | Belleric Myrobalan / Belleric | Kidney bean flour | Flourescent yellow Potion | ??? |
- | ??? | Fig bark | Carline thistle roots | Light coral Potion | ??? |
- | Elephant tooth | Galangal | Polygala | ??? | Wild Potion |
- | Olive flowers | ??? | Sweet lessia | Chartreuse Potion | ??? |
- | ??? | ??? | Golden stone | ??? | Potion of Maidenliness |
- | ginkgo | Rose Water | Bone-seeking style | Dark gray Potion | ??? |
- | ??? | ??? | Blood moss | ??? | Potion of Bioelectricity |
- | Guan Cork | ??? | ??? | Navy Potion | ??? |
- | Goblin Grass | Veal excrement | Leak | Slate-gray Potion | ??? |
- | Loofah | Common dragon or snake plant or tarragon roots | Goose lungs | Light goldenrod yellow Potion | ??? |
- | ??? | Zinc compounds | lily | ??? | Potion of Complicity |
+ | Astragalus | Milk vetch | Borage roots | ??? | Potion of Eagerness |
+ | Antler | White jasmine | Chimney soot | Lavender blush Potion | ??? |
+ | Xuanming powder | Acorns (Oak) | White bengewine | ??? | Potion of Heavenliness |
+ | A lodestone | Mullein | Three-thirds | Deep sky blue Potion | ??? |
+ | ??? | ??? | June Snow | Antique white Potion | ??? |
+ | Camping tree | sea ​​bass | ??? | Grey Potion | ??? |
+ | Burnt copper | Marjoram | Bromophenol blue | Glittery Potion | ??? |
+ | ??? | Potassium fluoride | ??? | Cornsilk Potion | ??? |
+ | Oak galls | Tortoiseshell | Crow's eggs | Light slate-gray Potion | ??? |
+ | ??? | ??? | Ferric ammonium sulfate | ??? | Potion of Momentariness |
+ | Capiscum | Sea Onion, Squill | Common dragon or snake plant or tarragon roots | ??? | Potion of Victoriousness |
+ | Green Leaf Gallbladder | People in Yellow | ??? | ??? | Potion of Devoutness |
+ | Pennyroyal, pudding grass | A Preparation using mercury | Baicao Frost | ??? | Contemptuous Potion |
 
-::: exit:table-28
+::: exit:potiontable-32
 
 
-::: section:table-29 classes:"break-after"
+::: section:potiontable-33 classes:"break-after"
 
-*Psychotherapeutic Potions-*
+*Courteous Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Almond milk | ??? | ??? | Light goldenrod Potion | ??? |
- | Potassium hydrogen diiodate | Bear bile | Orange water | ??? | Potion of Unnaturalness |
- | Glauber's salt | Oyster shells | Oil of the zilo balsam tree | ??? | Artificial Potion |
- | ??? | ??? | Silk worms | Gray Potion | ??? |
- | Big belly skin | Yellow wax | A kind of Storax | ??? | Electronic Potion |
- | Blackberries | D-Lactose monohydrate | As Allume di Feccia | Dark gray Potion | ??? |
- | Calamine | Cow's lungwort | Sijiqing | Flourescent green Potion | ??? |
- | Wheat | Raspberry | Seeds of flea-bane | Lavender blush Potion | ??? |
- | Lentil | Golden boiled grass | Neem | Light pink Potion | ??? |
- | Spirit of wine | Balsam fruit oil | Brook Yellow Grass | ??? | Perpetual Potion |
- | Round Cypress, native of east indies | Tapsia | Chicken broth | Yellow Potion | ??? |
- | realgar | Rectified spirit of silk | Genitals of female hare | ??? | Potion of Fellness |
- | Zilo: A tree which yields balsam | Allum | Myrtle water | ??? | New Potion |
+ | Chlorobenzene | Horse's testicles | Poppy shell | ??? | Deistic Potion |
+ | Narcissus | Sodium hydrogen sulfate | Sugar and egg white | Light slate-gray Potion | ??? |
+ | Halite | Eichhornia crassipes | Melon | Dark violet Potion | ??? |
+ | Glazed earth | Stannous chloride dihydrate | Black pepper | ??? | Enduring Potion |
+ | Torreya | King's clover seeds | Pork meat | ??? | Simple Potion |
+ | Codonopsis | Sheep's lungs | Salted water, brine, for pickling | Dark turquoise Potion | ??? |
+ | ??? | Capers | ??? | ??? | Potion of Brawniness |
+ | ??? | ??? | A kind of gluey earth found near Babylon. | ??? | Potion of Bleakness |
+ | ??? | ??? | Green calyx plum | ??? | Potion of Inwardness |
+ | Chimney soot | Myrobalan | Benzoic acid, 2-hydroxy-5-sulfo-, dihydrate | Camouflage Potion | ??? |
+ | Barley water | ??? | ??? | ??? | Potion of Quadruplicity |
+ | St. John's wort oil | Gold | Borage flowers | Dim gray Potion | ??? |
+ | ??? | ??? | Shofar | Dark violet Potion | ??? |
 
-::: exit:table-29
+::: exit:potiontable-33
 
 
-::: section:table-30 classes:"break-after"
+::: section:potiontable-34 classes:"break-after"
 
-*Ordinary Potions-*
+*Notorious Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Tansy | Civet | Wen Guan Guo | ??? | Joyful Potion |
- | Soot, ashes | Violets | Mianma Guanzhong | Flourescent orange Potion | ??? |
- | ??? | ??? | Mountain calamint | ??? | Potion of Synchronicity |
- | ??? | Horseradish seeds | ??? | ??? | Finished Potion |
- | ??? | Cadmium sulfate (1:1) | ??? | Black Potion | ??? |
- | ??? | Yu Li | Cool blood | Yellow-green Potion | ??? |
- | Marrow water | Fennel leaves | Tansy | Lavender blush Potion | ??? |
- | Rhubarb syrup | Oil of Myrrh | Cow's milk cheese | ??? | Potion of Almightiness |
- | Hematite | Probably Nettles | ??? | ??? | Potion of Practicalness |
- | Perchloric acid, lead(2+) salt (2:1) | White incense | ??? | Navy-blue Potion | ??? |
- | Camping tree | Nickel nitrate hexahydrate | Incense from the mastick tree | Blue Potion | ??? |
- | ??? | Clover/trefoil | Spike flowers | Green-yellow Potion | ??? |
- | ??? | ??? | Pork lung | ??? | Potion of Nutritiousness |
+ | Cinnabar root | ??? | grape | Lavender Potion | ??? |
+ | Xu Changqing | Loofah | Raspberry | ??? | Potion of Publicity |
+ | Sodium azide | Potassium acetate | ??? | Light slate-gray Potion | ??? |
+ | Fresh Rehmannia | Holy oil | Castor | Gray Potion | ??? |
+ | Prunella vulgaris | Dimethyl sulfoxide | Jujube | Pale green Potion | ??? |
+ | Tetrabutylammonium bromide | ??? | Angelica root | Slate-gray Potion | ??? |
+ | Longan | Notoginseng | Lead nitrate | ??? | Unchanging Potion |
+ | Borax | Dendrobium | Honey comb | Light green Potion | ??? |
+ | French mercury | Iris root | Cyclamen | ??? | Potion of Beauteousness |
+ | Alocasia | Iron compounds | ??? | Brown Potion | ??? |
+ | ??? | Sodium thiocyanate | ??? | ??? | Post-revolutionary Potion |
+ | kaoliang cereals | Seeds of wild endive | Thousand Gold Frost | Ivory Potion | ??? |
+ | Date stones | ??? | Green lizards | Flourescent green Potion | ??? |
 
-::: exit:table-30
+::: exit:potiontable-34
 
 
-::: section:table-31 classes:"break-after"
+::: section:potiontable-35 classes:"break-after"
 
-*Modern Potions-*
+*Parental Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | barley | ??? | ??? | Forest green Potion | ??? |
- | A fox | Knotweed | Almond nut | Navy-blue Potion | ??? |
- | Jiang Dan | Cinque foil, five-finger grass | Dill | Floral white Potion | ??? |
- | Calcium chloride | ??? | ??? | Light goldenrod yellow Potion | ??? |
- | Camphor | Wheat starch | Methanaminium, N,N,N-trimethyl-, bromide (1:1) | ??? | Potion of Spunkiness |
- | Horseradish | Scarlet pimpernel, or Sea purslane | Lovage seeds | ??? | Fabulous Potion |
- | Eel oil | White Pond Lily | ??? | Ghost white Potion | ??? |
- | Spanish wine | ??? | Minium / Red Lead | Flourescent orange Potion | ??? |
- | Dodder | Fruit of a balsam tree | ??? | ??? | Rhythmic Potion |
- | Turtle | Amber | ??? | Light salmon Potion | ??? |
- | ??? | White or Marsh-mallow water | grape | Pale violet-red Potion | ??? |
- | Calcium compounds | Golden Needle | Bran | ??? | Potion of Bleakness |
- | Black Snake | Sage-water | Rhino horn | ??? | Fresh Potion |
+ | ??? | Huoxiang | Pepper corns | Hot pink Potion | ??? |
+ | ??? | Tobacco | ??? | Glittery Potion | ??? |
+ | mint | Amber | Cotton | Blue-violet Potion | ??? |
+ | ??? | Goose Fat | Oil of tupentine | Wheat Potion | ??? |
+ | ??? | Sabine, or Savin | ??? | Pale turquoise Potion | ??? |
+ | ??? | Astringent hemostatic drug | ??? | ??? | Wet Potion |
+ | ??? | Ammonium ceric nitrate | ??? | Light pink Potion | ??? |
+ | ??? | Adenophora | Mistletoe | Light green Potion | ??? |
+ | Berberry, Barberry, Pipperidge | Black Walnut | Root of the greater celandine | Midnight blue Potion | ??? |
+ | Rosemary | Plum blossom | Marjoram oil | ??? | Potion of Capriciousness |
+ | Eucalyptus grandis | Navy fruit | Ichthyol | Flourescent green Potion | ??? |
+ | catechu | Sticadove/sticadoor | Muscadine-pears | ??? | Childish Potion |
+ | ??? | Sesame seed oil | Quick-lime | ??? | Perceptive Potion |
 
-::: exit:table-31
+::: exit:potiontable-35
 
 
-::: section:table-32 classes:"break-after"
+::: section:potiontable-36 classes:"break-after"
 
-*Philosophic Potions-*
+*Abysmal Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Galangale | A note containing lies | Hemlock | ??? | Outmoded Potion |
- | Abutilon | Benzoin | Tobacco water | Light coral Potion | ??? |
- |  | Scutellaria | Red dye | ??? | Potion of Unnaturalness |
- | Eyebright | Butter | Rhododendron xinanensis | Forest green Potion | ??? |
- | monosodium salt | ??? | Qunice seeds | ??? | Numinous Potion |
- | Puzzle | Earth worms | Cadmium nitrate tetrahydrate | Orange-red Potion | ??? |
- | Tarragon root | Mistletoe | Cyclamen root | Orchid Potion | ??? |
- | ??? | Sorrel | ??? | Honeydew Potion | ??? |
- | Potassium bitartrate | ??? | ??? | Cornsilk Potion | ??? |
- | Sodium cobaltinitrite | Ba Li Ma | White hoar-hound syrup | ??? | Everlasting Potion |
- | Mercuric sulfate | Bull's dung | Glutinous rice fibrous root | ??? | Potion of Cleverness |
- | ??? | Perrin | ??? | ??? | Potion of Slackness |
- | ??? | safflower | ??? | Sparkly Potion | ??? |
+ | Phenol red | ??? | C.I. Direct Red 28 | Snow Potion | ??? |
+ | Resin/gum from the mastic tree | ??? | ??? | ??? | Potion of Tonicity |
+ | White lily stamen | ??? | Aperetif waters | Green-yellow Potion | ??? |
+ | Potassium chromate(VI) | Scallion white | ??? | Flourescent yellow Potion | ??? |
+ | Mountain Sesame | Goat or kid | Sandarach tree, juniper-gum tree | ??? | Rambling Potion |
+ | Earth Blood Fragrance | White lily root | Garden balsam oil | Fire brick Potion | ??? |
+ | Chicken | Lavender water | Scorpion bile | ??? | Potion of Rightness |
+ | ??? | Capers from the east | Generation ocher | ??? | Fatalistic Potion |
+ | Ground pine | ??? | Elsholtzia | Slate-gray Potion | ??? |
+ | Fish-bone oil | ??? | ??? | ??? | Potion of Slimness |
+ | Gallus gallus | ??? | Hog's fennel, Sulphur weed | ??? | Amazing Potion |
+ | Damask rose | Plum blossom | Hyssop | Flourescent blue Potion | ??? |
+ | ??? | ??? | Aluminum sesquisulfate octadecahydrate | ??? | Charismatic Potion |
 
-::: exit:table-32
+::: exit:potiontable-36
 
 
-::: section:table-33 classes:"break-after"
+::: section:potiontable-37 classes:"break-after"
 
-*Competitive Potions-*
+*Small Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Liquid allum | A kind of hornet | ??? | Light salmon Potion | ??? |
- | Powder of bengewine | Egg shell | Poppy leaves | Light yellow Potion | ??? |
- | Sarsaparilla | ??? | Barberry | ??? | Overwrought Potion |
- | Ivy root | Silk worms | Goat's grease/fat | ??? | Potion of Robustiousness |
- | Carbonic acid | ??? | ??? | Blue Potion | ??? |
- | ??? | Dogwood | White Peony | ??? | Potion of Strictness |
- | Flower of a wild vine | Galbano plant | Myrtle sedge | ??? | Potion of Colonialness |
- | Madder vine | ??? | Loquat | Light goldenrod yellow Potion | ??? |
- | Baicao Frost | ??? | Fritillaria | ??? | Potion of Seemliness |
- | Honey comb | ??? | Endive syrup | Cornflower blue Potion | ??? |
- | ??? | ??? | Grass Red Vine | Dark slate-gray Potion | ??? |
- | ??? | ??? | Viper | Dark slate-gray Potion | ??? |
- | Earth from Malta | ??? | Barium nitrate | Transparent Potion | ??? |
+ | Red roses | D-Lactose monohydrate | Spike: Lavendula, French Lavender | ??? | Potion of Rapaciousness |
+ | Ephedra Root | Cuttle fish bone | Goat's dung | Orchid Potion | ??? |
+ | ??? | ??? | Potassium bitartrate | ??? | Potion of Chilliness |
+ | Powdered dog's head | Peppermint | Lemon- balm | Navy Potion | ??? |
+ | Mandrake | Lovage | ??? | Light slate-gray Potion | ??? |
+ | Bear fat | Goose Fat | Seaweed | ??? | Potion of Hazardousness |
+ | Ivy seeds/pods | ??? | ??? | ??? | Potion of Resentfulness |
+ | ??? | ??? | Peach | ??? | Broken-hearted Potion |
+ | Loofah | Catnip | Tortoiseshell | Flourescent orange Potion | ??? |
+ | Tangerine peel | Buckthorn | Roots of butcher's broom | White Potion | ??? |
+ | Yanghua | ??? | ??? | ??? | Potion of Sickliness |
+ | Solidago | Shellac | Cinnamon | ??? | Potion of Dolorousness |
+ | Light scatter | ??? | Wedelia | ??? | Potion of Utterness |
 
-::: exit:table-33
+::: exit:potiontable-37
 
 
-::: section:table-34 classes:"break-after"
+::: section:potiontable-38 classes:"break-after"
 
-*Bitter Potions-*
+*Passionate Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | ??? | 3-Amino-7-dimethylamino-2-methylphenazine hydrochloride | Monobasic potassium phosphate | Navy Potion | ??? |
- | Deer heart | Oil of egg-yolk | Tamarind | ??? | Bruised Potion |
- | ??? | Olive | Sodium 2,3-dihydroxybutanedioate--water (2/1/2) | Violet-red Potion | ??? |
- | Elm | Eucommia Leaves | Snakeweed, bistort, adderword | Lavender Potion | ??? |
- | Colt's foot | Fox grease | Poisonous celery | ??? | Precarious Potion |
- | Pearls | Rose buds | Phenol | Dark slate-gray Potion | ??? |
- | August | Marsh mallow | Two pointed | White Potion | ??? |
- | Camendrio | Protactinium | mulberry | Light yellow Potion | ??? |
- | ??? | Elecampane | Snake, (Grass ) | Violet Potion | ??? |
- | Lotus leaf | Absinthe | Olive | ??? | Potion of Plasticity |
- | Peach | ??? | ??? | Gold Potion | ??? |
- | Tomb back | ??? | ??? | ??? | Potion of Spitefulness |
- | An eagle stone | Pine knot | Plum | Antique white Potion | ??? |
+ | Goose brain | Cool blood | ??? | ??? | Admirable Potion |
+ | Prawn shells | Thioacetamide | Root of colocynth | ??? | Potion of Criminal knowledge |
+ | Three-thirds | Bitters? | Donkey bone marrow | ??? | Potion of Monospecificity |
+ | Iodine | Alisma | Qingfengteng | Flourescent yellow Potion | ??? |
+ | Flour | Ophiopogon japonicus | Millstone | Light yellow Potion | ??? |
+ | Honeysuckle Vine | ??? | ??? | Flourescent blue Potion | ??? |
+ | Myrtle water | Perrin | Bay berries | ??? | Artificial Potion |
+ | Pimpernel, Burnet sexifrage | Bark of the frankincense tree | Lupin flour | Light salmon Potion | ??? |
+ | Old shoes | ??? | ??? | Dark violet Potion | ??? |
+ | Stinky Indus | Molybdenum trioxide | Carbonic acid, barium salt (1:1) | ??? | Unrealistic Potion |
+ | A list of forgotten names | White Pond Lily | Horse's testicles | Navy-blue Potion | ??? |
+ | ??? | Dates | Sweet potato | ??? | Potion of Incestuousness |
+ | Camphor | Dregs/lees | Colt's foot/cough-wort | ??? | Potion of Dilatoriness |
 
-::: exit:table-34
+::: exit:potiontable-38
 
 
-::: section:table-35 classes:"break-after"
+::: section:potiontable-39 classes:"break-after"
 
-*Appreciative Potions-*
+*Incoherent Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Water lily root | Potassium acetate | A red-haired dog | ??? | Potion of Carcinogenicity |
- | Tetramethylammonium hydroxide | Wild mountain sage flowers | Seeds of Agnus Castus | Grey Potion | ??? |
- | A medicinal ointment | ??? | Grass black | ??? | Potion of Woeness |
- | Walnut flowers | The burnt shell of a nut | Canvas | Pale violet-red Potion | ??? |
- | Orange Leaves | Sulpher oil | ??? | ??? | Potion of Criticalness |
- | Earth-gall, fever-wort | Calamine | Ferric chloride hexahydrate | Dark gray Potion | ??? |
- | Zinc chloride | Spirit of vitriol | Capers from the east | ??? | Talented Potion |
- | ??? | Pueraria | 3-Hydroxy-4-(6-hydroxy-m-tolylazo)naphthalene-1-sulphonic acid | ??? | Potion of Boxiness |
- | ??? | Black cherries | ??? | Indian red Potion | ??? |
- | Goat's milk | Saxifrage | Antimony trichloride | ??? | Potion of Vacantness |
- | ??? | ??? | Fig | ??? | Pretty Potion |
- | Agnus Castus | Goat's spine or milk-vetch oil | Slugs | ??? | Potion of Toxigenicity |
- | Cadmium sulfate (1:1) | Purged soap | Chives | Light slate gray Potion | ??? |
+ | Rat droppings | Olive stones | Ceratophyllum | ??? | Potion of Jitteriness |
+ | A gum made from copal | 蔊菜 | keel | ??? | Rich Potion |
+ | A green branch | Cow's Milk | Pork lung | Dim gray Potion | ??? |
+ | ??? | Pig's trotters | Flowers of Agnus Castus | Light yellow Potion | ??? |
+ | ??? | ??? | Crane louse | ??? | Potion of Intactness |
+ | Bai Su | Syrup of fumitory | Cyclamen | Gold Potion | ??? |
+ | Oil of Apple of Jerusalem, Balsam apple | Gentian Violet | Ammonium compounds | ??? | Potion of Smarminess |
+ | Buffalo horns | Sodium cyanide | Oak leaves | Forest green Potion | ??? |
+ | Bengewine oil | ??? | Ramie | Wheat Potion | ??? |
+ | Melon seeds | Chard or beets | Oil of sweet almonds | Light steel blue Potion | ??? |
+ | Dove excrement | Skunk Cabbage | Puffball | Golden Potion | ??? |
+ | Sage | Goose | Acetic acid | ??? | Potion of Haughtiness |
+ | ??? | ??? | horseshoe crab | ??? | Potion of Awfulness |
 
-::: exit:table-35
+::: exit:potiontable-39
 
 
-::: section:table-36 classes:"break-after"
+::: section:potiontable-40 classes:"break-after"
 
-*Lazy Potions-*
+*Desperate Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Xin Yi | Another name for wormwood | honey | ??? | Potion of Drunkenness |
- | Mercuric oxide | Pine | ??? | ??? | Permissive Potion |
- | Marrow | Saxifrage, rock sage | Water of Cow's lungwort | ??? | Potion of Lysogenicity |
- | broad bean | ??? | Patience | ??? | Potion of Pastness |
- | ??? | Skunk Cabbage | Aoki Xiang | Wheat Potion | ??? |
- | Shanxi | Basil leaves | Potassium iodate | Light cyan Potion | ??? |
- | ??? | Acacia | ??? | ??? | Potion of Thorniness |
- | Buckthorn | Disodium sulfate decahydrate | Little Scabies | ??? | Potion of Cubicity |
- | Partridge gall | Clear lessia | Honey boiled with  Squil vinegar | Flourescent yellow Potion | ??? |
- | ??? | White mustard | ??? | ??? | Talented Potion |
- | Buckwheat | Cassia leaves | Oil of the zilo balsam tree | Steel blue Potion | ??? |
- | Rose | ??? | White lily | Cornsilk Potion | ??? |
- | Borax | Swallows eggs | Acetonitrile | ??? | Potion of Smartness |
+ | ??? | Thiocyanic acid, ammonium salt | Snake Venom | Indian red Potion | ??? |
+ | ??? | ??? | Linseed | Flourescent orange Potion | ??? |
+ | Marsh Mallow | Diammonium hydrogen phosphate | Lithospermum | ??? | Potion of Corporealness |
+ | ??? | ??? | Diethyl ether | ??? | Crafty Potion |
+ | Snails | Loofah | ??? | Glittery Potion | ??? |
+ | ??? | Ammonium ferrous sulfate hexahydrate | ??? | Light goldenrod yellow Potion | ??? |
+ | Gladioli | Scorpion | Renilla | Glow in the dark Potion | ??? |
+ | Cattle dung | Gall of a male animal | Scabious-water | Dark turquoise Potion | ??? |
+ | Woodlice | Raspberry | Date flesh | ??? | Psychological Potion |
+ | ??? | Dragon Tooth | ??? | ??? | Loud Potion |
+ | Silicic acid | Ephedra | ??? | ??? | Potion of Sightliness |
+ | Cinque foil, five-finger grass | A serpent scale | Buckthorn berries | Lavender Potion | ??? |
+ | Propionic acid | Juniper oil | Hibiscus Leaf | ??? | Familiar Potion |
 
-::: exit:table-36
+::: exit:potiontable-40
 
 
-::: section:table-37 classes:"break-after"
+::: section:potiontable-41 classes:"break-after"
 
-*Classical Potions-*
+*Paleo Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Cheese | ??? | ??? | Ivory Potion | ??? |
- | Acetyl chloride | ??? | ??? | ??? | Glowing Potion |
- | Pinellia | Manshanhong | Agaric, Fungus Laricis | Orange Potion | ??? |
- | Jiujie Tea | White onion | Distaff thistle | Light coral Potion | ??? |
- | Jin Jinxiang | Coix Seed | turnip | ??? | Potion of Gingerliness |
- | Cooling blood hemostatic medicine | Lead filings | ??? | Flourescent orange Potion | ??? |
- | ??? | Rosemary oil | Animal fat | Powder blue Potion | ??? |
- | Bile wood | Changshan | Lentil | Light sea green Potion | ??? |
- | Iron Oxide | Mucillage of Goat's beard | Roots of red saxifrage | ??? | Potion of Piousness |
- | Gingko | ??? | Olive skins | Green-yellow Potion | ??? |
- | Water of spike | ??? | ??? | ??? | Potion of Spasticity |
- | Hippocampus | ??? | ??? | Flourescent blue Potion | ??? |
- | Masan | Sulpher water | Burnt vitriol | Navy Potion | ??? |
+ | Shepherd's Purse | Olives | ??? | Cornflower blue Potion | ??? |
+ | Patience roots | Huaijiao | Lead nitrate | Light slate gray Potion | ??? |
+ | ??? | Lentisk, or mastic tree water | ??? | Ghost white Potion | ??? |
+ | Aloe ointment | ??? | ??? | ??? | Potion of Forgetfulness |
+ | Honey-water | Clary-sage | 3,6-Disulfonaphthalene-1,8-bis(olate) | Blue Potion | ??? |
+ | ??? | Rice-water | ??? | ??? | Potion of Responsibleness |
+ | Gadfly | Naval wax? | Tripoli Water | Honeydew Potion | ??? |
+ | Corn grass | Sublimate of silver | ??? | ??? | Potion of Alienness |
+ | Caper oil | Water lotus | Oil of yellow violets | Flourescent orange Potion | ??? |
+ | Raven | False horse-tail | Calcium carbonate | ??? | Artless Potion |
+ | Cretan dittany | A copper nail | Blood-root water | ??? | Potion of Muchness |
+ | ??? | ??? | Cornelian cherry | ??? | Potion of Analogousness |
+ | Cinquefoil | ??? | ??? | Matte black Potion | ??? |
 
-::: exit:table-37
+::: exit:potiontable-41
 
 
-::: section:table-38 classes:"break-after"
+::: section:potiontable-42 classes:"break-after"
 
-*Offensive Potions-*
+*Patriarchal Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | ??? | ??? | Marsh-mallow, white mallow root | Pale violet-red Potion | ??? |
- | Syrup of violets | ??? | Spider's web | Yellow Potion | ??? |
- | ??? | Mugwort | Rhododendron | Light slate blue Potion | ??? |
- | ??? | Wheat oil | Cinnabar | ??? | Potion of Lubricity |
- | Civet | ??? | ??? | Dark turquoise Potion | ??? |
- | Elm juice | Milk wort oil | Winter Melon Peel | Transparent Potion | ??? |
- | purslane | Blue Stone | Dimethyl sulfoxide | ??? | Potion of Seemliness |
- | Wild Yam | Kiwi | Cornelian cherry | Wheat Potion | ??? |
- | Apocynum venetum | Mountain calamint | Jiujie Tea | Deep pink Potion | ??? |
- | ??? | Ash seeds | ??? | Navy Potion | ??? |
- | Musk | ??? | ??? | ??? | Potion of Wryness |
- | C.I. Acid Green 1 | Brazel wood | Angelica root | Forest green Potion | ??? |
- | Acetonitrile | Rose leaves | Orange peel | Light slate-gray Potion | ??? |
+ | An exhumed piece of clothing | ??? | Blackberry | ??? | Parasitic Potion |
+ | Codonopsis | ??? | Hepatic Aloe | ??? | Plain Potion |
+ | ??? | Licorice | ??? | Goldenrod Potion | ??? |
+ | ??? | Hydroxylamine hydrochloride | Red sedge | Flourescent yellow Potion | ??? |
+ | ??? | ??? | Human excrement | Cornsilk Potion | ??? |
+ | Roots of black hellebore | Sea buckthorn | Changshan | ??? | Hierarchic Potion |
+ | ??? | Grape pips | Sandarach tree, juniper-gum tree | ??? | Potion of Pugnaciousness |
+ | Agnus Castus | Dafengzi | Ferric ammonium sulfate | ??? | Earthy Potion |
+ | Golden pills | Soot | Pimpernel, Burnet sexifrage | Gray Potion | ??? |
+ | Fennel | Candied Orange | Chixiaodou | Blue-violet Potion | ??? |
+ | Grass black | Hemp seed | Lupin flour | Yellow Potion | ??? |
+ |  | flax | Wax, Green. | ??? | Living Potion |
+ | Tannic acid | ??? | ??? | Brown Potion | ??? |
 
-::: exit:table-38
+::: exit:potiontable-42
 
 
-::: section:table-39 classes:"break-after"
+::: section:potiontable-43 classes:"break-after"
 
-*Bruised Potions-*
+*Pure Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | ??? | Pimento  | ??? | Silver Potion | ??? |
- | Bryony water | Vine flowers | Arsenic | Gold Potion | ??? |
- | Prunella vulgaris | Acorns or oak-apples | Phthalic anhydride | Glow in the dark Potion | ??? |
- | Dog ridge | Pellitory of the wall | Crabs | ??? | Potion of Droughtiness |
- | Lion fat | Loquat | peanut | ??? | Potion of Mirthfulness |
- | Dwarf mallow seeds | Whale sperm | Candied Orange | ??? | Potion of Guilefulness |
- | Oil of bitter almonds | Water of Saltpetre | Dill seeds | ??? | Potion of Mateyness |
- | Tiger's eye stone | Mordant Black | Soup | ??? | Potion of Comradeliness |
- | ??? | Olive oil dregs | ??? | Pale violet-red Potion | ??? |
- | ??? | Maiden's hair syrup | Dry  soap | Goldenrod Potion | ??? |
- | Baiying | Aniseed, sweet cumin | Walnut | ??? | Disappointed Potion |
- | Cassia Lignea | Mochizuki sand | Spanish pepper | Violet-red Potion | ??? |
- | Money White Flower Snake | Soft soap | Soapwort, hedge pink | Flourescent orange Potion | ??? |
+ | Shandougen | ??? | Leaves of Common houseleek | Pale goldenrod Potion | ??? |
+ | Andrographis | 2,2'-Bipyridine | Ointment of Martiatum | ??? | Cheap Potion |
+ | Myrobalsam | As medicine | Purslane seeds | ??? | Delightful Potion |
+ | Oil of Camphor | St. John's wort oil | Parsnip | ??? | Potion of Voluntariness |
+ | Cabbage seed | Betony conserve | Copper filings | Silver Potion | ??? |
+ | ??? | Sodium sulfite | Wake robin juice | Pale turquoise Potion | ??? |
+ | Hibiscus Bark | Wulingzhi | Parsley | Robin's egg blue Potion | ??? |
+ | Citron peel syrup | A Mixture of aromatic substances | Medical stone | Pale goldenrod Potion | ??? |
+ | Syrup of the Jujube | Chixiaodou | Sodium cyanide | Light sky blue Potion | ??? |
+ | Oats | Mucillage of Fenugreek | pear | ??? | Potion of Earthliness |
+ | Insects which are crushed and used in dyes | An exhumed piece of clothing | Buffalo bone marrow | Pale goldenrod Potion | ??? |
+ | 4-Dimethylaminobenzaldehyde | ??? | Malmesey  wine | ??? | Potion of Scandalousness |
+ | ??? | ??? | Barley water | Violet Potion | ??? |
 
-::: exit:table-39
+::: exit:potiontable-43
 
 
-::: section:table-40 classes:"break-after"
+::: section:potiontable-44 classes:"break-after"
 
-*Astute Potions-*
+*Earnest Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Urea | Violet leaves | Veal  bone marrow | ??? | Potion of Toxicity |
- | Purged soap | Phthalic anhydride | Wax, Green. | ??? | Optimistic Potion |
- | ??? | Swan fat | ??? | Light sky blue Potion | ??? |
- | Sugar flavoured with violets | Plum | White incense | Violet Potion | ??? |
- | Thiourea | ??? | ??? | ??? | Potion of Chronicity |
- | ??? | Xylenes | ??? | ??? | Argumentative Potion |
- | ??? | Crimson from an old world cochineal insect | ??? | ??? | Potion of Sightliness |
- | Silk worms | Cold water stone | Mutton breast | Navajo white Potion | ??? |
- | Two-sided needle | White aconite | Scurvey grass | Transparent Potion | ??? |
- | Ostrich egg | Rose roots | Cane roots | Pale turquoise Potion | ??? |
- | Milk vetch | White dittany, Candle plant. | Box-thorn | Orange Potion | ??? |
- | A medicinal stone | Pears | Sophora japonica | ??? | Corrupt Potion |
- | Lingxiang | Ostrich egg | Tsaoko | ??? | Potion of Censoriousness |
+ | Chickweed | ??? | White bean soup | ??? | Potion of Mendicity |
+ | Fumitory | Goat's horn | Sodium metabisulfite | ??? | Potion of Deepness |
+ | Marrow leaves | ??? | Digitalis leaf | ??? | Potion of Infectiousness |
+ | Any natural hard stone, like flint | Raw silk | Tetrachloroethylene | ??? | Potion of Slowness |
+ | Cow's lungwort | Parchment | Jumbles, sugar paste | ??? | Cunning Potion |
+ | Distilled water | Bull gall | Quince pears | ??? | Potion of Infectiousness |
+ | Methyl red | Woodlice | ??? | ??? | Potion of Unlawfulness |
+ | Cyclamen | Sweet almonds | Urea | Lavender Potion | ??? |
+ | Dense flower | White poppy seeds | Citron peel syrup | Dim gray Potion | ??? |
+ | Golden Buckwheat | Elm leaves | ??? | ??? | Potion of Gauziness |
+ | Dill leaves | Halite | Menstrual blood | ??? | Potion of Veraciousness |
+ | Baicao Frost | Goose brain | Lotus root festival | Dark gray Potion | ??? |
+ | ??? | ??? | Plantain seeds | ??? | Potion of Lustrousness |
 
-::: exit:table-40
+::: exit:potiontable-44
 
 
-::: section:table-41 classes:"break-after"
+::: section:potiontable-45 classes:"break-after"
 
-*Anarchistic Potions-*
+*Nonsensical Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Thorium nitrate | Partridge eggs | Endive Water | Light goldenrod yellow Potion | ??? |
- | Lemons or limes | Pomegranate leaves | Cool blood | ??? | Potion of Scandalousness |
- | Silicic acid | 1,3-Benzenediol | Spicy Polygonum | ??? | Potion of Prolificity |
- | Sulphuric acid | Medical stone | Sulpher oil | ??? | Amorphous Potion |
- | ??? | ??? | Chimney soot | ??? | Potion of Silveriness |
- | ??? | Orange blossom water | Lettuce | Dark turquoise Potion | ??? |
- | Aperetif waters | ??? | ??? | Blue Potion | ??? |
- | Hemp leaves | Lily leaf | Diazenecarbothioic acid | ??? | Religious Potion |
- | Leaves of Scordion or water germander | Jin Guolan | Oriental crocus | ??? | Potion of Corporealness |
- | White henbane seeds | A green branch | Emetic holly | Blue-violet Potion | ??? |
- | broad bean | Thistle | ??? | Navy Potion | ??? |
- | Solo dishes | White onion seeds | Snails | ??? | Potion of Inauthenticity |
- | Wood butterfly | ??? | ??? | Orchid Potion | ??? |
+ | Opium juice | ??? | ??? | Slate-gray Potion | ??? |
+ | ??? | Green Vitriol | Lentisk flowers | Light coral Potion | ??? |
+ | Tansy | Ox gall | ??? | ??? | Potion of Solitariness |
+ | ??? | Veal  bone marrow | ??? | Lavender blush Potion | ??? |
+ | Purple beads | ??? | ??? | Dark slate-gray Potion | ??? |
+ | Dwarf mallow seeds | Cordyceps sinensis | Pistacchio | Indian red Potion | ??? |
+ | Bromophenol blue | Worms | Floating wheat | ??? | Potion of Sprightliness |
+ | Shi Jueming | Impatient | Potassium periodate | ??? | Potion of Bumptiousness |
+ | 8-Hydroxyquinoline | ??? | Oil of Mastick | Floral white Potion | ??? |
+ | ??? | Liquidambar | ??? | Light salmon Potion | ??? |
+ | Sodium thiocyanate | pineapple | A green branch | Yellow Potion | ??? |
+ | ??? | D-Mannitol | Foot of a castrated male sheep | Rust colored Potion | ??? |
+ | Carline thistle roots | Jiang Dan | Rattan cane | ??? | Potion of Fondness |
 
-::: exit:table-41
+::: exit:potiontable-45
 
 
-::: section:table-42 classes:"break-after"
+::: section:potiontable-46 classes:"break-after"
 
-*Enhanced Potions-*
+*Mossy Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | ??? | ??? | hive | ??? | Potion of Slanderousness |
- | ??? | Hyacinth/Jacinth | Ink | Glittery Potion | ??? |
- | Sodium molybdate(VI) dihydrate | Any natural hard stone, like flint | Hyena pelt | Rust colored Potion | ??? |
- | ??? | ??? | Hop seeds | Powder blue Potion | ??? |
- | Lentils | Goat's bladder | Eucalyptus globulus | ??? | Potion of Coyness |
- | cucumber | Goose brain | ??? | ??? | Potion of Infectiousness |
- | Rhubarb | Broad Beans | Honey | Silver Potion | ??? |
- | Purslane | N-Methyl-2-pyrrolidone | Chuanxiong | ??? | Potion of Slovenliness |
- | Mercury | Myrrh | Turtle Glue | Midnight blue Potion | ??? |
- | Green tree moss growing on the oak | ??? | C.I. Acid Green 1 | Orange Potion | ??? |
- | ??? | ??? | Oil of Cinnamon | ??? | Rhythmic Potion |
- | Hare flesh | Herbs | Tobacco | ??? | Potion of Multicity |
- | Peril | Burdock | Nettle | ??? | Potion of Hopefulness |
+ | Geotrichum | pomelo | ??? | ??? | Potion of Soberness |
+ | Cattle dung | ??? | Nettles (Stinging) | ??? | Orderly Potion |
+ | ??? | ??? | Pig dung | Yellow Potion | ??? |
+ | ??? | Urine of healthy young child | Soda | ??? | Potion of Effortfulness |
+ | Wang Bu Liu Xing | Common Bladder | ??? | Lime green Potion | ??? |
+ | ??? | ??? | Goat's spine or milk-vetch oil | Slate-gray Potion | ??? |
+ | ??? | ??? | Formaldehyde | Light yellow Potion | ??? |
+ | ??? | Cordyceps sinensis | Nan Zhuzi | ??? | Potion of Mercy |
+ | ??? | Julep Sugar | ??? | Cornflower blue Potion | ??? |
+ | ??? | Endive | ??? | Rainbow Potion | ??? |
+ | Potassium persulfate | ??? | Genitals of female hare | Yellow-green Potion | ??? |
+ | Pepper corns | A Spode Rose | White hoar-hound syrup | ??? | Potion of Importance |
+ | Chard or beets | ??? | A confection of gum | Light green Potion | ??? |
 
-::: exit:table-42
+::: exit:potiontable-46
 
 
-::: section:table-43 classes:"break-after"
+::: section:potiontable-47 classes:"break-after"
 
-*Beautiful Potions-*
+*Falling Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Yellow arsenic-arsenic mixed with sulpher | Vervein | Tansy | Wheat Potion | ??? |
- | ??? | Damsons | Red root grass | ??? | Penultimate Potion |
- | Cerfolium-flower water | green beans | Cassia pulp | ??? | Potion of Unfairness |
- | Bloom of copper | ??? | Saxifraga | ??? | Parasitic Potion |
- | ??? | Wood march, common sanicle | 1,10-Phenanthroline | Light blue Potion | ??? |
- | Dianthus | ??? | ??? | ??? | Potion of Holiness |
- | ??? | Mucillage of flax seeds | ??? | Light slate gray Potion | ??? |
- | Coxcomb/ woolflower. | apricot | Sodium compounds | ??? | Potion of Plainness |
- | Donkey mare's milk | ??? | ??? | Ghost white Potion | ??? |
- | Eargrass | Rosemary oil | Ox gall | ??? | Potion of Warmness |
- | Guardi | Glass salt: Alkali salts  | ??? | ??? | Potion of Factualness |
- | Cumin seed | Red drinking sugar  | Furnace | ??? | Potion of Consciousness |
- | Myrtle flowers | Crabs | Water-lily | ??? | Potion of Eccentricity |
+ | mastic | Oil from a gland in the beaver | ??? | Cornflower blue Potion | ??? |
+ | Cocklebur | ??? | ??? | Steel blue Potion | ??? |
+ | White sandal wood | Yanghua | Gourd tea | ??? | Potion of Strictness |
+ | Money White Flower Snake | A morbid substance produced in land animals. | Polygonum | Gold Potion | ??? |
+ | ??? | Walnut water | ??? | ??? | Potion of Soulfulness |
+ | could this be sesame too? 1161 | Elsholtzia | ??? | ??? | Enigmatic Potion |
+ | Marigold | Carbonic acid, barium salt (1:1) | Sponge | Matte black Potion | ??? |
+ | ??? | Stalk grass | Nutmeg flowers | ??? | Potion of Curtness |
+ | Root of white hellebore | ??? | Earth-apple roots | Light yellow Potion | ??? |
+ | Colt's foot/cough-wort | Veal  bone marrow | Cerfolium-flower water | ??? | Potion of Diaphanousness |
+ | Water spinach | ??? | ??? | Pale violet-red Potion | ??? |
+ | Myrtle oil | Bloody meat | Lychee grass | ??? | Disappointed Potion |
+ | Olive skins | Adders/asps | ??? | Rainbow Potion | ??? |
 
-::: exit:table-43
+::: exit:potiontable-47
 
 
-::: section:table-44 classes:"break-after"
+::: section:potiontable-48 classes:"break-after"
 
-*Simple Potions-*
+*Everlasting Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | ??? | Heliotrope, | ??? | ??? | Potion of Licentiousness |
- | Epimedium | Musk | Xiangfu | ??? | Potion of Brightness |
- | Cardamom | Male Fern | Calcinate talc | Light slate gray Potion | ??? |
- | Nickel(II) chloride hexahydrate | Tortoise shell glue | Acetone | Light yellow Potion | ??? |
- | ??? | Dung of wild dove | Mint essence | Steel blue Potion | ??? |
- | Earth Blood Fragrance | Potassium acetate | Mullein | Light slate blue Potion | ??? |
- | Goblin Grass | Fenugreek flour | Damson or plum tree seeds | Lavender Potion | ??? |
- | ??? | ??? | Cypress Tree | Flourescent blue Potion | ??? |
- | Green savin | Astringent hemostatic drug | Ash flowers | Yellow Potion | ??? |
- | ??? | Gold(3+) chloride--hydrogen chloride--water (1/3/1/3) | ??? | Dark turquoise Potion | ??? |
- | Fig leaves | Rue seeds | ??? | ??? | Potion of Palatialness |
- | ??? | Motherwort | Rehmannia glutinosa | Rainbow Potion | ??? |
- | Acorn shells | Polygonum multiflorum | Cress | Antique white Potion | ??? |
+ | Corn silk | Oil of yellow violets | Cistanche | ??? | Potion of Slimness |
+ | ??? | Sugar | Tortoise/turtle  shell | Pale green Potion | ??? |
+ | Eye-bright | ??? | Kelp | Yellow-green Potion | ??? |
+ | ??? | Antler Grass | Knotweed | Dark turquoise Potion | ??? |
+ | ??? | ??? | Cremor Tartar | ??? | Potion of Brawniness |
+ | C.I. Basic Red 9 monohydrochloride | Dog | Orange Peel | ??? | Potion of Gracefulness |
+ | Hare's blood | hive | Chicken feathers | Flourescent orange Potion | ??? |
+ | Soup | Sodium oxalate | Black Snake | Lavender blush Potion | ??? |
+ | Potassium compounds | Charcoal/coal | Buckthorn | Light blue Potion | ??? |
+ | Toad-flax roots | ??? | radish | ??? | Potion of Dopeyness |
+ | ??? | Hyacinth/Jacinth | ??? | ??? | Potion of Courtliness |
+ | Dill root | ??? | Heart -wort or birth wort | ??? | Potion of Ritziness |
+ | Slugs | Cooling blood hemostatic medicine | Any natural hard stone, like flint | ??? | Potion of Consciousness |
 
-::: exit:table-44
+::: exit:potiontable-48
 
 
-::: section:table-45 classes:"break-after"
+::: section:potiontable-49 classes:"break-after"
 
-*Poor Potions-*
+*Eccentric Potions-*
 | Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
 |-|-|-|-|-|
- | Formic acid | Cuttlefish | ??? | ??? | Potion of Medical skill |
- | Inchworm in amber | ??? | ??? | Yellow Potion | ??? |
- | Duck or Capon fat | Pine nut shells | White sugar | ??? | Potion of Contiguousness |
- | ??? | ??? | Root of white bryony | ??? | Potion of Smartness |
- | ??? | Prune/plum water | broad bean | Hot pink Potion | ??? |
- | Berries/seeds of Assyrian plum | Lupin flour | Agrimony root | Flourescent green Potion | ??? |
- | Methanol | Deadly nightshade | Caragana | Lavender Potion | ??? |
- | ??? | Milk Thistle | snails | ??? | Potion of Leanness |
- | Grass black | Bengewine oil | ??? | ??? | Potion of Soulfulness |
- | copper sulphate | Horse's tooth | Sodium dichromate dihydrate | Grey Potion | ??? |
- | Black Cohosh | keel | Goat horn | ??? | Plain Potion |
- | Centipede | Comfrey | Huanglian | ??? | Absentminded Potion |
- | Patchouli | Bryony water | Sage | Pale goldenrod Potion | ??? |
+ | Fennel leaves | Common rue | Wood butterfly | Navy-blue Potion | ??? |
+ | Seeds of flea-bane | Chard/beet  roots | Diphenylamine | ??? | Potion of Inhumanness |
+ | Pudding Pipe | Head of Castrated male sheep | spider | ??? | Potion of Keenness |
+ | Water of spike | Mandrake apples | Lees of wine | ??? | Discounted Potion |
+ | ??? | Kapok | ??? | Light cyan Potion | ??? |
+ | Potassium carbonate | Ishimita | Pig tooth soap | ??? | Psychotherapeutic Potion |
+ | Powdered dog's head | Soil beetle | Ammonium aluminum sulfate dodecahydrate | Light yellow Potion | ??? |
+ | Rose flower | Oil of Ivy-gum | Sugar flavoured with roses | Ghost white Potion | ??? |
+ | ??? | ??? | Plantain | Pale violet-red Potion | ??? |
+ | ??? | ??? | Blessed Thistle | ??? | Clear Potion |
+ | Kelp | Mutton hide | A stone from Armenia | ??? | Potion of Woeness |
+ | ??? | ??? | Betony leaves | Midnight blue Potion | ??? |
+ | Powdered storax | Chuanwu | ??? | Light salmon Potion | ??? |
 
-::: exit:table-45
-
-
-::: section:table-46 classes:"break-after"
-
-*Atheoretical Potions-*
-| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
-|-|-|-|-|-|
- | ??? | ??? | Pigeon | Light goldenrod Potion | ??? |
- | ??? | White mustard | ??? | ??? | Potion of Unlikeliness |
- | Worms | St. John's wort flowers | Saururus chinensis | Camouflage Potion | ??? |
- | ??? | White calcinated tartar | Fennel roots | ??? | Potion of Wakefulness |
- | Linseed | Chard or beets | ??? | ??? | Potion of Entousness |
- | Washed barley | ??? | Gall | Light slate-gray Potion | ??? |
- | Hydrogen iodide | Agnus Castus | Plantain water | ??? | Potion of Wastefulness |
- | ??? | Tangerine | ??? | ??? | Crystaline Potion |
- | xanthophyll | A medicinal stone | Fig | ??? | Potion of Soberness |
- | Mole cricket | A kind of sulpher | A whole egg | ??? | Potion of Gracefulness |
- | ??? | Flying grass | ??? | ??? | Potion of Nephrotoxicity |
- | Potassium sulfate | Basil leaves | Oil of Ivy-gum | Orange Potion | ??? |
- | ??? | ??? | Impatiens | Forest green Potion | ??? |
-
-::: exit:table-46
-
-
-::: section:table-47 classes:"break-after"
-
-*Phony Potions-*
-| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
-|-|-|-|-|-|
- | Hare | Sour wine | Fumitory | Hot pink Potion | ??? |
- | Ant eggs | Ammonium acetate | Magnolia Flower | ??? | Ornate Potion |
- | Hog's Lard | Fig bark | Kochia scoparia | ??? | Potion of Multiplicity |
- | Octagonal lotus | Predictor | White front | ??? | Potion of Cheerfulness |
- | ??? | spider | ??? | ??? | Potion of Unsightliness |
- | Hepatic Aloe | 1,2-Dichloroethane | ??? | ??? | Potion of Dapperness |
- | Millet | Potassium ethanedioate--water (2/1/1) | Wormwood Juice of | ??? | Potion of Cleanliness |
- | Elsholtzia | Iron-clad gold | Adenophora | Light pink Potion | ??? |
- | White water lily | Orange Red | ??? | Forest green Potion | ??? |
- | Seville orange | eraser | Buckthorn | Goldenrod Potion | ??? |
- | ??? | Trichosanthes | ??? | ??? | Potion of Patness |
- | ??? | ??? | Stag Testicles | Light coral Potion | ??? |
- | Celery | Pearl grass | ??? | Deep pink Potion | ??? |
-
-::: exit:table-47
-
-
-::: section:table-48 classes:"break-after"
-
-*Bilaterally symmetrical Potions-*
-| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
-|-|-|-|-|-|
- | ??? | Heliotrope, Turnsole | Partridge | ??? | Insipid Potion |
- | White henbane roots | Marsh-mallow, white mallow seeds | Camendrio | Light steel blue Potion | ??? |
- | Plantago | Ma Linzi | Date flesh | Light sky blue Potion | ??? |
- | Damson or plum tree seeds | Sorrel | Yang Qishi | ??? | Hierarchic Potion |
- | ??? | ??? | Essence of Bergamot | ??? | Potion of Plainness |
- | Albizia | Veal fat | Oil of liquid tar | ??? | Stupid Potion |
- | ??? | Asparagus seed | Verbena | ??? | Potion of Perfidiousness |
- | ??? | Ointment of roses | ??? | ??? | Potion of Strength |
- | Baicao Frost | 1,1,1-Trichloroethane | A fruit used for making sweetmeats | Robin's egg blue Potion | ??? |
- | Burdock seeds | ??? | ??? | ??? | Potion of Quirkiness |
- | ??? | ??? | Citrus aurantium | Light coral Potion | ??? |
- | Saliva | Goose blood | Caraway seeds | ??? | Potion of Sourness |
- | ??? | ??? | Cow's lungwort | Dim gray Potion | ??? |
-
-::: exit:table-48
-
-
-::: section:table-49 classes:"break-after"
-
-*Pretty Potions-*
-| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |
-|-|-|-|-|-|
- | Lily of the valley | Rosemary flowers | Earth-gall, fever-wort | Navy-blue Potion | ??? |
- | ??? | Pork gall | ??? | Forest green Potion | ??? |
- | A herb which makes one's nose bleed | Blue-berried | Polygonum | ??? | Potion of Rightfulness |
- | Bristle-fern | ??? | Perhaps a vinegar syrup? | ??? | Potion of Watchfulness |
- | A kind of sulpher | ??? | Hibiscus Leaf | ??? | Potion of Lugubriousness |
- | Iron filings | Earth from Lemnos | 3,3'-Dimethylbenzidine dihydrochloride | Silver Potion | ??? |
- | ??? | ??? | Solidago | ??? | Potion of Pitifulness |
- | ??? | Sage | ??? | ??? | Potion of Farness |
- | ??? | ??? | Chamomile | ??? | Potion of Fidgetiness |
- | ??? | green beans | ??? | Spring green Potion | ??? |
- | Bull's urine | ??? | Essence of cinnamon | Light salmon Potion | ??? |
- | Isopentyl alcohol | rosewater | Goat or kid | ??? | Calm Potion |
- | Hepatic Aloe | mussels | Cinnabar | ??? | Potion of Forgetfulness |
-
-::: exit:table-49
+::: exit:potiontable-49
 
 ::: exit:chapter-four

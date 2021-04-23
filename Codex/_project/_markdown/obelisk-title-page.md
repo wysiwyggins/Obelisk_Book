@@ -3,9 +3,9 @@ title: Title Page
 type: titlepage
 ---
 
-::: titlepage:project-name-title-page
+::: titlepage:obelisk-title-page
 
 # Obelisk
 ## User's Manual / Book of Secrets
 
-::: exit:project-name-title-page
+::: exit:obelisk-title-page

@@ -29,10 +29,14 @@ with open("../Codex/_project/_markdown/Runes.md", "w") as myfile:
         myfile.write('|<img src=\"'+runes.runeDict[rune]+'\" ' + 'alt=\"A glyph made from wedge-shaped marks\"\\> |' + rune + ' |\n')
         if runeCounter % 10 == 0:
             sectionNumber = str(runeCounter *.1)
-            myfile.write("\n::: exit:runetable-"+ sectionNumber + "\n\n")
+            myfile.write("\n::: exit:runetable-"+ sectionNumber-1 + "\n\n")
             myfile.write("\n::: section:runetable"+ sectionNumber +" classes:\"break-after\"\n")
             myfile.write("| Glyph | Translation |\n")
             myfile.write("|-|-|\n")
+        if runeCounter >= len(runes.runeDict) and runeCounter % 10 != 0:
+            myfile.write("\n::: exit:runetable-"+ sectionNumber-1 + "\n\n")
+
+
 
 
     myfile.write("::: exit:chapter-five\n")
