@@ -11,358 +11,344 @@ type: bodymatter
  
 ::: blockquote:book_of_secrets:
 
-The bier was occupied by the rudely shod sextons. 
-Then the god himself. 
-No man knew that the first of the tomb by another way than this. 
+Almost the queen faltered, for it seemed that long hours went by with its dribbling talons. 
+For hours, it seemed, would have hurried forth to tread the world in macrocosmic vastness. 
+Once more, toward the cavern entrance. 
 ::: exit:book_of_secrets
-*–He, Like That Of Natural Twilight*
+*–Be Yond It Were The Strange Edifice*
 ::: exit:page
 
 ::: section:runetable-1 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_109.svg" alt="A glyph made from wedge-shaped marks"\> |walked |
-|<img src="../images/glyphs/glyph_121.svg" alt="A glyph made from wedge-shaped marks"\> |visions |
-|<img src="../images/glyphs/glyph_135.svg" alt="A glyph made from wedge-shaped marks"\> |Amero |
-|<img src="../images/glyphs/glyph_58.svg" alt="A glyph made from wedge-shaped marks"\> |about |
-|<img src="../images/glyphs/glyph_70.svg" alt="A glyph made from wedge-shaped marks"\> |heard |
-|<img src="../images/glyphs/glyph_64.svg" alt="A glyph made from wedge-shaped marks"\> |gardens |
-|<img src="../images/glyphs/glyph_65.svg" alt="A glyph made from wedge-shaped marks"\> |posture |
-|<img src="../images/glyphs/glyph_71.svg" alt="A glyph made from wedge-shaped marks"\> |city |
-|<img src="../images/glyphs/glyph_59.svg" alt="A glyph made from wedge-shaped marks"\> |figures |
-|<img src="../images/glyphs/glyph_134.svg" alt="A glyph made from wedge-shaped marks"\> |would |
+|<img src="../images/glyphs/glyph_109.svg" alt="A glyph made from wedge-shaped marks"\> |sea-reptiles |
+|<img src="../images/glyphs/glyph_94.svg" alt="A glyph made from wedge-shaped marks"\> |Then |
+|<img src="../images/glyphs/glyph_135.svg" alt="A glyph made from wedge-shaped marks"\> |Namirrha |
+|<img src="../images/glyphs/glyph_58.svg" alt="A glyph made from wedge-shaped marks"\> |them |
+|<img src="../images/glyphs/glyph_70.svg" alt="A glyph made from wedge-shaped marks"\> |asses |
+|<img src="../images/glyphs/glyph_64.svg" alt="A glyph made from wedge-shaped marks"\> |commit |
+|<img src="../images/glyphs/glyph_65.svg" alt="A glyph made from wedge-shaped marks"\> |fire |
+|<img src="../images/glyphs/glyph_71.svg" alt="A glyph made from wedge-shaped marks"\> |ticoes |
+|<img src="../images/glyphs/glyph_59.svg" alt="A glyph made from wedge-shaped marks"\> |crimson |
+|<img src="../images/glyphs/glyph_134.svg" alt="A glyph made from wedge-shaped marks"\> |little |
 
 ::: exit:runetable-0.0
 
 
-::: section:runetable1.0 classes:"break-after"
+::: section:runetable-1.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_120.svg" alt="A glyph made from wedge-shaped marks"\> |Ujuk |
-|<img src="../images/glyphs/glyph_108.svg" alt="A glyph made from wedge-shaped marks"\> |long |
-|<img src="../images/glyphs/glyph_136.svg" alt="A glyph made from wedge-shaped marks"\> |graven |
-|<img src="../images/glyphs/glyph_122.svg" alt="A glyph made from wedge-shaped marks"\> |visible |
-|<img src="../images/glyphs/glyph_67.svg" alt="A glyph made from wedge-shaped marks"\> |seaward |
-|<img src="../images/glyphs/glyph_73.svg" alt="A glyph made from wedge-shaped marks"\> |their |
-|<img src="../images/glyphs/glyph_98.svg" alt="A glyph made from wedge-shaped marks"\> |knowing |
-|<img src="../images/glyphs/glyph_99.svg" alt="A glyph made from wedge-shaped marks"\> |illumination |
-|<img src="../images/glyphs/glyph_72.svg" alt="A glyph made from wedge-shaped marks"\> |never |
-|<img src="../images/glyphs/glyph_66.svg" alt="A glyph made from wedge-shaped marks"\> |remained |
+|<img src="../images/glyphs/glyph_120.svg" alt="A glyph made from wedge-shaped marks"\> |dusty |
+|<img src="../images/glyphs/glyph_164.svg" alt="A glyph made from wedge-shaped marks"\> |kingdom |
+|<img src="../images/glyphs/glyph_136.svg" alt="A glyph made from wedge-shaped marks"\> |whatever |
+|<img src="../images/glyphs/glyph_122.svg" alt="A glyph made from wedge-shaped marks"\> |into |
+|<img src="../images/glyphs/glyph_67.svg" alt="A glyph made from wedge-shaped marks"\> |crab-deposited |
+|<img src="../images/glyphs/glyph_73.svg" alt="A glyph made from wedge-shaped marks"\> |found |
+|<img src="../images/glyphs/glyph_98.svg" alt="A glyph made from wedge-shaped marks"\> |coils |
+|<img src="../images/glyphs/glyph_99.svg" alt="A glyph made from wedge-shaped marks"\> |empty |
+|<img src="../images/glyphs/glyph_72.svg" alt="A glyph made from wedge-shaped marks"\> |image |
+|<img src="../images/glyphs/glyph_39.svg" alt="A glyph made from wedge-shaped marks"\> |guards |
 
 ::: exit:runetable-1.0
 
 
-::: section:runetable2.0 classes:"break-after"
+::: section:runetable-2.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_123.svg" alt="A glyph made from wedge-shaped marks"\> |Afterward |
-|<img src="../images/glyphs/glyph_137.svg" alt="A glyph made from wedge-shaped marks"\> |once |
-|<img src="../images/glyphs/glyph_133.svg" alt="A glyph made from wedge-shaped marks"\> |another |
-|<img src="../images/glyphs/glyph_127.svg" alt="A glyph made from wedge-shaped marks"\> |incantations |
-|<img src="../images/glyphs/glyph_62.svg" alt="A glyph made from wedge-shaped marks"\> |penetrated |
-|<img src="../images/glyphs/glyph_76.svg" alt="A glyph made from wedge-shaped marks"\> |pleasures |
-|<img src="../images/glyphs/glyph_89.svg" alt="A glyph made from wedge-shaped marks"\> |drained |
-|<img src="../images/glyphs/.DS_Store" alt="A glyph made from wedge-shaped marks"\> |loamy |
-|<img src="../images/glyphs/glyph_8.svg" alt="A glyph made from wedge-shaped marks"\> |right |
-|<img src="../images/glyphs/glyph_9.svg" alt="A glyph made from wedge-shaped marks"\> |weird |
+|<img src="../images/glyphs/glyph_123.svg" alt="A glyph made from wedge-shaped marks"\> |than |
+|<img src="../images/glyphs/glyph_137.svg" alt="A glyph made from wedge-shaped marks"\> |hell |
+|<img src="../images/glyphs/glyph_133.svg" alt="A glyph made from wedge-shaped marks"\> |raging |
+|<img src="../images/glyphs/glyph_127.svg" alt="A glyph made from wedge-shaped marks"\> |himself |
+|<img src="../images/glyphs/glyph_62.svg" alt="A glyph made from wedge-shaped marks"\> |seemed |
+|<img src="../images/glyphs/glyph_76.svg" alt="A glyph made from wedge-shaped marks"\> |having |
+|<img src="../images/glyphs/glyph_89.svg" alt="A glyph made from wedge-shaped marks"\> |fore |
+|<img src="../images/glyphs/.DS_Store" alt="A glyph made from wedge-shaped marks"\> |served |
+|<img src="../images/glyphs/glyph_8.svg" alt="A glyph made from wedge-shaped marks"\> |center |
+|<img src="../images/glyphs/glyph_9.svg" alt="A glyph made from wedge-shaped marks"\> |feelings |
 
 ::: exit:runetable-2.0
 
 
-::: section:runetable3.0 classes:"break-after"
+::: section:runetable-3.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_88.svg" alt="A glyph made from wedge-shaped marks"\> |crag |
-|<img src="../images/glyphs/glyph_77.svg" alt="A glyph made from wedge-shaped marks"\> |breathings |
-|<img src="../images/glyphs/glyph_63.svg" alt="A glyph made from wedge-shaped marks"\> |throne |
-|<img src="../images/glyphs/glyph_126.svg" alt="A glyph made from wedge-shaped marks"\> |into |
-|<img src="../images/glyphs/glyph_132.svg" alt="A glyph made from wedge-shaped marks"\> |enough |
-|<img src="../images/glyphs/glyph_124.svg" alt="A glyph made from wedge-shaped marks"\> |weakness |
-|<img src="../images/glyphs/glyph_130.svg" alt="A glyph made from wedge-shaped marks"\> |leads |
-|<img src="../images/glyphs/glyph_118.svg" alt="A glyph made from wedge-shaped marks"\> |have |
-|<img src="../images/glyphs/glyph_75.svg" alt="A glyph made from wedge-shaped marks"\> |upon |
-|<img src="../images/glyphs/glyph_61.svg" alt="A glyph made from wedge-shaped marks"\> |“Away |
+|<img src="../images/glyphs/glyph_88.svg" alt="A glyph made from wedge-shaped marks"\> |need |
+|<img src="../images/glyphs/glyph_117.svg" alt="A glyph made from wedge-shaped marks"\> |women |
+|<img src="../images/glyphs/glyph_63.svg" alt="A glyph made from wedge-shaped marks"\> |made |
+|<img src="../images/glyphs/glyph_126.svg" alt="A glyph made from wedge-shaped marks"\> |gave |
+|<img src="../images/glyphs/glyph_132.svg" alt="A glyph made from wedge-shaped marks"\> |rose |
+|<img src="../images/glyphs/glyph_111.svg" alt="A glyph made from wedge-shaped marks"\> |shining |
+|<img src="../images/glyphs/glyph_130.svg" alt="A glyph made from wedge-shaped marks"\> |leprosy |
+|<img src="../images/glyphs/glyph_118.svg" alt="A glyph made from wedge-shaped marks"\> |barge |
+|<img src="../images/glyphs/glyph_161.svg" alt="A glyph made from wedge-shaped marks"\> |tomb |
+|<img src="../images/glyphs/glyph_61.svg" alt="A glyph made from wedge-shaped marks"\> |paths |
 
 ::: exit:runetable-3.0
 
 
-::: section:runetable4.0 classes:"break-after"
+::: section:runetable-4.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_49.svg" alt="A glyph made from wedge-shaped marks"\> |copiously |
-|<img src="../images/glyphs/glyph_48.svg" alt="A glyph made from wedge-shaped marks"\> |which |
-|<img src="../images/glyphs/glyph_60.svg" alt="A glyph made from wedge-shaped marks"\> |arts |
-|<img src="../images/glyphs/glyph_74.svg" alt="A glyph made from wedge-shaped marks"\> |hands |
-|<img src="../images/glyphs/glyph_119.svg" alt="A glyph made from wedge-shaped marks"\> |thirty |
-|<img src="../images/glyphs/glyph_131.svg" alt="A glyph made from wedge-shaped marks"\> |dark |
-|<img src="../images/glyphs/glyph_125.svg" alt="A glyph made from wedge-shaped marks"\> |flamed |
-|<img src="../images/glyphs/glyph_142.svg" alt="A glyph made from wedge-shaped marks"\> |mausoleum |
-|<img src="../images/glyphs/glyph_156.svg" alt="A glyph made from wedge-shaped marks"\> |gala |
-|<img src="../images/glyphs/glyph_181.svg" alt="A glyph made from wedge-shaped marks"\> |with |
+|<img src="../images/glyphs/glyph_49.svg" alt="A glyph made from wedge-shaped marks"\> |heard |
+|<img src="../images/glyphs/glyph_48.svg" alt="A glyph made from wedge-shaped marks"\> |this |
+|<img src="../images/glyphs/glyph_60.svg" alt="A glyph made from wedge-shaped marks"\> |been |
+|<img src="../images/glyphs/glyph_74.svg" alt="A glyph made from wedge-shaped marks"\> |amid |
+|<img src="../images/glyphs/glyph_119.svg" alt="A glyph made from wedge-shaped marks"\> |gathered |
+|<img src="../images/glyphs/glyph_131.svg" alt="A glyph made from wedge-shaped marks"\> |bequeathed |
+|<img src="../images/glyphs/glyph_125.svg" alt="A glyph made from wedge-shaped marks"\> |roared |
+|<img src="../images/glyphs/glyph_142.svg" alt="A glyph made from wedge-shaped marks"\> |autumn |
+|<img src="../images/glyphs/glyph_156.svg" alt="A glyph made from wedge-shaped marks"\> |garden |
+|<img src="../images/glyphs/glyph_181.svg" alt="A glyph made from wedge-shaped marks"\> |from |
 
 ::: exit:runetable-4.0
 
 
-::: section:runetable5.0 classes:"break-after"
+::: section:runetable-5.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_195.svg" alt="A glyph made from wedge-shaped marks"\> |fearsome |
-|<img src="../images/glyphs/glyph_13.svg" alt="A glyph made from wedge-shaped marks"\> |appearing |
-|<img src="../images/glyphs/glyph_12.svg" alt="A glyph made from wedge-shaped marks"\> |began |
-|<img src="../images/glyphs/glyph_194.svg" alt="A glyph made from wedge-shaped marks"\> |blocks |
-|<img src="../images/glyphs/glyph_180.svg" alt="A glyph made from wedge-shaped marks"\> |well |
-|<img src="../images/glyphs/glyph_157.svg" alt="A glyph made from wedge-shaped marks"\> |Namirrha |
-|<img src="../images/glyphs/glyph_143.svg" alt="A glyph made from wedge-shaped marks"\> |deserted |
-|<img src="../images/glyphs/glyph_169.svg" alt="A glyph made from wedge-shaped marks"\> |fire |
-|<img src="../images/glyphs/glyph_112.svg" alt="A glyph made from wedge-shaped marks"\> |fowl |
-|<img src="../images/glyphs/glyph_141.svg" alt="A glyph made from wedge-shaped marks"\> |cavern-mouth |
+|<img src="../images/glyphs/glyph_195.svg" alt="A glyph made from wedge-shaped marks"\> |tell |
+|<img src="../images/glyphs/glyph_13.svg" alt="A glyph made from wedge-shaped marks"\> |Zotulla |
+|<img src="../images/glyphs/glyph_12.svg" alt="A glyph made from wedge-shaped marks"\> |Chateau |
+|<img src="../images/glyphs/glyph_194.svg" alt="A glyph made from wedge-shaped marks"\> |eyelids |
+|<img src="../images/glyphs/glyph_180.svg" alt="A glyph made from wedge-shaped marks"\> |thought |
+|<img src="../images/glyphs/glyph_157.svg" alt="A glyph made from wedge-shaped marks"\> |bear |
+|<img src="../images/glyphs/glyph_143.svg" alt="A glyph made from wedge-shaped marks"\> |great |
+|<img src="../images/glyphs/glyph_169.svg" alt="A glyph made from wedge-shaped marks"\> |wrenched |
+|<img src="../images/glyphs/glyph_155.svg" alt="A glyph made from wedge-shaped marks"\> |went |
+|<img src="../images/glyphs/glyph_141.svg" alt="A glyph made from wedge-shaped marks"\> |mortality |
 
 ::: exit:runetable-5.0
 
 
-::: section:runetable6.0 classes:"break-after"
+::: section:runetable-6.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_196.svg" alt="A glyph made from wedge-shaped marks"\> |mingled |
-|<img src="../images/glyphs/glyph_182.svg" alt="A glyph made from wedge-shaped marks"\> |banners |
-|<img src="../images/glyphs/glyph_38.svg" alt="A glyph made from wedge-shaped marks"\> |reassured |
-|<img src="../images/glyphs/glyph_10.svg" alt="A glyph made from wedge-shaped marks"\> |there |
-|<img src="../images/glyphs/glyph_11.svg" alt="A glyph made from wedge-shaped marks"\> |blow-gun |
-|<img src="../images/glyphs/glyph_39.svg" alt="A glyph made from wedge-shaped marks"\> |that |
-|<img src="../images/glyphs/glyph_183.svg" alt="A glyph made from wedge-shaped marks"\> |slept |
-|<img src="../images/glyphs/glyph_197.svg" alt="A glyph made from wedge-shaped marks"\> |thunder |
-|<img src="../images/glyphs/glyph_140.svg" alt="A glyph made from wedge-shaped marks"\> |next |
-|<img src="../images/glyphs/glyph_154.svg" alt="A glyph made from wedge-shaped marks"\> |shadows |
+|<img src="../images/glyphs/glyph_196.svg" alt="A glyph made from wedge-shaped marks"\> |which |
+|<img src="../images/glyphs/glyph_182.svg" alt="A glyph made from wedge-shaped marks"\> |well |
+|<img src="../images/glyphs/glyph_38.svg" alt="A glyph made from wedge-shaped marks"\> |whether |
+|<img src="../images/glyphs/glyph_10.svg" alt="A glyph made from wedge-shaped marks"\> |bed |
+|<img src="../images/glyphs/glyph_11.svg" alt="A glyph made from wedge-shaped marks"\> |stooped |
+|<img src="../images/glyphs/glyph_183.svg" alt="A glyph made from wedge-shaped marks"\> |plunged |
+|<img src="../images/glyphs/glyph_197.svg" alt="A glyph made from wedge-shaped marks"\> |terrogated |
+|<img src="../images/glyphs/glyph_140.svg" alt="A glyph made from wedge-shaped marks"\> |planned |
+|<img src="../images/glyphs/glyph_154.svg" alt="A glyph made from wedge-shaped marks"\> |mid-stroke |
+|<img src="../images/glyphs/glyph_168.svg" alt="A glyph made from wedge-shaped marks"\> |with |
 
 ::: exit:runetable-6.0
 
 
-::: section:runetable7.0 classes:"break-after"
+::: section:runetable-7.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_168.svg" alt="A glyph made from wedge-shaped marks"\> |lifted |
-|<img src="../images/glyphs/glyph_150.svg" alt="A glyph made from wedge-shaped marks"\> |uncontrollable |
-|<img src="../images/glyphs/glyph_144.svg" alt="A glyph made from wedge-shaped marks"\> |formal |
-|<img src="../images/glyphs/glyph_178.svg" alt="A glyph made from wedge-shaped marks"\> |dimness |
-|<img src="../images/glyphs/glyph_193.svg" alt="A glyph made from wedge-shaped marks"\> |rubble |
-|<img src="../images/glyphs/glyph_187.svg" alt="A glyph made from wedge-shaped marks"\> |They |
-|<img src="../images/glyphs/glyph_15.svg" alt="A glyph made from wedge-shaped marks"\> |least |
-|<img src="../images/glyphs/glyph_29.svg" alt="A glyph made from wedge-shaped marks"\> |were |
-|<img src="../images/glyphs/glyph_28.svg" alt="A glyph made from wedge-shaped marks"\> |terrain |
-|<img src="../images/glyphs/glyph_14.svg" alt="A glyph made from wedge-shaped marks"\> |satiable |
+|<img src="../images/glyphs/glyph_150.svg" alt="A glyph made from wedge-shaped marks"\> |gossip |
+|<img src="../images/glyphs/glyph_144.svg" alt="A glyph made from wedge-shaped marks"\> |reflect |
+|<img src="../images/glyphs/glyph_178.svg" alt="A glyph made from wedge-shaped marks"\> |where |
+|<img src="../images/glyphs/glyph_193.svg" alt="A glyph made from wedge-shaped marks"\> |needles |
+|<img src="../images/glyphs/glyph_187.svg" alt="A glyph made from wedge-shaped marks"\> |Xeethra |
+|<img src="../images/glyphs/glyph_15.svg" alt="A glyph made from wedge-shaped marks"\> |louder |
+|<img src="../images/glyphs/glyph_29.svg" alt="A glyph made from wedge-shaped marks"\> |turned |
+|<img src="../images/glyphs/glyph_28.svg" alt="A glyph made from wedge-shaped marks"\> |cadavers |
+|<img src="../images/glyphs/glyph_14.svg" alt="A glyph made from wedge-shaped marks"\> |shanks |
+|<img src="../images/glyphs/glyph_186.svg" alt="A glyph made from wedge-shaped marks"\> |soon |
 
 ::: exit:runetable-7.0
 
 
-::: section:runetable8.0 classes:"break-after"
+::: section:runetable-8.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_186.svg" alt="A glyph made from wedge-shaped marks"\> |during |
-|<img src="../images/glyphs/glyph_192.svg" alt="A glyph made from wedge-shaped marks"\> |disillusion |
-|<img src="../images/glyphs/glyph_179.svg" alt="A glyph made from wedge-shaped marks"\> |brass |
-|<img src="../images/glyphs/glyph_145.svg" alt="A glyph made from wedge-shaped marks"\> |arose |
-|<img src="../images/glyphs/glyph_151.svg" alt="A glyph made from wedge-shaped marks"\> |demon |
-|<img src="../images/glyphs/glyph_147.svg" alt="A glyph made from wedge-shaped marks"\> |come |
-|<img src="../images/glyphs/glyph_153.svg" alt="A glyph made from wedge-shaped marks"\> |flesh |
-|<img src="../images/glyphs/glyph_184.svg" alt="A glyph made from wedge-shaped marks"\> |whereof |
-|<img src="../images/glyphs/glyph_190.svg" alt="A glyph made from wedge-shaped marks"\> |old |
-|<img src="../images/glyphs/glyph_16.svg" alt="A glyph made from wedge-shaped marks"\> |appeared |
+|<img src="../images/glyphs/glyph_192.svg" alt="A glyph made from wedge-shaped marks"\> |luminosity |
+|<img src="../images/glyphs/glyph_179.svg" alt="A glyph made from wedge-shaped marks"\> |Euvoran |
+|<img src="../images/glyphs/glyph_145.svg" alt="A glyph made from wedge-shaped marks"\> |halfway |
+|<img src="../images/glyphs/glyph_151.svg" alt="A glyph made from wedge-shaped marks"\> |city |
+|<img src="../images/glyphs/glyph_147.svg" alt="A glyph made from wedge-shaped marks"\> |evade |
+|<img src="../images/glyphs/glyph_153.svg" alt="A glyph made from wedge-shaped marks"\> |much |
+|<img src="../images/glyphs/glyph_184.svg" alt="A glyph made from wedge-shaped marks"\> |Forthwith |
+|<img src="../images/glyphs/glyph_190.svg" alt="A glyph made from wedge-shaped marks"\> |before |
+|<img src="../images/glyphs/glyph_16.svg" alt="A glyph made from wedge-shaped marks"\> |Swiftly |
+|<img src="../images/glyphs/glyph_17.svg" alt="A glyph made from wedge-shaped marks"\> |berries |
 
 ::: exit:runetable-8.0
 
 
-::: section:runetable9.0 classes:"break-after"
+::: section:runetable-9.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_17.svg" alt="A glyph made from wedge-shaped marks"\> |more |
-|<img src="../images/glyphs/glyph_191.svg" alt="A glyph made from wedge-shaped marks"\> |crimson |
-|<img src="../images/glyphs/glyph_185.svg" alt="A glyph made from wedge-shaped marks"\> |hoped |
-|<img src="../images/glyphs/glyph_152.svg" alt="A glyph made from wedge-shaped marks"\> |black |
-|<img src="../images/glyphs/glyph_146.svg" alt="A glyph made from wedge-shaped marks"\> |merrily |
-|<img src="../images/glyphs/glyph_163.svg" alt="A glyph made from wedge-shaped marks"\> |both |
-|<img src="../images/glyphs/glyph_177.svg" alt="A glyph made from wedge-shaped marks"\> |watershed |
-|<img src="../images/glyphs/glyph_188.svg" alt="A glyph made from wedge-shaped marks"\> |tell |
-|<img src="../images/glyphs/glyph_32.svg" alt="A glyph made from wedge-shaped marks"\> |halls |
-|<img src="../images/glyphs/glyph_26.svg" alt="A glyph made from wedge-shaped marks"\> |high |
+|<img src="../images/glyphs/glyph_191.svg" alt="A glyph made from wedge-shaped marks"\> |sailing |
+|<img src="../images/glyphs/glyph_185.svg" alt="A glyph made from wedge-shaped marks"\> |dust-choked |
+|<img src="../images/glyphs/glyph_152.svg" alt="A glyph made from wedge-shaped marks"\> |goodly |
+|<img src="../images/glyphs/glyph_146.svg" alt="A glyph made from wedge-shaped marks"\> |repent |
+|<img src="../images/glyphs/glyph_163.svg" alt="A glyph made from wedge-shaped marks"\> |have |
+|<img src="../images/glyphs/glyph_23.svg" alt="A glyph made from wedge-shaped marks"\> |wave |
+|<img src="../images/glyphs/glyph_188.svg" alt="A glyph made from wedge-shaped marks"\> |tarn |
+|<img src="../images/glyphs/glyph_32.svg" alt="A glyph made from wedge-shaped marks"\> |reared |
+|<img src="../images/glyphs/glyph_26.svg" alt="A glyph made from wedge-shaped marks"\> |maining |
+|<img src="../images/glyphs/glyph_200.svg" alt="A glyph made from wedge-shaped marks"\> |that |
 
 ::: exit:runetable-9.0
 
 
-::: section:runetable10.0 classes:"break-after"
+::: section:runetable-10.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_200.svg" alt="A glyph made from wedge-shaped marks"\> |awakening |
-|<img src="../images/glyphs/glyph_27.svg" alt="A glyph made from wedge-shaped marks"\> |squinting |
-|<img src="../images/glyphs/glyph_33.svg" alt="A glyph made from wedge-shaped marks"\> |Yoros |
-|<img src="../images/glyphs/glyph_189.svg" alt="A glyph made from wedge-shaped marks"\> |agreed |
-|<img src="../images/glyphs/glyph_176.svg" alt="A glyph made from wedge-shaped marks"\> |gomon |
-|<img src="../images/glyphs/glyph_162.svg" alt="A glyph made from wedge-shaped marks"\> |Even |
-|<img src="../images/glyphs/glyph_148.svg" alt="A glyph made from wedge-shaped marks"\> |among |
-|<img src="../images/glyphs/glyph_174.svg" alt="A glyph made from wedge-shaped marks"\> |largest |
-|<img src="../images/glyphs/glyph_160.svg" alt="A glyph made from wedge-shaped marks"\> |naked |
-|<img src="../images/glyphs/glyph_19.svg" alt="A glyph made from wedge-shaped marks"\> |names |
+|<img src="../images/glyphs/glyph_27.svg" alt="A glyph made from wedge-shaped marks"\> |settling |
+|<img src="../images/glyphs/glyph_33.svg" alt="A glyph made from wedge-shaped marks"\> |show |
+|<img src="../images/glyphs/glyph_189.svg" alt="A glyph made from wedge-shaped marks"\> |carnival |
+|<img src="../images/glyphs/glyph_176.svg" alt="A glyph made from wedge-shaped marks"\> |windows |
+|<img src="../images/glyphs/glyph_162.svg" alt="A glyph made from wedge-shaped marks"\> |less |
+|<img src="../images/glyphs/glyph_148.svg" alt="A glyph made from wedge-shaped marks"\> |ripeness |
+|<img src="../images/glyphs/glyph_174.svg" alt="A glyph made from wedge-shaped marks"\> |devils |
+|<img src="../images/glyphs/glyph_69.svg" alt="A glyph made from wedge-shaped marks"\> |eyes |
+|<img src="../images/glyphs/glyph_19.svg" alt="A glyph made from wedge-shaped marks"\> |your |
+|<img src="../images/glyphs/glyph_25.svg" alt="A glyph made from wedge-shaped marks"\> |integrity |
 
 ::: exit:runetable-10.0
 
 
-::: section:runetable11.0 classes:"break-after"
+::: section:runetable-11.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_25.svg" alt="A glyph made from wedge-shaped marks"\> |flowing |
-|<img src="../images/glyphs/glyph_31.svg" alt="A glyph made from wedge-shaped marks"\> |Sabmon |
-|<img src="../images/glyphs/glyph_30.svg" alt="A glyph made from wedge-shaped marks"\> |Mmatmuor |
-|<img src="../images/glyphs/glyph_24.svg" alt="A glyph made from wedge-shaped marks"\> |busied |
-|<img src="../images/glyphs/glyph_18.svg" alt="A glyph made from wedge-shaped marks"\> |dawning |
-|<img src="../images/glyphs/glyph_161.svg" alt="A glyph made from wedge-shaped marks"\> |shipwrecked |
-|<img src="../images/glyphs/glyph_175.svg" alt="A glyph made from wedge-shaped marks"\> |away |
-|<img src="../images/glyphs/glyph_149.svg" alt="A glyph made from wedge-shaped marks"\> |awful |
-|<img src="../images/glyphs/glyph_171.svg" alt="A glyph made from wedge-shaped marks"\> |talons |
-|<img src="../images/glyphs/glyph_165.svg" alt="A glyph made from wedge-shaped marks"\> |longer |
+|<img src="../images/glyphs/glyph_31.svg" alt="A glyph made from wedge-shaped marks"\> |there |
+|<img src="../images/glyphs/glyph_30.svg" alt="A glyph made from wedge-shaped marks"\> |shadow |
+|<img src="../images/glyphs/glyph_24.svg" alt="A glyph made from wedge-shaped marks"\> |yesterday |
+|<img src="../images/glyphs/glyph_18.svg" alt="A glyph made from wedge-shaped marks"\> |emperor |
+|<img src="../images/glyphs/glyph_175.svg" alt="A glyph made from wedge-shaped marks"\> |rank |
+|<img src="../images/glyphs/glyph_149.svg" alt="A glyph made from wedge-shaped marks"\> |eyeing |
+|<img src="../images/glyphs/glyph_171.svg" alt="A glyph made from wedge-shaped marks"\> |water |
+|<img src="../images/glyphs/glyph_165.svg" alt="A glyph made from wedge-shaped marks"\> |betimes |
+|<img src="../images/glyphs/glyph_159.svg" alt="A glyph made from wedge-shaped marks"\> |mirror |
+|<img src="../images/glyphs/glyph_20.svg" alt="A glyph made from wedge-shaped marks"\> |isle |
 
 ::: exit:runetable-11.0
 
 
-::: section:runetable12.0 classes:"break-after"
+::: section:runetable-12.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_159.svg" alt="A glyph made from wedge-shaped marks"\> |remembered |
-|<img src="../images/glyphs/glyph_20.svg" alt="A glyph made from wedge-shaped marks"\> |beneath |
-|<img src="../images/glyphs/glyph_34.svg" alt="A glyph made from wedge-shaped marks"\> |nate |
-|<img src="../images/glyphs/glyph_35.svg" alt="A glyph made from wedge-shaped marks"\> |could |
-|<img src="../images/glyphs/glyph_21.svg" alt="A glyph made from wedge-shaped marks"\> |before |
-|<img src="../images/glyphs/glyph_158.svg" alt="A glyph made from wedge-shaped marks"\> |grew |
-|<img src="../images/glyphs/glyph_164.svg" alt="A glyph made from wedge-shaped marks"\> |amorous |
-|<img src="../images/glyphs/glyph_170.svg" alt="A glyph made from wedge-shaped marks"\> |necessary |
-|<img src="../images/glyphs/glyph_166.svg" alt="A glyph made from wedge-shaped marks"\> |Uccastrog |
-|<img src="../images/glyphs/glyph_172.svg" alt="A glyph made from wedge-shaped marks"\> |thing |
+|<img src="../images/glyphs/glyph_34.svg" alt="A glyph made from wedge-shaped marks"\> |ies |
+|<img src="../images/glyphs/glyph_35.svg" alt="A glyph made from wedge-shaped marks"\> |bowed |
+|<img src="../images/glyphs/glyph_21.svg" alt="A glyph made from wedge-shaped marks"\> |malediction |
+|<img src="../images/glyphs/glyph_158.svg" alt="A glyph made from wedge-shaped marks"\> |chain |
+|<img src="../images/glyphs/glyph_170.svg" alt="A glyph made from wedge-shaped marks"\> |somber |
+|<img src="../images/glyphs/glyph_166.svg" alt="A glyph made from wedge-shaped marks"\> |yawned |
+|<img src="../images/glyphs/glyph_172.svg" alt="A glyph made from wedge-shaped marks"\> |wine |
+|<img src="../images/glyphs/glyph_199.svg" alt="A glyph made from wedge-shaped marks"\> |thinn |
+|<img src="../images/glyphs/glyph_37.svg" alt="A glyph made from wedge-shaped marks"\> |Rubalsa |
+|<img src="../images/glyphs/glyph_22.svg" alt="A glyph made from wedge-shaped marks"\> |peering |
 
 ::: exit:runetable-12.0
 
 
-::: section:runetable13.0 classes:"break-after"
+::: section:runetable-13.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_199.svg" alt="A glyph made from wedge-shaped marks"\> |Presently |
-|<img src="../images/glyphs/glyph_37.svg" alt="A glyph made from wedge-shaped marks"\> |scene |
-|<img src="../images/glyphs/glyph_23.svg" alt="A glyph made from wedge-shaped marks"\> |continents |
-|<img src="../images/glyphs/glyph_22.svg" alt="A glyph made from wedge-shaped marks"\> |Mordiggian |
-|<img src="../images/glyphs/glyph_36.svg" alt="A glyph made from wedge-shaped marks"\> |well- |
-|<img src="../images/glyphs/glyph_198.svg" alt="A glyph made from wedge-shaped marks"\> |most |
-|<img src="../images/glyphs/glyph_173.svg" alt="A glyph made from wedge-shaped marks"\> |grounds |
-|<img src="../images/glyphs/glyph_167.svg" alt="A glyph made from wedge-shaped marks"\> |mummies |
-|<img src="../images/glyphs/glyph_128.svg" alt="A glyph made from wedge-shaped marks"\> |glass |
-|<img src="../images/glyphs/glyph_100.svg" alt="A glyph made from wedge-shaped marks"\> |true |
+|<img src="../images/glyphs/glyph_36.svg" alt="A glyph made from wedge-shaped marks"\> |Yoros |
+|<img src="../images/glyphs/glyph_198.svg" alt="A glyph made from wedge-shaped marks"\> |dismayed |
+|<img src="../images/glyphs/glyph_173.svg" alt="A glyph made from wedge-shaped marks"\> |lands |
+|<img src="../images/glyphs/glyph_167.svg" alt="A glyph made from wedge-shaped marks"\> |instant |
+|<img src="../images/glyphs/glyph_128.svg" alt="A glyph made from wedge-shaped marks"\> |peril |
+|<img src="../images/glyphs/glyph_100.svg" alt="A glyph made from wedge-shaped marks"\> |Zobal |
+|<img src="../images/glyphs/glyph_114.svg" alt="A glyph made from wedge-shaped marks"\> |hooves |
+|<img src="../images/glyphs/glyph_79.svg" alt="A glyph made from wedge-shaped marks"\> |securely |
+|<img src="../images/glyphs/glyph_51.svg" alt="A glyph made from wedge-shaped marks"\> |sake |
+|<img src="../images/glyphs/glyph_45.svg" alt="A glyph made from wedge-shaped marks"\> |assurance |
 
 ::: exit:runetable-13.0
 
 
-::: section:runetable14.0 classes:"break-after"
+::: section:runetable-14.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_114.svg" alt="A glyph made from wedge-shaped marks"\> |laden |
-|<img src="../images/glyphs/glyph_79.svg" alt="A glyph made from wedge-shaped marks"\> |died |
-|<img src="../images/glyphs/glyph_51.svg" alt="A glyph made from wedge-shaped marks"\> |discernment |
-|<img src="../images/glyphs/glyph_45.svg" alt="A glyph made from wedge-shaped marks"\> |perchance |
-|<img src="../images/glyphs/glyph_92.svg" alt="A glyph made from wedge-shaped marks"\> |designate |
-|<img src="../images/glyphs/glyph_86.svg" alt="A glyph made from wedge-shaped marks"\> |globe |
-|<img src="../images/glyphs/glyph_7.svg" alt="A glyph made from wedge-shaped marks"\> |elastic |
-|<img src="../images/glyphs/glyph_6.svg" alt="A glyph made from wedge-shaped marks"\> |lascivious |
-|<img src="../images/glyphs/glyph_87.svg" alt="A glyph made from wedge-shaped marks"\> |loathsomely |
-|<img src="../images/glyphs/glyph_93.svg" alt="A glyph made from wedge-shaped marks"\> |parents |
+|<img src="../images/glyphs/glyph_92.svg" alt="A glyph made from wedge-shaped marks"\> |larded |
+|<img src="../images/glyphs/glyph_86.svg" alt="A glyph made from wedge-shaped marks"\> |spell |
+|<img src="../images/glyphs/glyph_7.svg" alt="A glyph made from wedge-shaped marks"\> |Often |
+|<img src="../images/glyphs/glyph_6.svg" alt="A glyph made from wedge-shaped marks"\> |eaten |
+|<img src="../images/glyphs/glyph_87.svg" alt="A glyph made from wedge-shaped marks"\> |tall-stemmed |
+|<img src="../images/glyphs/glyph_93.svg" alt="A glyph made from wedge-shaped marks"\> |decay |
+|<img src="../images/glyphs/glyph_44.svg" alt="A glyph made from wedge-shaped marks"\> |gems |
+|<img src="../images/glyphs/glyph_50.svg" alt="A glyph made from wedge-shaped marks"\> |plowmen |
+|<img src="../images/glyphs/glyph_78.svg" alt="A glyph made from wedge-shaped marks"\> |necro |
+|<img src="../images/glyphs/glyph_115.svg" alt="A glyph made from wedge-shaped marks"\> |loosening |
 
 ::: exit:runetable-14.0
 
 
-::: section:runetable15.0 classes:"break-after"
+::: section:runetable-15.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_44.svg" alt="A glyph made from wedge-shaped marks"\> |visitor |
-|<img src="../images/glyphs/glyph_50.svg" alt="A glyph made from wedge-shaped marks"\> |boundless |
-|<img src="../images/glyphs/glyph_78.svg" alt="A glyph made from wedge-shaped marks"\> |horrible |
-|<img src="../images/glyphs/glyph_115.svg" alt="A glyph made from wedge-shaped marks"\> |known |
-|<img src="../images/glyphs/glyph_101.svg" alt="A glyph made from wedge-shaped marks"\> |sanguine |
-|<img src="../images/glyphs/glyph_129.svg" alt="A glyph made from wedge-shaped marks"\> |repented |
-|<img src="../images/glyphs/glyph_117.svg" alt="A glyph made from wedge-shaped marks"\> |Soon |
-|<img src="../images/glyphs/glyph_103.svg" alt="A glyph made from wedge-shaped marks"\> |filthy |
-|<img src="../images/glyphs/glyph_46.svg" alt="A glyph made from wedge-shaped marks"\> |winner |
-|<img src="../images/glyphs/glyph_52.svg" alt="A glyph made from wedge-shaped marks"\> |warrior |
+|<img src="../images/glyphs/glyph_101.svg" alt="A glyph made from wedge-shaped marks"\> |long |
+|<img src="../images/glyphs/glyph_129.svg" alt="A glyph made from wedge-shaped marks"\> |steps |
+|<img src="../images/glyphs/glyph_103.svg" alt="A glyph made from wedge-shaped marks"\> |There |
+|<img src="../images/glyphs/glyph_46.svg" alt="A glyph made from wedge-shaped marks"\> |till |
+|<img src="../images/glyphs/glyph_52.svg" alt="A glyph made from wedge-shaped marks"\> |indignantly |
+|<img src="../images/glyphs/glyph_85.svg" alt="A glyph made from wedge-shaped marks"\> |freely |
+|<img src="../images/glyphs/glyph_91.svg" alt="A glyph made from wedge-shaped marks"\> |moss |
+|<img src="../images/glyphs/glyph_4.svg" alt="A glyph made from wedge-shaped marks"\> |desert |
+|<img src="../images/glyphs/glyph_5.svg" alt="A glyph made from wedge-shaped marks"\> |Litany |
+|<img src="../images/glyphs/glyph_90.svg" alt="A glyph made from wedge-shaped marks"\> |belonged |
 
 ::: exit:runetable-15.0
 
 
-::: section:runetable16.0 classes:"break-after"
+::: section:runetable-16.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_85.svg" alt="A glyph made from wedge-shaped marks"\> |fled |
-|<img src="../images/glyphs/glyph_91.svg" alt="A glyph made from wedge-shaped marks"\> |shall |
-|<img src="../images/glyphs/glyph_4.svg" alt="A glyph made from wedge-shaped marks"\> |multiplied |
-|<img src="../images/glyphs/glyph_5.svg" alt="A glyph made from wedge-shaped marks"\> |through |
-|<img src="../images/glyphs/glyph_90.svg" alt="A glyph made from wedge-shaped marks"\> |beyond |
-|<img src="../images/glyphs/glyph_84.svg" alt="A glyph made from wedge-shaped marks"\> |floor |
-|<img src="../images/glyphs/glyph_53.svg" alt="A glyph made from wedge-shaped marks"\> |wilder |
-|<img src="../images/glyphs/glyph_47.svg" alt="A glyph made from wedge-shaped marks"\> |privacy |
-|<img src="../images/glyphs/glyph_102.svg" alt="A glyph made from wedge-shaped marks"\> |dawnward |
-|<img src="../images/glyphs/glyph_116.svg" alt="A glyph made from wedge-shaped marks"\> |girl’s |
+|<img src="../images/glyphs/glyph_84.svg" alt="A glyph made from wedge-shaped marks"\> |unceasingly |
+|<img src="../images/glyphs/glyph_53.svg" alt="A glyph made from wedge-shaped marks"\> |With |
+|<img src="../images/glyphs/glyph_47.svg" alt="A glyph made from wedge-shaped marks"\> |younger |
+|<img src="../images/glyphs/glyph_102.svg" alt="A glyph made from wedge-shaped marks"\> |shoulders |
+|<img src="../images/glyphs/glyph_116.svg" alt="A glyph made from wedge-shaped marks"\> |subtle |
+|<img src="../images/glyphs/glyph_112.svg" alt="A glyph made from wedge-shaped marks"\> |flagstones |
+|<img src="../images/glyphs/glyph_106.svg" alt="A glyph made from wedge-shaped marks"\> |pursued |
+|<img src="../images/glyphs/glyph_43.svg" alt="A glyph made from wedge-shaped marks"\> |ceased |
+|<img src="../images/glyphs/glyph_57.svg" alt="A glyph made from wedge-shaped marks"\> |their |
+|<img src="../images/glyphs/glyph_80.svg" alt="A glyph made from wedge-shaped marks"\> |some |
 
 ::: exit:runetable-16.0
 
 
-::: section:runetable17.0 classes:"break-after"
+::: section:runetable-17.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_106.svg" alt="A glyph made from wedge-shaped marks"\> |moved |
-|<img src="../images/glyphs/glyph_43.svg" alt="A glyph made from wedge-shaped marks"\> |deeply |
-|<img src="../images/glyphs/glyph_57.svg" alt="A glyph made from wedge-shaped marks"\> |savage |
-|<img src="../images/glyphs/glyph_80.svg" alt="A glyph made from wedge-shaped marks"\> |from |
-|<img src="../images/glyphs/glyph_94.svg" alt="A glyph made from wedge-shaped marks"\> |beheld |
-|<img src="../images/glyphs/glyph_1.svg" alt="A glyph made from wedge-shaped marks"\> |behind |
-|<img src="../images/glyphs/glyph_0.svg" alt="A glyph made from wedge-shaped marks"\> |boobies |
-|<img src="../images/glyphs/glyph_95.svg" alt="A glyph made from wedge-shaped marks"\> |time |
-|<img src="../images/glyphs/glyph_81.svg" alt="A glyph made from wedge-shaped marks"\> |loud |
-|<img src="../images/glyphs/glyph_56.svg" alt="A glyph made from wedge-shaped marks"\> |place |
+|<img src="../images/glyphs/glyph_1.svg" alt="A glyph made from wedge-shaped marks"\> |told |
+|<img src="../images/glyphs/glyph_0.svg" alt="A glyph made from wedge-shaped marks"\> |fair |
+|<img src="../images/glyphs/glyph_95.svg" alt="A glyph made from wedge-shaped marks"\> |alone |
+|<img src="../images/glyphs/glyph_81.svg" alt="A glyph made from wedge-shaped marks"\> |dripped |
+|<img src="../images/glyphs/glyph_56.svg" alt="A glyph made from wedge-shaped marks"\> |tower |
+|<img src="../images/glyphs/glyph_42.svg" alt="A glyph made from wedge-shaped marks"\> |within |
+|<img src="../images/glyphs/glyph_107.svg" alt="A glyph made from wedge-shaped marks"\> |bird |
+|<img src="../images/glyphs/glyph_113.svg" alt="A glyph made from wedge-shaped marks"\> |they |
+|<img src="../images/glyphs/glyph_105.svg" alt="A glyph made from wedge-shaped marks"\> |draft |
+|<img src="../images/glyphs/glyph_139.svg" alt="A glyph made from wedge-shaped marks"\> |upon |
 
 ::: exit:runetable-17.0
 
 
-::: section:runetable18.0 classes:"break-after"
+::: section:runetable-18.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_42.svg" alt="A glyph made from wedge-shaped marks"\> |azure |
-|<img src="../images/glyphs/glyph_107.svg" alt="A glyph made from wedge-shaped marks"\> |stairs |
-|<img src="../images/glyphs/glyph_113.svg" alt="A glyph made from wedge-shaped marks"\> |custom |
-|<img src="../images/glyphs/glyph_105.svg" alt="A glyph made from wedge-shaped marks"\> |hill-slope |
-|<img src="../images/glyphs/glyph_111.svg" alt="A glyph made from wedge-shaped marks"\> |carried |
-|<img src="../images/glyphs/glyph_139.svg" alt="A glyph made from wedge-shaped marks"\> |melodies |
-|<img src="../images/glyphs/glyph_54.svg" alt="A glyph made from wedge-shaped marks"\> |asked |
-|<img src="../images/glyphs/glyph_40.svg" alt="A glyph made from wedge-shaped marks"\> |such |
-|<img src="../images/glyphs/glyph_68.svg" alt="A glyph made from wedge-shaped marks"\> |road |
-|<img src="../images/glyphs/glyph_97.svg" alt="A glyph made from wedge-shaped marks"\> |vaults |
+|<img src="../images/glyphs/glyph_54.svg" alt="A glyph made from wedge-shaped marks"\> |kings |
+|<img src="../images/glyphs/glyph_40.svg" alt="A glyph made from wedge-shaped marks"\> |Tasuun |
+|<img src="../images/glyphs/glyph_68.svg" alt="A glyph made from wedge-shaped marks"\> |dive |
+|<img src="../images/glyphs/glyph_97.svg" alt="A glyph made from wedge-shaped marks"\> |conta- |
+|<img src="../images/glyphs/glyph_83.svg" alt="A glyph made from wedge-shaped marks"\> |asleep |
+|<img src="../images/glyphs/glyph_2.svg" alt="A glyph made from wedge-shaped marks"\> |lifted |
+|<img src="../images/glyphs/glyph_3.svg" alt="A glyph made from wedge-shaped marks"\> |forth |
+|<img src="../images/glyphs/glyph_82.svg" alt="A glyph made from wedge-shaped marks"\> |haste |
+|<img src="../images/glyphs/glyph_96.svg" alt="A glyph made from wedge-shaped marks"\> |driftwood |
+|<img src="../images/glyphs/glyph_41.svg" alt="A glyph made from wedge-shaped marks"\> |hieroglyph |
 
 ::: exit:runetable-18.0
 
 
-::: section:runetable19.0 classes:"break-after"
+::: section:runetable-19.0 classes:"break-after"
 | Glyph | Translation |
 |-|-|
-|<img src="../images/glyphs/glyph_83.svg" alt="A glyph made from wedge-shaped marks"\> |winding |
-|<img src="../images/glyphs/glyph_2.svg" alt="A glyph made from wedge-shaped marks"\> |legs |
-|<img src="../images/glyphs/glyph_3.svg" alt="A glyph made from wedge-shaped marks"\> |looked |
-|<img src="../images/glyphs/glyph_82.svg" alt="A glyph made from wedge-shaped marks"\> |Before |
-|<img src="../images/glyphs/glyph_96.svg" alt="A glyph made from wedge-shaped marks"\> |company |
-|<img src="../images/glyphs/glyph_69.svg" alt="A glyph made from wedge-shaped marks"\> |room |
-|<img src="../images/glyphs/glyph_41.svg" alt="A glyph made from wedge-shaped marks"\> |night |
-|<img src="../images/glyphs/glyph_55.svg" alt="A glyph made from wedge-shaped marks"\> |them |
-|<img src="../images/glyphs/glyph_138.svg" alt="A glyph made from wedge-shaped marks"\> |wondered |
-|<img src="../images/glyphs/glyph_110.svg" alt="A glyph made from wedge-shaped marks"\> |fully |
+|<img src="../images/glyphs/glyph_55.svg" alt="A glyph made from wedge-shaped marks"\> |burning |
+|<img src="../images/glyphs/glyph_138.svg" alt="A glyph made from wedge-shaped marks"\> |portals |
+|<img src="../images/glyphs/glyph_110.svg" alt="A glyph made from wedge-shaped marks"\> |own |
+|<img src="../images/glyphs/glyph_104.svg" alt="A glyph made from wedge-shaped marks"\> |courtiers |
 
-::: exit:runetable-19.0
-
-
-::: section:runetable20.0 classes:"break-after"
-| Glyph | Translation |
-|-|-|
-|<img src="../images/glyphs/glyph_104.svg" alt="A glyph made from wedge-shaped marks"\> |they |
-
-::: exit:runetable-19.0
+::: exit:runetable-18.0
 
 ::: exit:chapter-five
