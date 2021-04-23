@@ -31,7 +31,7 @@ with open("../Codex/_project/_markdown/Runes.md", "w") as myfile:
             nextSectionNumber = str(runeCounter *.1)
             lastSectionNumber = str(runeCounter *.1-1)
             myfile.write("\n::: exit:runetable-"+ lastSectionNumber + "\n\n")
-            myfile.write("\n::: section:runetable"+ nextSectionNumber +" classes:\"break-after\"\n")
+            myfile.write("\n::: section:runetable-"+ nextSectionNumber +" classes:\"break-after\"\n")
             myfile.write("| Glyph | Translation |\n")
             myfile.write("|-|-|\n")
         if runeCounter >= len(runes.runeDict) and runeCounter % 10 != 0:
