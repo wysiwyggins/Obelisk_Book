@@ -16,14 +16,14 @@ class Runes:
         for glyph in files:
             if not glyph.startswith('.'):
                 meaning = (random.choice(open("corpus/fantasy.txt").read().split()))
-                while meaning in self.runeDict or len(meaning) < 4:
+                while meaning in self.runeDict or len(meaning) < 4 or "–" in meaning:
                     meaning = (random.choice(open("corpus/fantasy.txt").read().split()))
-                meaning = meaning.replace('.', '').replace(',', '').replace(';', '').replace(':', '').replace('“', '').replace('"', '').replace('”', '').lower()
+                meaning = meaning.replace('.', '').replace(',', '').replace(';', '').replace(':', '').replace('“', '').replace('"', '').replace('”', '').replace('!', '').replace('\'', '').lower()
                 if d.check(meaning):
                     meaning = meaning.lower()
                     #print(meaning + " is a word I already know.")
                 else:
-                    if "less" in meaning or meaning.endswith("s") or "-" in meaning:
+                    if "less" in meaning or meaning.endswith("s") or "-" in meaning or "like" in meaning:
                         meaning = meaning.lower()
                     else:
                         #print("I guess " + meaning + " is a proper noun.")
