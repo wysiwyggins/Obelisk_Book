@@ -26,7 +26,7 @@ with open("../Codex/_project/_markdown/Runes.md", "w") as myfile:
     myfile.write("|-|-|\n")
     for rune in runes.runeDict:
         runeCounter += 1
-        myfile.write('|<img src=\"../images/glyphs/'+runes.runeDict[rune]+'\" ' + 'alt=\"A glyph made from wedge-shaped marks\"\\> |' + rune + ' |\n')
+        myfile.write('|<img src=\"../images/glyphs/'+runes.runeDict[rune]+'\" ' + 'alt=\"A glyph made from wedge-shaped marks\"/> |' + rune + ' |\n')
         if runeCounter % 10 == 0:
             nextSectionNumber = str(runeCounter *.1)
             lastSectionNumber = str(runeCounter *.1-1)
