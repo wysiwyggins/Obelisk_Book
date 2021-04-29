@@ -9,7 +9,6 @@
         in_toc: true
 # Project Contents
 - obelisk-title-page
-- Index
 - Introduction
 - Interface
 - Realms
@@ -22,5 +21,5 @@
 
 
 - notes:
-    linear: false
+    linear: true
     in_toc: false

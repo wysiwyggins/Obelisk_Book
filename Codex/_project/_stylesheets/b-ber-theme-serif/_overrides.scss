@@ -13,6 +13,11 @@ h1 {
     font-size: 3em;
 }
 
+h2 {
+    font-weight: 800;
+    margin: 1em;
+}
+
 blockquote p, blockquote{
     &::first-letter {
         initial-letter: 2;
