@@ -10,12 +10,19 @@
 
 h1 {
     font-family: 'luminariregular';
-    font-size: 3em;
+    font-size: 3em; /* 48 / 16 */
+    line-height: 1em; /* 48 / 48 */
+    
 }
 
 h2 {
-    font-weight: 800;
-    margin: 1em;
+    
+    font-size: 1.3125em; /* 21 / 16 */
+    line-height: 1.142857142857143em; /* 24 / 21 */
+}
+
+p {
+    padding-bottom: 1em;
 }
 
 blockquote p, blockquote{
