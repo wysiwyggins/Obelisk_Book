@@ -7,7 +7,7 @@ class Wand:
         self.r1 = "?"
         self.r2 = "?"
         self.r3 = "?"
-        self.name = "Molybednum Potion"
+        self.name = "Molybednum Wand"
         self.effect = "Wand of Strength"
 
     def getSkill(self):
@@ -57,7 +57,3 @@ class Wand:
 
     def __str__(self):
         return ' | ' + self.name + ' | ' + self.effect +' |\n'
-
-#newPotion = Potion()
-#newPotion.generatePotion()
-#print(newPotion)
