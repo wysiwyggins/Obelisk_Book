@@ -76,7 +76,7 @@ def generateRealm():
     realmText += "\n## "+ title.title()+"\n\n"
     realmText += ""
     realmText += "This was once known to be " +  addAorAn(adjective) + " land. Exports included " + getSubstance() + ", " + getSubstance() + ", " + getSubstance() +" and " + getSubstance() +". It was conquored and forgotten.\n"
-    for number in range(50):
+    for number in range(20):
         try: 
             realmText += "\n" + text_model.make_short_sentence(250) + " "
         except:

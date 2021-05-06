@@ -11,7 +11,7 @@ with open("../Codex/_project/_markdown/Realms.md", "w") as myfile:
     myfile.write("# Realms\n\n")
     myfile.write(chapterQuote.generateQuote())
     
-    for x in range(40):
+    for x in range(10):
         newRealm = realms.generateRealm()
         myfile.write("\n\n")
         myfile.write(str(newRealm))
