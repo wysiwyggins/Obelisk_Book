@@ -14,12 +14,10 @@ def getAdjective():
 with open("../Codex/_project/_markdown/Wands.md", "w") as myfile:
     myfile.write("---\ntitle: Wands\ntype: bodymatter\n---\n")
     myfile.write("\n::: chapter:chapter-four\n")
-    myfile.write("\n::: section:page classes:\"break-after\"\n")
     myfile.write("# Wands\n\n")
     myfile.write(chapterQuote.generateQuote())
-    myfile.write("\n::: exit:page\n")
     for x in range(50):
-        myfile.write("\n::: section:wandtable-"+str(x)+" classes:\"break-after\"\n")
+        myfile.write("\n\n::: section:wandtable-"+str(x)+" classes:\"break-after\"\n")
         adjective = getAdjective()
         myfile.write("\n*" + adjective.capitalize() + " wands-*\n")
         myfile.write("| Material | Effect |\n")

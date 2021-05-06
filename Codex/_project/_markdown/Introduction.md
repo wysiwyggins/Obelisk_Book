@@ -3,14 +3,18 @@ title: Introduction
 type: bodymatter
 ---
 
+
 ::: chapter:chapter-one
 # Introduction
 
 
-::: blockquote:ch1quote classes:"break-after"
-The walls of his prison still stood firm, no matter how vast the continent within their borders grew. Each new spell that he wove was longer and more convoluted than the last– until it took weeks for his parched lips to incant them, and the syllables dissolved into inchoate sounds. *There must have been a time before or after captivity*, but he could imagine neither, and his dreams of freedom always crowned him king of nowhere, under the inescapable shadow of yet another looming obelisk.
+
+::: blockquote:ch1quote citation:"Unknown Author, *The Book of Secrets*" classes:"break-after"
+
+The prison walls still stood firm, no matter how vast the continent within their borders grew. Each new spell the prisoner cast was longer and more convoluted than the last– until it took weeks for his parched lips to incant them, and the syllables dissolved into inchoate sounds. *There must have been a time before or after captivity*, but he could imagine neither, and his dreams of freedom always crowned him king of nowhere, under the inescapable shadow of yet another looming obelisk.
+
 ::: exit:ch1quote
-*–The Book of Secrets*## Welcome to the incredible world of Obelisk!
+## Welcome to the incredible world of Obelisk!
 
 In obelisk you play the role of an adventurer on a quest for one of many legendary *capstones of power*. You (or you and your friends, via the new ObeliskNet service[^1] ) will explore vast lands and interact with a varied cast of characters as you seek magical supremacy.)
 

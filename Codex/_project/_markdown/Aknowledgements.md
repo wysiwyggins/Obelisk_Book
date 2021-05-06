@@ -16,4 +16,4 @@ List of text sources-
 * List of unique color names from Ulysses, by James Joyce
 * Excerpts from "Zothique" fantasy collection by Clark Ashton Smith, as printed in "Weird Tales"
 
-Fragments of these works are used under "Fair Use" provisions as part of this noncommercial student work and as part of the computer software that generated it.
+Fragments of these works are used under "Fair Use" provisions as part of this noncommercial student work and software created to generate it.

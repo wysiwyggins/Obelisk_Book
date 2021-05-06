@@ -7,958 +7,1010 @@ type: bodymatter
 # Wands
 
  
-::: blockquote:id-xBFgCA
-Tardily, as one exceeding all other deities. 
-Pieces of their couches. 
-He knew the many priesthoods before him a fraternal welcome. 
-::: exit:id-xBFgCA
-*–And Behind Him, And He Roared Out In Terror*
+
+::: blockquote:id-EMHWFq citation:"Unknown Author, *And They Said That The Dark Ness, Seemingly Just Before Him.*"
+When he had been theirs before death; but when the fire and shadow, menacing me unspeakably. 
+In the thralldom that weighed upon him from the barge. 
+Very slowly and deviously against the mighty pillars. 
+
+::: exit:id-EMHWFq
+
+
 ::: section:wandtable-0 classes:"break-after"
-
-*Formless wands-*
-| Material | Effect |
-|-|-|
- | ??? | Ferocious Wand |
- | ??? | Wand of Braininess |
- | Cuproadamite Wand | ??? |
- | Arsenopyrite Wand | ??? |
- | Corned beef Wand | ??? |
- | ??? | Wand of Waxiness |
- | ??? | Jazzy Wand |
- | Broken glass Wand | ??? |
- | American oak Wand | ??? |
- | ??? | Wand of Medical skill |
-
-::: exit:wandtable-0
-
-
-::: section:wandtable-1 classes:"break-after"
-
-*Stupid wands-*
-| Material | Effect |
-|-|-|
- | Tin Wand | ??? |
- | ??? | Wand of Bioelectricity |
- | ??? | Wand of Thirstiness |
- | Plancheite Wand | ??? |
- | ??? | Wand of Justness |
- | Brucite Wand | ??? |
- | ??? | Wand of Libidinousness |
- | ??? | Wand of Kindness |
- | ??? | Wand of Utterness |
- | ??? | Wand of Fleetness |
-
-::: exit:wandtable-1
-
-
-::: section:wandtable-2 classes:"break-after"
-
-*Short wands-*
-| Material | Effect |
-|-|-|
- | Resin Wand | ??? |
- | ??? | Wand of Illusoriness |
- | Boracite Wand | ??? |
- | Joaquinite Wand | ??? |
- | Pyrophyllite Wand | ??? |
- | ??? | Sick Wand |
- | Chromite Wand | ??? |
- | Astrophyllite Wand | ??? |
- | Serandite Wand | ??? |
- | ??? | Passive Wand |
-
-::: exit:wandtable-2
-
-
-::: section:wandtable-3 classes:"break-after"
-
-*Amorphous wands-*
-| Material | Effect |
-|-|-|
- | Wollastonite Wand | ??? |
- | ??? | Wand of Coziness |
- | Molybdenite Wand | ??? |
- | Tincalconite Wand | ??? |
- | ??? | Wand of Saltness |
- | Mixite Wand | ??? |
- | Duftite Wand | ??? |
- | ??? | Wand of Tightness |
- | Cinnabar Wand | ??? |
- | ??? | Wand of Seasickness |
-
-::: exit:wandtable-3
-
-
-::: section:wandtable-4 classes:"break-after"
-
-*Plucky wands-*
-| Material | Effect |
-|-|-|
- | ??? | Wand of Colonialness |
- | Hiddenite Wand | ??? |
- | ??? | Wand of Painfulness |
- | ??? | Wand of Cytotoxicity |
- | Paradamite Wand | ??? |
- | Sandstone Wand | ??? |
- | ??? | Wand of Literalness |
- | Sandstone Wand | ??? |
- | Silk Wand | ??? |
- | Apatite Wand | ??? |
-
-::: exit:wandtable-4
-
-
-::: section:wandtable-5 classes:"break-after"
-
-*Etiological wands-*
-| Material | Effect |
-|-|-|
- | ??? | Simplistic Wand |
- | ??? | Wand of Crassness |
- | ??? | Berserk Wand |
- | Milarite Wand | ??? |
- | Mercury Wand | ??? |
- | Bone Wand | ??? |
- | ??? | Wand of Apartness |
- | Resin Wand | ??? |
- | ??? | Wand of Dourness |
- | ??? | Zingy Wand |
-
-::: exit:wandtable-5
-
-
-::: section:wandtable-6 classes:"break-after"
-
-*Confused wands-*
-| Material | Effect |
-|-|-|
- | ??? | Wand of Siziness |
- | ??? | Wand of Naughtiness |
- | ??? | Wand of Wantonness |
- | ??? | Contented Wand |
- | ??? | Wand of Doubtfulness |
- | ??? | Wand of Tartness |
- | ??? | Wand of Plenteousness |
- | Stellerite Wand | ??? |
- | ??? | Rambling Wand |
- | ??? | Wand of Balefulness |
-
-::: exit:wandtable-6
-
-
-::: section:wandtable-7 classes:"break-after"
-
-*Smoky wands-*
-| Material | Effect |
-|-|-|
- | Yuksporite Wand | ??? |
- | Chalcocite Wand | ??? |
- | Planks of wood Wand | ??? |
- | Chabazite Wand | ??? |
- | Silicates Wand | ??? |
- | ??? | Wand of Dizziness |
- | ??? | Wand of Etherealness |
- | ??? | Wand of Resentfulness |
- | ??? | Wand of Slothfulness |
- | ??? | Wand of Rebelliousness |
-
-::: exit:wandtable-7
-
-
-::: section:wandtable-8 classes:"break-after"
-
-*Alien wands-*
-| Material | Effect |
-|-|-|
- | Lead Wand | ??? |
- | ??? | Wand of Haughtiness |
- | ??? | Wand of Needfulness |
- | Leifite Wand | ??? |
- | ??? | Wand of Toploftiness |
- | ??? | Wand of Mirthfulness |
- | Leucite Wand | ??? |
- | Actinolite Wand | ??? |
- | Brucite Wand | ??? |
- | ??? | Desperate Wand |
-
-::: exit:wandtable-8
-
-
-::: section:wandtable-9 classes:"break-after"
-
-*Appreciative wands-*
-| Material | Effect |
-|-|-|
- | Chondrodite Wand | ??? |
- | Selenite Wand | ??? |
- | ??? | Insipid Wand |
- | Duftite Wand | ??? |
- | ??? | Nuclear Wand |
- | Willemite Wand | ??? |
- | Pyrope Wand | ??? |
- | ??? | Wand of Immunogenicity |
- | Emerald Wand | ??? |
- | ??? | Wand of Tastefulness |
-
-::: exit:wandtable-9
-
-
-::: section:wandtable-10 classes:"break-after"
-
-*Pensive wands-*
-| Material | Effect |
-|-|-|
- | Iolite Wand | ??? |
- | ??? | Wand of Vivaciousness |
- | ??? | Wand of Tallness |
- | ??? | Wand of Erroneousness |
- | Goethite Wand | ??? |
- | Anapaite Wand | ??? |
- | ??? | Wand of Inhumanness |
- | ??? | Wand of Kindliness |
- | Stichtite Wand | ??? |
- | Microcline Wand | ??? |
-
-::: exit:wandtable-10
-
-
-::: section:wandtable-11 classes:"break-after"
-
-*Gaseous wands-*
-| Material | Effect |
-|-|-|
- | ??? | Outrageous Wand |
- | ??? | Outlandish Wand |
- | ??? | Wand of Automaticity |
- | ??? | Cruel Wand |
- | ??? | Wand of Gainfulness |
- | ??? | Almighty Wand |
- | ??? | Childish Wand |
- | Dioptase Wand | ??? |
- | Mica Wand | ??? |
- | ??? | Wand of Clonicity |
-
-::: exit:wandtable-11
-
-
-::: section:wandtable-12 classes:"break-after"
-
-*Omnipresent wands-*
-| Material | Effect |
-|-|-|
- | Zinc Wand | ??? |
- | Diamond Wand | ??? |
- | Eucryptite Wand | ??? |
- | ??? | Wand of Nothingness |
- | Tin Wand | ??? |
- | Mud Wand | ??? |
- | Superglue Wand | ??? |
- | Pseudobrookite Wand | ??? |
- | ??? | Lovely Wand |
- | ??? | Wand of Vacantness |
-
-::: exit:wandtable-12
-
-
-::: section:wandtable-13 classes:"break-after"
-
-*Pathetic wands-*
-| Material | Effect |
-|-|-|
- | Diamond Wand | ??? |
- | ??? | Fluffy Wand |
- | Weloganite Wand | ??? |
- | Boracite Wand | ??? |
- | ??? | Wand of Woolliness |
- | ??? | Wand of Palatialness |
- | Paravauxite Wand | ??? |
- | ??? | Bland Wand |
- | ??? | Eloquent Wand |
- | ??? | Wand of Boastfulness |
-
-::: exit:wandtable-13
-
-
-::: section:wandtable-14 classes:"break-after"
-
-*Passionate wands-*
-| Material | Effect |
-|-|-|
- | ??? | Wand of Soulfulness |
- | ??? | Wand of Judiciousness |
- | Paradamite Wand | ??? |
- | ??? | Contemporary Wand |
- | Zinkenite Wand | ??? |
- | Cement Wand | ??? |
- | ??? | Waxen Wand |
- | Sulfides Wand | ??? |
- | Tridymite Wand | ??? |
- | Sphalerite Wand | ??? |
-
-::: exit:wandtable-14
-
-
-::: section:wandtable-15 classes:"break-after"
-
-*Xenophobic wands-*
-| Material | Effect |
-|-|-|
- | ??? | Mathematical Wand |
- | ??? | Wand of Selectness |
- | ??? | Mathematical Wand |
- | ??? | Discounted Wand |
- | ??? | Wand of Kindness |
- | Cobalt Wand | ??? |
- | Porcelain Wand | ??? |
- | Pewter Wand | ??? |
- | Enargite Wand | ??? |
- | Cyanotrichite Wand | ??? |
-
-::: exit:wandtable-15
-
-
-::: section:wandtable-16 classes:"break-after"
-
-*Cosmological wands-*
-| Material | Effect |
-|-|-|
- | Mercury Wand | ??? |
- | Stone Wand | ??? |
- | Danburite Wand | ??? |
- | Periclase Wand | ??? |
- | ??? | Wand of Logicalness |
- | Hureaulite Wand | ??? |
- | Pyrolusite Wand | ??? |
- | ??? | Wand of Loquaciousness |
- | ??? | Wand of Wishfulness |
- | ??? | Gaseous Wand |
-
-::: exit:wandtable-16
-
-
-::: section:wandtable-17 classes:"break-after"
-
-*Desperate wands-*
-| Material | Effect |
-|-|-|
- | Hiddenite Wand | ??? |
- | Chlorapatite Wand | ??? |
- | Albite Wand | ??? |
- | Steel Wand | ??? |
- | Fluorrichterite Wand | ??? |
- | Moctezumite Wand | ??? |
- | Chrysoprase Wand | ??? |
- | ??? | Hierarchic Wand |
- | Crocoite Wand | ??? |
- | ??? | Wand of Homeliness |
-
-::: exit:wandtable-17
-
-
-::: section:wandtable-18 classes:"break-after"
-
-*Incredible wands-*
-| Material | Effect |
-|-|-|
- | ??? | Wand of Hipness |
- | Planks of wood Wand | ??? |
- | Stibnite Wand | ??? |
- | ??? | Lazy Wand |
- | ??? | Wand of Stateliness |
- | ??? | Silly Wand |
- | Prehnite Wand | ??? |
- | ??? | Wand of Brawniness |
- | Breccia Wand | ??? |
- | Wolframite Wand | ??? |
-
-::: exit:wandtable-18
-
-
-::: section:wandtable-19 classes:"break-after"
-
-*Dear wands-*
-| Material | Effect |
-|-|-|
- | ??? | Wand of Humanness |
- | ??? | Wand of Unloveliness |
- | ??? | Bold Wand |
- | ??? | Wand of Unfitness |
- | ??? | Wand of Seemliness |
- | ??? | Wand of Devoutness |
- | ??? | Wand of Precariousness |
- | Pyrolusite Wand | ??? |
- | ??? | Wand of Responsibleness |
- | Brazilianite Wand | ??? |
-
-::: exit:wandtable-19
-
-
-::: section:wandtable-20 classes:"break-after"
-
-*Cheap wands-*
-| Material | Effect |
-|-|-|
- | American beech wood Wand | ??? |
- | ??? | Uncomfortable Wand |
- | Resin Wand | ??? |
- | ??? | Deranged Wand |
- | Red mercury Wand | ??? |
- | ??? | Wand of Desultoriness |
- | Wax Wand | ??? |
- | Organics Wand | ??? |
- | ??? | Wand of Airsickness |
- | ??? | Situated Wand |
-
-::: exit:wandtable-20
-
-
-::: section:wandtable-21 classes:"break-after"
-
-*Esoteric wands-*
-| Material | Effect |
-|-|-|
- | ??? | Wand of Tacitness |
- | Kinoite Wand | ??? |
- | ??? | Wand of Ruthfulness |
- | ??? | Wand of Pyroelectricity |
- | Melanterite Wand | ??? |
- | Augite Wand | ??? |
- | African zebrawood Wand | ??? |
- | ??? | Wand of Bravery |
- | ??? | Courageous Wand |
- | Cristobalite Wand | ??? |
-
-::: exit:wandtable-21
-
-
-::: section:wandtable-22 classes:"break-after"
-
-*Authoritarian wands-*
-| Material | Effect |
-|-|-|
- | ??? | Wand of Carcinogenicity |
- | ??? | Wand of Callowness |
- | Diaboleite Wand | ??? |
- | ??? | Fiery Wand |
- | Ebony Wand | ??? |
- | ??? | Wand of Rhythmicity |
- | ??? | Wand of Leisureliness |
- | ??? | Wand of Watchfulness |
- | ??? | Wand of Stoutness |
- | Paving stones Wand | ??? |
-
-::: exit:wandtable-22
-
-
-::: section:wandtable-23 classes:"break-after"
-
-*Silly wands-*
-| Material | Effect |
-|-|-|
- | ??? | Wand of Hurtfulness |
- | Pharmacolite Wand | ??? |
- | ??? | Wand of Scurrilousness |
- | Osbornite Wand | ??? |
- | Mineraloids Wand | ??? |
- | ??? | Wand of Prickliness |
- | Phlogopite Wand | ??? |
- | ??? | Wand of Lightness |
- | Morganite Wand | ??? |
- | Citrine Wand | ??? |
-
-::: exit:wandtable-23
-
-
-::: section:wandtable-24 classes:"break-after"
-
-*Awkward wands-*
-| Material | Effect |
-|-|-|
- | ??? | Religious Wand |
- | ??? | Famous Wand |
- | Plutonium Wand | ??? |
- | Nepheline Wand | ??? |
- | ??? | Tearful Wand |
- | ??? | Wand of Wrathfulness |
- | Hinsdalite Wand | ??? |
- | Periclase Wand | ??? |
- | ??? | Wand of Sagaciousness |
- | Tennantite Wand | ??? |
-
-::: exit:wandtable-24
-
-
-::: section:wandtable-25 classes:"break-after"
-
-*Arbitrary wands-*
-| Material | Effect |
-|-|-|
- | ??? | Wand of Predaceousness |
- | Bornite Wand | ??? |
- | Osbornite Wand | ??? |
- | Obsidian Wand | ??? |
- | ??? | Wand of Spitefulness |
- | ??? | Wand of Wistfulness |
- | ??? | Wand of Uppityness |
- | ??? | Awe-inspiring Wand |
- | ??? | Boisterous Wand |
- | Phosphuranylite Wand | ??? |
-
-::: exit:wandtable-25
-
-
-::: section:wandtable-26 classes:"break-after"
-
-*Notorious wands-*
-| Material | Effect |
-|-|-|
- | ??? | Wand of Typicalness |
- | Laumontite Wand | ??? |
- | Carnallite Wand | ??? |
- | Solid gold Wand | ??? |
- | ??? | Wand of Endemicity |
- | Limonite Wand | ??? |
- | Hedenbergite Wand | ??? |
- | ??? | Wand of Literariness |
- | ??? | Lazy Wand |
- | Emerald Wand | ??? |
-
-::: exit:wandtable-26
-
-
-::: section:wandtable-27 classes:"break-after"
 
 *Kind wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Changefulness |
- | Alluvial Wand | ??? |
- | ??? | Wand of Silveriness |
- | ??? | Wand of Wellness |
- | Sand Wand | ??? |
- | ??? | Wand of Clonicity |
- | Iodine Wand | ??? |
- | Melanophlogite Wand | ??? |
- | Uranopilite Wand | ??? |
- | ??? | Wand of Naturalness |
+ | ??? | Wand of Loquaciousness |
+ | ??? | Wand of Unworldliness |
+ | Beudantite Wand | ??? |
+ | ??? | Wand of Seismicity |
+ | ??? | Rainy Wand |
+ | Orthoclase Wand | ??? |
+ | Fat Wand | ??? |
+ | ??? | Wand of Shadowiness |
+ | ??? | Wand of Slothfulness |
+ | Emerald Wand | ??? |
 
-::: exit:wandtable-27
+::: exit:wandtable-0
 
 
-::: section:wandtable-28 classes:"break-after"
 
-*Attentive wands-*
+::: section:wandtable-1 classes:"break-after"
+
+*Pretty wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Hypertonicity |
- | Glaucophane Wand | ??? |
- | ??? | Incredible Wand |
- | ??? | Wand of Crotchetiness |
- | ??? | Zingy Wand |
- | Moctezumite Wand | ??? |
- | ??? | Glowing Wand |
- | Actinolite Wand | ??? |
- | ??? | Wand of Deaconess |
- | ??? | Wand of Cordialness |
+ | Taaffeite Wand | ??? |
+ | Jordanite Wand | ??? |
+ | Arsenopyrite Wand | ??? |
+ | Vivianite Wand | ??? |
+ | ??? | Wand of Spunkiness |
+ | Bismuth Wand | ??? |
+ | ??? | Creepy Wand |
+ | Hydromagnesite Wand | ??? |
+ | Gold Wand | ??? |
+ | Kidwellite Wand | ??? |
 
-::: exit:wandtable-28
-
-
-::: section:wandtable-29 classes:"break-after"
-
-*Patriotic wands-*
-| Material | Effect |
-|-|-|
- | Mottramite Wand | ??? |
- | Pyromorphite Wand | ??? |
- | Cerussite Wand | ??? |
- | Felt Wand | ??? |
- | ??? | Nonsensical Wand |
- | ??? | Wand of Wishfulness |
- | Fimo Wand | ??? |
- | Crocidolite Wand | ??? |
- | ??? | Wand of Inwardness |
- | Psilomelane Wand | ??? |
-
-::: exit:wandtable-29
+::: exit:wandtable-1
 
 
-::: section:wandtable-30 classes:"break-after"
 
-*Computational wands-*
-| Material | Effect |
-|-|-|
- | ??? | Wand of Augustness |
- | ??? | Wand of Outspokenness |
- | Organics Wand | ??? |
- | ??? | Wand of Colonialness |
- | ??? | Omnipresent Wand |
- | Fibreglass Wand | ??? |
- | ??? | Wand of Friskiness |
- | Calomel Wand | ??? |
- | ??? | Fierce Wand |
- | Rheniite Wand | ??? |
-
-::: exit:wandtable-30
-
-
-::: section:wandtable-31 classes:"break-after"
-
-*Freedom-loving wands-*
-| Material | Effect |
-|-|-|
- | ??? | Personal Wand |
- | Aluminium Wand | ??? |
- | ??? | Acrobatic Wand |
- | ??? | Wand of Prolificity |
- | Cobaltocalcite Wand | ??? |
- | ??? | Wand of Tightness |
- | ??? | Vast Wand |
- | ??? | Flavourless Wand |
- | Tridymite Wand | ??? |
- | ??? | Wand of Fractiousness |
-
-::: exit:wandtable-31
-
-
-::: section:wandtable-32 classes:"break-after"
-
-*Easygoing wands-*
-| Material | Effect |
-|-|-|
- | Samarskite Wand | ??? |
- | Bayldonite Wand | ??? |
- | Wax Wand | ??? |
- | Kernite Wand | ??? |
- | Bytownite Wand | ??? |
- | Raite Wand | ??? |
- | ??? | Wand of Tenaciousness |
- | Rubber Wand | ??? |
- | Schmitterite Wand | ??? |
- | Anthophyllite Wand | ??? |
-
-::: exit:wandtable-32
-
-
-::: section:wandtable-33 classes:"break-after"
-
-*Electric wands-*
-| Material | Effect |
-|-|-|
- | Sulfur Wand | ??? |
- | Anorthosite Wand | ??? |
- | ??? | Wand of Solitariness |
- | Thenardite Wand | ??? |
- | Chalcocite Wand | ??? |
- | Sugar Wand | ??? |
- | ??? | Wand of Betweenness |
- | ??? | Wand of Skillfulness |
- | ??? | Wand of Inwardness |
- | Bideauxite Wand | ??? |
-
-::: exit:wandtable-33
-
-
-::: section:wandtable-34 classes:"break-after"
-
-*Willing wands-*
-| Material | Effect |
-|-|-|
- | ??? | Wand of Forgetfulness |
- | ??? | Wand of Hygroscopicity |
- | Hiddenite Wand | ??? |
- | Grain Wand | ??? |
- | ??? | Dear Wand |
- | ??? | Wand of Kindliness |
- | Phenakite Wand | ??? |
- | Humus Wand | ??? |
- | Hinsdalite Wand | ??? |
- | ??? | Wand of Velocity |
-
-::: exit:wandtable-34
-
-
-::: section:wandtable-35 classes:"break-after"
-
-*Agile wands-*
-| Material | Effect |
-|-|-|
- | Columbite Wand | ??? |
- | ??? | Fictitious Wand |
- | ??? | Wand of Holiness |
- | ??? | Wand of Dreamfulness |
- | ??? | Wand of Veraciousness |
- | Liroconite Wand | ??? |
- | Schmitterite Wand | ??? |
- | ??? | Hermeneutical Wand |
- | Paravauxite Wand | ??? |
- | Sturmanite Wand | ??? |
-
-::: exit:wandtable-35
-
-
-::: section:wandtable-36 classes:"break-after"
-
-*Cunning wands-*
-| Material | Effect |
-|-|-|
- | ??? | Wand of Bountifulness |
- | ??? | Wand of Imaginariness |
- | Lechatelierite Wand | ??? |
- | ??? | Wand of Shrewdness |
- | Epididymite Wand | ??? |
- | ??? | Naturalistic Wand |
- | Tennantite Wand | ??? |
- | ??? | Wand of Apostolicity |
- | Bakalite Wand | ??? |
- | ??? | Enigmatic Wand |
-
-::: exit:wandtable-36
-
-
-::: section:wandtable-37 classes:"break-after"
+::: section:wandtable-2 classes:"break-after"
 
 *Rocky wands-*
 | Material | Effect |
 |-|-|
- | Aluminium Wand | ??? |
- | ??? | Wand of Seditiousness |
- | ??? | Wand of Fictitiousness |
- | Ivory Wand | ??? |
- | ??? | Wand of Judiciousness |
- | Plastic Wand | ??? |
- | ??? | True Wand |
+ | Leadhillite Wand | ??? |
+ | Diaboleite Wand | ??? |
+ | Leucite Wand | ??? |
+ | ??? | Wand of Tumorigenicity |
+ | Minasgeraisite - Wand | ??? |
+ | ??? | Wand of Canoness |
+ | ??? | Wand of Beggarliness |
+ | Bloodstone Wand | ??? |
+ | ??? | Sharp Wand |
+ | Spessartine Wand | ??? |
+
+::: exit:wandtable-2
+
+
+
+::: section:wandtable-3 classes:"break-after"
+
+*Conscientious wands-*
+| Material | Effect |
+|-|-|
+ | ??? | Incoherent Wand |
+ | Terracotta Wand | ??? |
+ | ??? | Wand of Monotonousness |
+ | ??? | Awful Wand |
+ | ??? | Kind-hearted Wand |
+ | ??? | Wand of Abruptness |
+ | Epistilbite Wand | ??? |
+ | ??? | Wand of Soulfulness |
+ | Augelite Wand | ??? |
+ | Orthoclase Wand | ??? |
+
+::: exit:wandtable-3
+
+
+
+::: section:wandtable-4 classes:"break-after"
+
+*Solemn wands-*
+| Material | Effect |
+|-|-|
+ | Strengite Wand | ??? |
+ | Morganite Wand | ??? |
+ | Cobaltite Wand | ??? |
+ | ??? | Bittersweet Wand |
+ | ??? | Wand of Effortfulness |
+ | ??? | Sick Wand |
+ | ??? | Amazing Wand |
+ | Riebeckite Wand | ??? |
+ | Nickeline Wand | ??? |
+ | ??? | Wand of Unholiness |
+
+::: exit:wandtable-4
+
+
+
+::: section:wandtable-5 classes:"break-after"
+
+*Despairing wands-*
+| Material | Effect |
+|-|-|
+ | ??? | Wand of Tranquilness |
+ | ??? | Wand of Dailyness |
+ | Hopeite Wand | ??? |
+ | ??? | Ageless Wand |
+ | Bone Wand | ??? |
+ | Otavite Wand | ??? |
+ | Svanbergite Wand | ??? |
+ | Sugilite Wand | ??? |
+ | Oligoclase Wand | ??? |
+ | Felt Wand | ??? |
+
+::: exit:wandtable-5
+
+
+
+::: section:wandtable-6 classes:"break-after"
+
+*Generous wands-*
+| Material | Effect |
+|-|-|
+ | ??? | Wand of Foulness |
+ | ??? | Wand of Mercifulness |
+ | Chalcophyllite Wand | ??? |
+ | ??? | Wand of Agility |
+ | ??? | Theological Wand |
+ | ??? | Wand of Cursoriness |
+ | ??? | Wand of Slowness |
+ | ??? | Wand of Slackness |
+ | ??? | Fierce Wand |
+ | Meta-uranocircite Wand | ??? |
+
+::: exit:wandtable-6
+
+
+
+::: section:wandtable-7 classes:"break-after"
+
+*Omnivorous wands-*
+| Material | Effect |
+|-|-|
+ | ??? | Parasitic Wand |
+ | Niter Wand | ??? |
+ | Caledonite Wand | ??? |
+ | ??? | Preeminent Wand |
+ | Siderite Wand | ??? |
+ | ??? | Wand of Tactfulness |
+ | Actinolite Wand | ??? |
+ | Carbonates Wand | ??? |
+ | Clinoclase Wand | ??? |
+ | ??? | Bruised Wand |
+
+::: exit:wandtable-7
+
+
+
+::: section:wandtable-8 classes:"break-after"
+
+*Zesty wands-*
+| Material | Effect |
+|-|-|
+ | ??? | Wand of Firmness |
+ | ??? | Wand of Bitterness |
+ | Cornwallite Wand | ??? |
+ | ??? | Little Wand |
+ | ??? | Wand of Villainousness |
+ | ??? | Wand of Monotonousness |
+ | Fedorite Wand | ??? |
+ | ??? | Wand of Grossness |
+ | Brannerite Wand | ??? |
+ | Zinnwaldite Wand | ??? |
+
+::: exit:wandtable-8
+
+
+
+::: section:wandtable-9 classes:"break-after"
+
+*Opulent wands-*
+| Material | Effect |
+|-|-|
+ | Amblygonite Wand | ??? |
+ | Copiapite Wand | ??? |
+ | ??? | Outlandish Wand |
+ | Dravite Wand | ??? |
+ | Olivine Wand | ??? |
+ | Anorthosite Wand | ??? |
+ | ??? | Wand of Painfulness |
+ | Platinum Wand | ??? |
+ | Huebnerite Wand | ??? |
+ | ??? | Pre-revolutionary Wand |
+
+::: exit:wandtable-9
+
+
+
+::: section:wandtable-10 classes:"break-after"
+
+*Outdated wands-*
+| Material | Effect |
+|-|-|
+ | Herderite Wand | ??? |
+ | ??? | Wand of Resourcefulness |
+ | Becquerelite Wand | ??? |
+ | Smithsonite Wand | ??? |
+ | ??? | Wand of Grumpiness |
+ | Nephrite Wand | ??? |
+ | ??? | Wand of Snappiness |
+ | Astrophyllite Wand | ??? |
+ | ??? | Wand of Tacitness |
+ | ??? | Comfortable Wand |
+
+::: exit:wandtable-10
+
+
+
+::: section:wandtable-11 classes:"break-after"
+
+*Small wands-*
+| Material | Effect |
+|-|-|
+ | Hinsdalite Wand | ??? |
+ | ??? | Unitary Wand |
+ | Mahogany Wand | ??? |
+ | Igneous Wand | ??? |
+ | Ankerite Wand | ??? |
+ | Borax Wand | ??? |
+ | Rubber Wand | ??? |
+ | Mineraloids Wand | ??? |
+ | Emmonsite Wand | ??? |
+ | Dried glue Wand | ??? |
+
+::: exit:wandtable-11
+
+
+
+::: section:wandtable-12 classes:"break-after"
+
+*Patriarchal wands-*
+| Material | Effect |
+|-|-|
+ | Arfvedsonite Wand | ??? |
+ | ??? | Wand of Audaciousness |
+ | Celestite Wand | ??? |
+ | ??? | Wand of Kingliness |
+ | ??? | Post-freudian Wand |
+ | ??? | Particular Wand |
+ | ??? | Wand of Mechanical empathy |
+ | Breccia Wand | ??? |
+ | Wood Wand | ??? |
+ | ??? | Wand of Unearthliness |
+
+::: exit:wandtable-12
+
+
+
+::: section:wandtable-13 classes:"break-after"
+
+*Parasitic wands-*
+| Material | Effect |
+|-|-|
+ | Erionite Wand | ??? |
+ | Romanechite Wand | ??? |
+ | ??? | Wand of Demoness |
+ | ??? | Outrageous Wand |
+ | ??? | Wand of Hydrophobicity |
+ | ??? | Simple Wand |
+ | ??? | Wand of Mideval weapons skills |
+ | Balsa wood Wand | ??? |
+ | ??? | Wand of Wearifulness |
+ | ??? | Wand of Obliviousness |
+
+::: exit:wandtable-13
+
+
+
+::: section:wandtable-14 classes:"break-after"
+
+*Zingy wands-*
+| Material | Effect |
+|-|-|
+ | ??? | Wand of Deftness |
+ | Diaboleite Wand | ??? |
+ | Olivine Wand | ??? |
+ | Aeschynite Wand | ??? |
+ | ??? | Outlandish Wand |
+ | Limestone Wand | ??? |
+ | ??? | Withered Wand |
+ | ??? | Conscientious Wand |
+ | ??? | Wand of Trustfulness |
+ | ??? | Wand of Quirkiness |
+
+::: exit:wandtable-14
+
+
+
+::: section:wandtable-15 classes:"break-after"
+
+*Post-modernist wands-*
+| Material | Effect |
+|-|-|
+ | Wood Wand | ??? |
+ | ??? | Private Wand |
+ | Joaquinite Wand | ??? |
+ | Jade Wand | ??? |
+ | Chrysotile Wand | ??? |
+ | ??? | Wand of Euphoniousness |
+ | Herderite Wand | ??? |
+ | ??? | Wand of Lasciviousness |
+ | Libethenite Wand | ??? |
+ | Torbernite Wand | ??? |
+
+::: exit:wandtable-15
+
+
+
+::: section:wandtable-16 classes:"break-after"
+
+*Permissible wands-*
+| Material | Effect |
+|-|-|
+ | Ullmannite Wand | ??? |
+ | Mahogany Wand | ??? |
+ | Kornerupine Wand | ??? |
+ | ??? | Wand of Toxigenicity |
+ | ??? | Wand of Pneumaticity |
+ | Epistilbite Wand | ??? |
+ | Leadhillite Wand | ??? |
+ | ??? | Wand of Felicity |
+ | ??? | Wand of Crotchetiness |
  | Copper Wand | ??? |
- | ??? | Unprincipled Wand |
+
+::: exit:wandtable-16
+
+
+
+::: section:wandtable-17 classes:"break-after"
+
+*Gaseous wands-*
+| Material | Effect |
+|-|-|
+ | ??? | Wand of Ingloriousness |
+ | ??? | Wand of Dearness |
+ | ??? | Wand of Voluntariness |
+ | Tainiolite Wand | ??? |
+ | ??? | Wand of Septicity |
+ | Eudialyte Wand | ??? |
+ | ??? | Wand of Thinness |
+ | Topaz Wand | ??? |
+ | Comets Wand | ??? |
+ | Cummingtonite Wand | ??? |
+
+::: exit:wandtable-17
+
+
+
+::: section:wandtable-18 classes:"break-after"
+
+*Loving wands-*
+| Material | Effect |
+|-|-|
+ | ??? | Wand of Cleanness |
+ | Chalcopyrite Wand | ??? |
+ | Bornite Wand | ??? |
+ | Huebnerite Wand | ??? |
+ | Mylar Wand | ??? |
+ | Romanechite Wand | ??? |
+ | Collinsite Wand | ??? |
+ | Emerald Wand | ??? |
+ | ??? | Wand of Mournfulness |
+ | Animals fur Wand | ??? |
+
+::: exit:wandtable-18
+
+
+
+::: section:wandtable-19 classes:"break-after"
+
+*Comely wands-*
+| Material | Effect |
+|-|-|
+ | Dolomite Wand | ??? |
+ | Spinel Wand | ??? |
+ | Cliffordite Wand | ??? |
+ | ??? | Wand of Thirstiness |
+ | ??? | Wand of Slackness |
+ | Legrandite Wand | ??? |
+ | Clay Wand | ??? |
+ | Tennantite Wand | ??? |
+ | ??? | Wand of Augustness |
+ | ??? | Wand of Hygroscopicity |
+
+::: exit:wandtable-19
+
+
+
+::: section:wandtable-20 classes:"break-after"
+
+*Stunted wands-*
+| Material | Effect |
+|-|-|
+ | Chengdeite Wand | ??? |
+ | Gum Wand | ??? |
+ | Beryl Wand | ??? |
+ | Phillipsite Wand | ??? |
+ | Chromite Wand | ??? |
+ | ??? | Bright Wand |
+ | Brass Wand | ??? |
+ | Kermesite Wand | ??? |
+ | Psilomelane Wand | ??? |
+ | ??? | Wand of Liberalness |
+
+::: exit:wandtable-20
+
+
+
+::: section:wandtable-21 classes:"break-after"
+
+*Patriarchal wands-*
+| Material | Effect |
+|-|-|
+ | ??? | Organic Wand |
+ | Descloizite Wand | ??? |
+ | Aluminium Wand | ??? |
+ | Apatite Wand | ??? |
+ | ??? | Post-freudian Wand |
+ | Phosphates Wand | ??? |
+ | Dust Wand | ??? |
+ | ??? | Wand of Courtliness |
+ | Senarmontite Wand | ??? |
+ | ??? | Pre-programmed Wand |
+
+::: exit:wandtable-21
+
+
+
+::: section:wandtable-22 classes:"break-after"
+
+*Cybernetic wands-*
+| Material | Effect |
+|-|-|
+ | Zinc Wand | ??? |
+ | Chondrodite Wand | ??? |
+ | ??? | Wand of Lukewarmness |
+ | Knaufite Wand | ??? |
+ | Scheelite Wand | ??? |
+ | Willemite Wand | ??? |
+ | Goshenite Wand | ??? |
+ | Alluvial Wand | ??? |
+ | ??? | Wand of Grimness |
+ | Thorogummite Wand | ??? |
+
+::: exit:wandtable-22
+
+
+
+::: section:wandtable-23 classes:"break-after"
+
+*Obsolete wands-*
+| Material | Effect |
+|-|-|
+ | ??? | Eccentric Wand |
+ | Cummingtonite Wand | ??? |
+ | Formica Wand | ??? |
+ | Neptunite Wand | ??? |
+ | ??? | Wand of Habitualness |
+ | ??? | Wand of Sickliness |
+ | Milk Wand | ??? |
+ | Arsenic Wand | ??? |
+ | Eosphorite Wand | ??? |
+ | ??? | Wand of Foxiness |
+
+::: exit:wandtable-23
+
+
+
+::: section:wandtable-24 classes:"break-after"
+
+*Deistic wands-*
+| Material | Effect |
+|-|-|
+ | Cardboard Wand | ??? |
+ | ??? | Quiet Wand |
+ | ??? | Wand of Sternness |
+ | ??? | Wand of Ferociousness |
+ | Cumengite Wand | ??? |
+ | ??? | Wand of Publicity |
+ | Ajoite Wand | ??? |
+ | ??? | Wand of Civilness |
+ | Cobaltocalcite Wand | ??? |
+ | ??? | Wand of Queerness |
+
+::: exit:wandtable-24
+
+
+
+::: section:wandtable-25 classes:"break-after"
+
+*Permanent wands-*
+| Material | Effect |
+|-|-|
+ | ??? | Wand of Bogusness |
+ | Galena Wand | ??? |
+ | Pyromorphite Wand | ??? |
+ | ??? | Brokenhearted Wand |
+ | ??? | Wand of Regardfulness |
+ | Ulexite Wand | ??? |
+ | ??? | Wand of Promptness |
+ | Goosecreekite Wand | ??? |
+ | ??? | Wand of Officiousness |
+ | Dried glue Wand | ??? |
+
+::: exit:wandtable-25
+
+
+
+::: section:wandtable-26 classes:"break-after"
+
+*Deistic wands-*
+| Material | Effect |
+|-|-|
+ | ??? | Wand of Vastness |
+ | ??? | Wand of Odiousness |
+ | ??? | Contemporary Wand |
+ | ??? | Wand of Sameness |
+ | Gemstones Wand | ??? |
+ | ??? | Shattered Wand |
+ | Mud Wand | ??? |
+ | ??? | Wand of Grumpiness |
+ | Leucochalcite Wand | ??? |
+ | ??? | Wand of Deepness |
+
+::: exit:wandtable-26
+
+
+
+::: section:wandtable-27 classes:"break-after"
+
+*Green wands-*
+| Material | Effect |
+|-|-|
+ | Microcline Wand | ??? |
+ | Mashed potato Wand | ??? |
+ | Pectolite Wand | ??? |
+ | Copper Wand | ??? |
+ | ??? | Bashful Wand |
+ | ??? | Enchanting Wand |
+ | ??? | Wand of Shyness |
+ | ??? | Furry Wand |
+ | ??? | Weird Wand |
+ | Dioptase Wand | ??? |
+
+::: exit:wandtable-27
+
+
+
+::: section:wandtable-28 classes:"break-after"
+
+*Exemplary wands-*
+| Material | Effect |
+|-|-|
+ | ??? | Wand of Coolness |
+ | Iodine Wand | ??? |
+ | ??? | Wand of Glueyness |
+ | ??? | Wand of Complicity |
+ | Paradamite Wand | ??? |
+ | ??? | Wand of Superplasticity |
+ | Porcelain Wand | ??? |
+ | Peat Wand | ??? |
+ | ??? | Wand of Fancifulness |
+ | Silly putty Wand | ??? |
+
+::: exit:wandtable-28
+
+
+
+::: section:wandtable-29 classes:"break-after"
+
+*Brutal wands-*
+| Material | Effect |
+|-|-|
+ | Scorodite Wand | ??? |
+ | Fat Wand | ??? |
+ | ??? | Wand of Dolorousness |
+ | ??? | Wand of Abruptness |
+ | Powellite Wand | ??? |
+ | ??? | Wand of Grimness |
  | ??? | Wand of Otherness |
+ | ??? | Wand of Dolefulness |
+ | Lead Wand | ??? |
+ | ??? | Wand of Illogicalness |
+
+::: exit:wandtable-29
+
+
+
+::: section:wandtable-30 classes:"break-after"
+
+*Intentional wands-*
+| Material | Effect |
+|-|-|
+ | ??? | Wand of Factitiousness |
+ | ??? | Wand of Aeroelasticity |
+ | Hodgkinsonite Wand | ??? |
+ | Asbestos Wand | ??? |
+ | Limestone Wand | ??? |
+ | Strontianite Wand | ??? |
+ | ??? | Wand of Shrewdness |
+ | Wood Wand | ??? |
+ | Serpentine Wand | ??? |
+ | Superglue Wand | ??? |
+
+::: exit:wandtable-30
+
+
+
+::: section:wandtable-31 classes:"break-after"
+
+*Argumentative wands-*
+| Material | Effect |
+|-|-|
+ | ??? | Wand of Tricksiness |
+ | Franklinite Wand | ??? |
+ | ??? | Wand of Otherness |
+ | Whewellite Wand | ??? |
+ | ??? | Obnoxious Wand |
+ | Glauberite Wand | ??? |
+ | ??? | Wand of Luxuriousness |
+ | Silicates Wand | ??? |
+ | ??? | Wand of Dolorousness |
+ | Leather Wand | ??? |
+
+::: exit:wandtable-31
+
+
+
+::: section:wandtable-32 classes:"break-after"
+
+*Paternal wands-*
+| Material | Effect |
+|-|-|
+ | Forsterite Wand | ??? |
+ | ??? | Wand of Mutagenicity |
+ | Andradite Wand | ??? |
+ | ??? | Pigheaded Wand |
+ | Heliodor Wand | ??? |
+ | Picromerite Wand | ??? |
+ | ??? | Fabulous Wand |
+ | ??? | Bizarre Wand |
+ | ??? | Artless Wand |
+ | Childrenite Wand | ??? |
+
+::: exit:wandtable-32
+
+
+
+::: section:wandtable-33 classes:"break-after"
+
+*Outdated wands-*
+| Material | Effect |
+|-|-|
+ | Jordanite Wand | ??? |
+ | Grossular Wand | ??? |
+ | Meta-uranocircite Wand | ??? |
+ | Cavansite Wand | ??? |
+ | ??? | Wand of Fretfulness |
+ | ??? | Wand of Willfulness |
+ | ??? | Wand of Hug strength |
+ | ??? | Wand of Unruliness |
+ | ??? | Wand of Rhythmicity |
+ | ??? | Wand of Shapeliness |
+
+::: exit:wandtable-33
+
+
+
+::: section:wandtable-34 classes:"break-after"
+
+*Contemporary wands-*
+| Material | Effect |
+|-|-|
+ | Wolfeite Wand | ??? |
+ | ??? | Wand of Courteousness |
+ | ??? | Wand of Arbitrariness |
+ | Picromerite Wand | ??? |
+ | ??? | Enchanting Wand |
+ | Cuprite Wand | ??? |
+ | ??? | Wand of Zestfulness |
+ | ??? | Wand of Shamefulness |
+ | Pyroaurite Wand | ??? |
+ | Moissanite Wand | ??? |
+
+::: exit:wandtable-34
+
+
+
+::: section:wandtable-35 classes:"break-after"
+
+*Angelic wands-*
+| Material | Effect |
+|-|-|
+ | Tin Wand | ??? |
+ | Eosphorite Wand | ??? |
+ | Leadhillite Wand | ??? |
+ | Ceramic Wand | ??? |
+ | Amethyst Wand | ??? |
+ | Marble Wand | ??? |
+ | Pseudobrookite Wand | ??? |
+ | ??? | Wand of Courageousness |
+ | ??? | Wand of Growliness |
+ | ??? | Rocky Wand |
+
+::: exit:wandtable-35
+
+
+
+::: section:wandtable-36 classes:"break-after"
+
+*Loud wands-*
+| Material | Effect |
+|-|-|
+ | Ceramic Wand | ??? |
+ | Bismuth Wand | ??? |
+ | Willemite Wand | ??? |
+ | Silicates Wand | ??? |
+ | Chalk Wand | ??? |
+ | ??? | Eery Wand |
+ | ??? | Wand of Palatialness |
+ | ??? | Careful Wand |
+ | Fruit leather Wand | ??? |
+ | ??? | Wand of Ridiculousness |
+
+::: exit:wandtable-36
+
+
+
+::: section:wandtable-37 classes:"break-after"
+
+*Pointed wands-*
+| Material | Effect |
+|-|-|
+ | ??? | Desperate Wand |
+ | Silver Wand | ??? |
+ | ??? | Wand of Unnaturalness |
+ | Lechatelierite Wand | ??? |
+ | ??? | Wand of Verticalness |
+ | ??? | Wand of Pointlessness |
+ | ??? | Wand of Domesticity |
+ | ??? | Well-intentioned Wand |
+ | Nagyagite Wand | ??? |
+ | ??? | Barren Wand |
 
 ::: exit:wandtable-37
 
 
+
 ::: section:wandtable-38 classes:"break-after"
 
-*Ambiguous wands-*
+*Frightening wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Superplasticity |
- | ??? | Wand of Pushfulness |
- | Sandstone Wand | ??? |
- | ??? | Wand of Justness |
- | ??? | Wand of Infectiousness |
- | ??? | Wand of Awayness |
- | ??? | Wand of Colorfulness |
- | ??? | Wand of Cleverness |
- | Uranopilite Wand | ??? |
- | ??? | Wand of Youthfulness |
+ | Pharmacolite Wand | ??? |
+ | Actinolite Wand | ??? |
+ | ??? | Crafty Wand |
+ | ??? | Wand of Ritziness |
+ | ??? | Wand of Queerness |
+ | ??? | Wand of Lovesickness |
+ | ??? | Wand of Slickness |
+ | ??? | Wand of Patness |
+ | ??? | Courteous Wand |
+ | ??? | Wand of Temporariness |
 
 ::: exit:wandtable-38
 
 
+
 ::: section:wandtable-39 classes:"break-after"
 
-*Callous wands-*
+*Conscious wands-*
 | Material | Effect |
 |-|-|
- | Phenakite Wand | ??? |
- | ??? | Wand of Wobbliness |
- | Malachite Wand | ??? |
- | Edingtonite Wand | ??? |
- | ??? | Wand of Silveriness |
- | Rockbridgeite Wand | ??? |
- | ??? | Wand of Momentariness |
- | Spangolite Wand | ??? |
- | ??? | Wand of Earthliness |
- | ??? | Ill Wand |
+ | Strontianite Wand | ??? |
+ | Microlite Wand | ??? |
+ | ??? | Wand of Rankness |
+ | ??? | Wand of Capaciousness |
+ | Turquoise Wand | ??? |
+ | ??? | Obsolete Wand |
+ | Minium Wand | ??? |
+ | ??? | Wand of Courteousness |
+ | Riebeckite Wand | ??? |
+ | Zeunerite Wand | ??? |
 
 ::: exit:wandtable-39
 
 
+
 ::: section:wandtable-40 classes:"break-after"
 
-*Therapeutic wands-*
+*Paradoxical wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Tallness |
- | ??? | Wand of Tremendousness |
- | ??? | Wand of Painfulness |
- | Fayalite Wand | ??? |
- | ??? | Wand of Deliciousness |
- | Oxides Wand | ??? |
- | ??? | Wand of Skewness |
- | ??? | Quivering Wand |
- | ??? | Corrupt Wand |
+ | ??? | Theatrical Wand |
+ | ??? | Wand of Narrowness |
+ | Cuprite Wand | ??? |
+ | ??? | Wand of Dailyness |
+ | American oak Wand | ??? |
+ | Emerald Wand | ??? |
+ | ??? | Aromatic Wand |
  | ??? | Extraordinary Wand |
+ | ??? | Wand of Callowness |
+ | Olivine Wand | ??? |
 
 ::: exit:wandtable-40
 
 
+
 ::: section:wandtable-41 classes:"break-after"
 
-*Pleasant wands-*
+*Joyous wands-*
 | Material | Effect |
 |-|-|
- | Ghee Wand | ??? |
- | Strunzite Wand | ??? |
- | Dumortierite Wand | ??? |
- | Iodine Wand | ??? |
- | ??? | Good Wand |
- | ??? | Wand of Idolatrousness |
- | ??? | Wand of Ovalness |
- | Chlorapatite Wand | ??? |
- | Titanite Wand | ??? |
- | Dolomite Wand | ??? |
+ | ??? | Wand of Mendicity |
+ | ??? | Personal Wand |
+ | ??? | Parasitic Wand |
+ | ??? | Wand of Goodness |
+ | ??? | Frightening Wand |
+ | ??? | Acrobatic Wand |
+ | ??? | Wand of Catholicity |
+ | Clinohumite Wand | ??? |
+ | Stibnite Wand | ??? |
+ | ??? | Wand of Exactness |
 
 ::: exit:wandtable-41
 
 
+
 ::: section:wandtable-42 classes:"break-after"
 
-*Theatrical wands-*
+*Pure wands-*
 | Material | Effect |
 |-|-|
- | ??? | Lonely Wand |
- | ??? | Wand of Fruitfulness |
- | ??? | Electric Wand |
- | Iron filings Wand | ??? |
- | Barbed wire Wand | ??? |
- | ??? | Wand of Expertness |
- | ??? | Wand of Bravery |
- | Howlite Wand | ??? |
- | Esperite Wand | ??? |
- | ??? | Phony Wand |
+ | ??? | Wand of Jitteriness |
+ | ??? | Ambitious Wand |
+ | Humite Wand | ??? |
+ | ??? | Wand of Fellness |
+ | ??? | Wand of Boastfulness |
+ | Epidote Wand | ??? |
+ | Childrenite Wand | ??? |
+ | Zeunerite Wand | ??? |
+ | ??? | Wand of Lyricalness |
+ | Leather Wand | ??? |
 
 ::: exit:wandtable-42
 
 
+
 ::: section:wandtable-43 classes:"break-after"
 
-*Harmonious wands-*
+*Benumbed wands-*
 | Material | Effect |
 |-|-|
- | Charoite Wand | ??? |
- | ??? | Wand of Pyrogenicity |
- | Kermesite Wand | ??? |
- | Labradorite Wand | ??? |
- | ??? | Wand of Bleakness |
- | Meat Wand | ??? |
- | Latex Wand | ??? |
- | Cassiterite Wand | ??? |
- | Platinum Wand | ??? |
- | ??? | Dull Wand |
+ | Manganbabingtonite Wand | ??? |
+ | ??? | Anti-realist Wand |
+ | Sturmanite Wand | ??? |
+ | Sardonyx Wand | ??? |
+ | ??? | Revisionist Wand |
+ | ??? | Wand of Flatness |
+ | Fluorapatite Wand | ??? |
+ | ??? | Wand of Voraciousness |
+ | ??? | Wand of Zestfulness |
+ | Cylindrite Wand | ??? |
 
 ::: exit:wandtable-43
 
 
+
 ::: section:wandtable-44 classes:"break-after"
 
-*Beautiful wands-*
+*Abundant wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Semidarkness |
- | ??? | Conceptual Wand |
- | ??? | Psychotherapeutic Wand |
- | Okenite Wand | ??? |
- | Elpidite Wand | ??? |
- | Molybdenite Wand | ??? |
- | ??? | Wand of Orderliness |
- | Albite Wand | ??? |
- | ??? | Wand of Poeticalness |
- | ??? | Broken Wand |
+ | Sanbornite Wand | ??? |
+ | ??? | Religious Wand |
+ | Knaufite Wand | ??? |
+ | ??? | Anti-realist Wand |
+ | ??? | Particular Wand |
+ | ??? | Wand of Consciousness |
+ | ??? | Bureaucratic Wand |
+ | ??? | Bilaterally symmetrical Wand |
+ | Tin Wand | ??? |
+ | ??? | Permissible Wand |
 
 ::: exit:wandtable-44
 
 
+
 ::: section:wandtable-45 classes:"break-after"
 
-*Everlasting wands-*
+*Neo-classical wands-*
 | Material | Effect |
 |-|-|
- | Diopside Wand | ??? |
- | ??? | Odious Wand |
- | ??? | Wand of Loveliness |
- | ??? | Dangerous Wand |
- | ??? | Wand of Temporariness |
- | ??? | Eccentric Wand |
- | Parasymplesite Wand | ??? |
- | Tremolite Wand | ??? |
- | ??? | Wand of Harmoniousness |
- | ??? | Wand of Shamefulness |
+ | Villiaumite Wand | ??? |
+ | ??? | Wand of Viscoelasticity |
+ | Carpet tiles Wand | ??? |
+ | Hematite Wand | ??? |
+ | ??? | Bureaucratic Wand |
+ | ??? | Slender Wand |
+ | Actinolite Wand | ??? |
+ | Halite Wand | ??? |
+ | ??? | Wand of Plainness |
+ | Rutile Wand | ??? |
 
 ::: exit:wandtable-45
 
 
+
 ::: section:wandtable-46 classes:"break-after"
 
-*Placid wands-*
+*Banal wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Dapperness |
- | ??? | Wand of Loveliness |
- | Bakerite Wand | ??? |
- | Corned beef Wand | ??? |
- | Woven hair Wand | ??? |
- | ??? | Wand of Verticalness |
- | ??? | Wand of Amorphousness |
- | Antlerite Wand | ??? |
- | Cleavelandite Wand | ??? |
- | Serandite Wand | ??? |
+ | Harmotome Wand | ??? |
+ | ??? | Wand of Apartness |
+ | Boulangerite Wand | ??? |
+ | ??? | Hissing Wand |
+ | ??? | Wand of Mindfulness |
+ | ??? | Wand of Mutagenicity |
+ | Plutonium Wand | ??? |
+ | ??? | Wand of Facticity |
+ | ??? | Wand of Predaceousness |
+ | ??? | Contemporary Wand |
 
 ::: exit:wandtable-46
 
 
+
 ::: section:wandtable-47 classes:"break-after"
 
-*Hermeneutical wands-*
+*Delightful wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Neatness |
- | ??? | Wand of Sprightliness |
- | ??? | Pitiful Wand |
- | Hanksite Wand | ??? |
- | ??? | Berserk Wand |
- | ??? | Wand of Laziness |
- | ??? | Enchanting Wand |
- | ??? | Astute Wand |
- | Carnallite Wand | ??? |
- | ??? | Wand of Precariousness |
+ | Prasiolite Wand | ??? |
+ | Harmotome Wand | ??? |
+ | Cheese Wand | ??? |
+ | Sunstone Wand | ??? |
+ | Mercury Wand | ??? |
+ | ??? | Wand of Rationalness |
+ | Sandstone Wand | ??? |
+ | Silver Wand | ??? |
+ | Azurite Wand | ??? |
+ | ??? | Wand of Beggarliness |
 
 ::: exit:wandtable-47
 
 
+
 ::: section:wandtable-48 classes:"break-after"
 
-*Numinous wands-*
+*Dangerous wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Dimness |
- | Laueite Wand | ??? |
- | ??? | Wand of Cruelness |
- | Humus Wand | ??? |
- | ??? | Wand of Anticity |
- | ??? | Post-modernist Wand |
- | Ice Wand | ??? |
- | ??? | Wand of Posthumousness |
- | ??? | Wand of Crassness |
- | ??? | Wand of Historicity |
+ | ??? | Low Wand |
+ | ??? | Weird Wand |
+ | ??? | Immoral Wand |
+ | ??? | Wand of Whimsicalness |
+ | ??? | Despairing Wand |
+ | ??? | Wand of Beggarliness |
+ | Artinite Wand | ??? |
+ | Epidote Wand | ??? |
+ | ??? | Wand of Limpness |
+ | ??? | Wand of Healthfulness |
 
 ::: exit:wandtable-48
 
 
+
 ::: section:wandtable-49 classes:"break-after"
 
-*Ephemeral wands-*
+*Envious wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Ethnocentricity |
- | ??? | Intoxicating Wand |
- | Sugar Wand | ??? |
- | Raite Wand | ??? |
- | ??? | Bleeding Wand |
- | ??? | Wand of Complicity |
- | ??? | Wand of Mournfulness |
- | Aurichalcite Wand | ??? |
- | ??? | Wand of Comradeliness |
- | Stibarsen Wand | ??? |
+ | Magnesite Wand | ??? |
+ | Silicon Wand | ??? |
+ | ??? | Wand of Anelasticity |
+ | Corrugated cardboard Wand | ??? |
+ | Bread Wand | ??? |
+ | ??? | Icy Wand |
+ | Kaolinite Wand | ??? |
+ | ??? | Dainty Wand |
+ | ??? | Wand of Swiftness |
+ | ??? | Wand of Sprightliness |
 
 ::: exit:wandtable-49
 

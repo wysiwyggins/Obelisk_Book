@@ -19,7 +19,7 @@ with open("../Codex/_project/_markdown/Runes.md", "w") as myfile:
 
     runes = runes.Runes()
     runeCounter= 0
-    myfile.write("\n::: section:runetable-0 classes:\"break-after\"\n")
+    myfile.write("\n\n::: section:runetable-0 classes:\"break-after\"\n")
     myfile.write("| Glyph | Translation |\n")
     myfile.write("|-|-|\n")
     for rune in sorted(runes.runeDict):
@@ -34,11 +34,11 @@ with open("../Codex/_project/_markdown/Runes.md", "w") as myfile:
             myfile.write("|-|-|\n")
         if runeCounter >= len(runes.runeDict) and runeCounter % 10 != 0:
             print("I think I'm done")
-            myfile.write("::: exit:runetable-"+ lastSectionNumber + "\n\n")
+            myfile.write("\n\n::: exit:runetable-"+ lastSectionNumber + "\n\n")
 
 
 
 
-    myfile.write("::: exit:chapter-five\n")
+    myfile.write("\n\n::: exit:chapter-five\n")
 
     #| ::: figure:glyph-'+str(runeCounter) +' source:' + runes.runeDict[rune]
