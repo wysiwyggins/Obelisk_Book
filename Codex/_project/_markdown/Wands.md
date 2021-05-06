@@ -3,35 +3,35 @@ title: Wands
 type: bodymatter
 ---
 
-::: chapter:chapter-four
+::: chapter:wands
 # Wands
 
  
 
-::: blockquote:id-bXFrH4 citation:"Unknown Author, *And There Were No More Than Pity*"classes:"break-after"
+::: blockquote:id-PQs5CJ citation:"Unknown Author, *But Vem Deez, Who Had Married One Of Them*"classes:"break-after"
 
-That legend of unnatural in famy, which had lain un buried. 
-We sailed on to tell them that had guided him to his glare-wearied eyes. 
-The lithe and migniard form of a cobra. 
+Ujuk seemed little hampered, if at some distance before him daily. 
+And the skin was worn by the felon waves, leaving his baldness without dis guise. 
+On a summer night, when the queen’s deadly displeasure. 
 
-::: exit:id-bXFrH4
+::: exit:id-PQs5CJ
 
 
 ::: section:wandtable-0 classes:"break-after"
 
-*Gentle wands-*
+*Boisterous wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Immunogenicity |
- | Augite Wand | ??? |
- | ??? | Wand of Clonicity |
- | ??? | Organic Wand |
- | Golden syrup Wand | ??? |
- | Gold Wand | ??? |
- | ??? | Wand of Justness |
- | Sulfides Wand | ??? |
- | ??? | Wand of Toxigenicity |
- | Elbaite Wand | ??? |
+ | Ilvaite Wand | ??? |
+ | Arfvedsonite Wand | ??? |
+ | ??? | Wand of Agribusiness |
+ | ??? | Wand of Tastefulness |
+ | Cavansite Wand | ??? |
+ | ??? | Wand of Courteousness |
+ | ??? | Green Wand |
+ | ??? | Bland Wand |
+ | ??? | Guilty Wand |
+ | ??? | Green Wand |
 
 ::: exit:wandtable-0
 
@@ -39,19 +39,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-1 classes:"break-after"
 
-*Loving wands-*
+*Passionate wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Ignorance |
- | ??? | Formless Wand |
- | Rockbridgeite Wand | ??? |
- | ??? | Everlasting Wand |
- | ??? | Wand of Hollowness |
- | ??? | Wand of Amorphousness |
- | ??? | Wand of Courteousness |
- | ??? | Wand of Imperviousness |
- | Coconinoite Wand | ??? |
- | ??? | Crinkled Wand |
+ | Selenite Wand | ??? |
+ | ??? | Wand of Playfulness |
+ | Lazulite Wand | ??? |
+ | ??? | Primary Wand |
+ | ??? | Wand of Calmness |
+ | Nickel Wand | ??? |
+ | ??? | Odious Wand |
+ | Babingtonite Wand | ??? |
+ | Sunstone Wand | ??? |
+ | ??? | Wand of Slimness |
 
 ::: exit:wandtable-1
 
@@ -59,19 +59,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-2 classes:"break-after"
 
-*Stunted wands-*
+*Cruel wands-*
 | Material | Effect |
 |-|-|
- | Leather Wand | ??? |
- | ??? | Proud Wand |
- | ??? | Agile Wand |
- | Olivine Wand | ??? |
- | Gahnite Wand | ??? |
- | ??? | Wand of Cyclicity |
- | Gratonite Wand | ??? |
- | ??? | Wand of Essentialness |
- | Fedorite Wand | ??? |
- | Laumontite Wand | ??? |
+ | Liroconite Wand | ??? |
+ | Libethenite Wand | ??? |
+ | ??? | Exotic Wand |
+ | Azurite Wand | ??? |
+ | Parisite Wand | ??? |
+ | Thomsonite Wand | ??? |
+ | ??? | Perfect Wand |
+ | ??? | Wand of Limberness |
+ | ??? | Patriotic Wand |
+ | Meta-variscite Wand | ??? |
 
 ::: exit:wandtable-2
 
@@ -79,19 +79,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-3 classes:"break-after"
 
-*Accidental wands-*
+*Clear wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Vociferousness |
- | ??? | Wand of Diaphanousness |
- | ??? | Wand of Tastefulness |
- | Mixite Wand | ??? |
- | Gum Wand | ??? |
- | ??? | Wand of Squatness |
- | ??? | Wand of Criminal knowledge |
- | ??? | Conscientious Wand |
- | Bone Wand | ??? |
- | ??? | Wand of Victoriousness |
+ | Uranopilite Wand | ??? |
+ | Arsentsumebite Wand | ??? |
+ | Deposits Wand | ??? |
+ | ??? | Wand of Waxiness |
+ | ??? | Etiological Wand |
+ | Datolite Wand | ??? |
+ | ??? | Envious Wand |
+ | American oak Wand | ??? |
+ | ??? | Wand of Chilliness |
+ | ??? | Wand of Carefulness |
 
 ::: exit:wandtable-3
 
@@ -99,19 +99,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-4 classes:"break-after"
 
-*Mossy wands-*
+*Cheap wands-*
 | Material | Effect |
 |-|-|
- | Goshenite Wand | ??? |
- | Mineraloids Wand | ??? |
- | ??? | Wand of Beggarliness |
- | ??? | Wand of Infectiousness |
- | ??? | Wand of Joyousness |
- | Boulangerite Wand | ??? |
- | Nickel Wand | ??? |
- | ??? | Cold Wand |
- | ??? | Wand of Atrociousness |
- | ??? | Wand of Lasciviousness |
+ | ??? | Ornamental Wand |
+ | Mylar Wand | ??? |
+ | ??? | Contented Wand |
+ | Breezeblock Wand | ??? |
+ | Vanadinite Wand | ??? |
+ | Chalk Wand | ??? |
+ | Howlite Wand | ??? |
+ | ??? | Wand of Painterliness |
+ | Austinite Wand | ??? |
+ | ??? | Wand of Unholiness |
 
 ::: exit:wandtable-4
 
@@ -119,19 +119,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-5 classes:"break-after"
 
-*Cinematic wands-*
+*Cheery wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Greyness |
- | ??? | Wand of Pliantness |
- | Barite Wand | ??? |
- | ??? | Wand of Neutralness |
- | Wavellite Wand | ??? |
- | Clinoptilolite Wand | ??? |
- | Red mercury Wand | ??? |
- | Cuprosklodowskite Wand | ??? |
- | ??? | Wand of Inertness |
- | ??? | Wand of Awayness |
+ | ??? | Suffocating Wand |
+ | ??? | Wand of Adeptness |
+ | ??? | Avant-garde Wand |
+ | ??? | Wand of Sternness |
+ | Lazulite Wand | ??? |
+ | ??? | Wand of Cubicity |
+ | ??? | Wand of Gratefulness |
+ | ??? | Clenched Wand |
+ | Topaz Wand | ??? |
+ | ??? | Ferocious Wand |
 
 ::: exit:wandtable-5
 
@@ -139,19 +139,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-6 classes:"break-after"
 
-*Cheap wands-*
+*Zesty wands-*
 | Material | Effect |
 |-|-|
- | Stibnite Wand | ??? |
- | ??? | Wand of Ellipticity |
- | Pyrrhotite Wand | ??? |
- | Pyromorphite Wand | ??? |
- | Chalcocite Wand | ??? |
- | Scapolite Wand | ??? |
- | ??? | Wand of Customariness |
- | ??? | Wand of Neutralness |
- | ??? | Earthy Wand |
- | ??? | Wand of Woeness |
+ | ??? | Wand of Obsequiousness |
+ | ??? | Cosmic Wand |
+ | ??? | Wand of Conicity |
+ | ??? | Wand of Literalness |
+ | Dust Wand | ??? |
+ | Rhodolite Wand | ??? |
+ | ??? | Wand of Growliness |
+ | ??? | Personable Wand |
+ | Tsumebite Wand | ??? |
+ | ??? | Wand of Entousness |
 
 ::: exit:wandtable-6
 
@@ -159,19 +159,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-7 classes:"break-after"
 
-*Adorable wands-*
+*Precious wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Prosperousness |
- | Andersonite Wand | ??? |
- | Sulfur Wand | ??? |
- | Beryl Wand | ??? |
- | Vivianite Wand | ??? |
- | Kunzite Wand | ??? |
- | ??? | Wand of Propitiousness |
- | ??? | Wand of Glumness |
- | Cuprite Wand | ??? |
- | Humite Wand | ??? |
+ | Ebony Wand | ??? |
+ | ??? | Wand of Eternalness |
+ | ??? | Wand of Lubberliness |
+ | ??? | Wand of Ooziness |
+ | ??? | Wand of Goitrogenicity |
+ | ??? | Odious Wand |
+ | Diaboleite Wand | ??? |
+ | ??? | Soft Wand |
+ | ??? | Wand of Comeliness |
+ | Gadolinite Wand | ??? |
 
 ::: exit:wandtable-7
 
@@ -179,19 +179,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-8 classes:"break-after"
 
-*Arrogant wands-*
+*Plucky wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Atomicity |
- | ??? | Hidden Wand |
- | ??? | Wand of Fortuitousness |
- | ??? | Post-freudian Wand |
- | ??? | Wand of Brotherliness |
- | ??? | Wand of Worldliness |
- | ??? | Notorious Wand |
- | ??? | Wand of Agribusiness |
- | ??? | Wand of Shyness |
- | Vanadinite Wand | ??? |
+ | ??? | Wand of Initialness |
+ | Calaverite Wand | ??? |
+ | Soft cheese Wand | ??? |
+ | ??? | Wand of Crumminess |
+ | ??? | Wand of Salutariness |
+ | ??? | Rich Wand |
+ | Bif Wand | ??? |
+ | ??? | Wand of Ubiquitousness |
+ | Knaufite Wand | ??? |
+ | ??? | Wand of Adversariness |
 
 ::: exit:wandtable-8
 
@@ -199,19 +199,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-9 classes:"break-after"
 
-*Chemical wands-*
+*Patriotic wands-*
 | Material | Effect |
 |-|-|
- | ??? | Demented Wand |
- | Catapleiite Wand | ??? |
- | ??? | Extraordinary Wand |
- | Lead Wand | ??? |
- | ??? | Wand of Voraciousness |
- | Ilvaite Wand | ??? |
- | ??? | Antisocial Wand |
- | Clinohedrite Wand | ??? |
- | Mixite Wand | ??? |
- | ??? | Offensive Wand |
+ | Breccia Wand | ??? |
+ | Aluminum Wand | ??? |
+ | Sugar Wand | ??? |
+ | Volborthite Wand | ??? |
+ | Hinsdalite Wand | ??? |
+ | ??? | Wand of Masterliness |
+ | ??? | Unchanging Wand |
+ | Carbocernaite Wand | ??? |
+ | Montmorillonite Wand | ??? |
+ | Cerussite Wand | ??? |
 
 ::: exit:wandtable-9
 
@@ -219,19 +219,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-10 classes:"break-after"
 
-*Anti-realist wands-*
+*Odd wands-*
 | Material | Effect |
 |-|-|
- | Topazolite Wand | ??? |
- | Cement Wand | ??? |
- | Azurite Wand | ??? |
- | ??? | Wand of Unjustness |
- | Gaspeite Wand | ??? |
- | ??? | Particular Wand |
- | ??? | Wand of Spiritualness |
- | ??? | Wand of Wearifulness |
- | Pucherite Wand | ??? |
- | Pseudobrookite Wand | ??? |
+ | Psilomelane Wand | ??? |
+ | ??? | Cheap Wand |
+ | Polyhalite Wand | ??? |
+ | Augite Wand | ??? |
+ | ??? | Wand of Deliciousness |
+ | ??? | Wand of Aeroelasticity |
+ | Greenockite Wand | ??? |
+ | ??? | Wand of Abstemiousness |
+ | ??? | Wand of Hopefulness |
+ | ??? | Blue Wand |
 
 ::: exit:wandtable-10
 
@@ -239,19 +239,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-11 classes:"break-after"
 
-*Irreplaceable wands-*
+*Perverse wands-*
 | Material | Effect |
 |-|-|
- | ??? | Photogenic Wand |
- | Tsumcorite Wand | ??? |
- | Columbite Wand | ??? |
- | ??? | Wand of Gayness |
- | Powellite Wand | ??? |
- | Chalcocite Wand | ??? |
- | ??? | Wand of Lovesickness |
- | Apophyllite Wand | ??? |
- | ??? | Wand of Strangeness |
- | Artinite Wand | ??? |
+ | Aegirine Wand | ??? |
+ | Nepheline Wand | ??? |
+ | Fluorite Wand | ??? |
+ | Laueite Wand | ??? |
+ | ??? | Wand of Preppiness |
+ | Flint Wand | ??? |
+ | ??? | Wand of Monospecificity |
+ | Hornblend Wand | ??? |
+ | ??? | Wand of Dryness |
+ | Scorzalite Wand | ??? |
 
 ::: exit:wandtable-11
 
@@ -259,19 +259,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-12 classes:"break-after"
 
-*Thrilling wands-*
+*Woeful wands-*
 | Material | Effect |
 |-|-|
- | Legrandite Wand | ??? |
- | Chalcocite Wand | ??? |
- | ??? | Authoritarian Wand |
- | ??? | Moldy Wand |
- | ??? | Wand of Pitifulness |
- | ??? | Wand of Equivocalness |
- | ??? | Wand of Deceitfulness |
- | Hydromagnesite Wand | ??? |
- | Cavansite Wand | ??? |
- | ??? | Wand of Lubricity |
+ | ??? | Wand of Ungodliness |
+ | ??? | Ontological Wand |
+ | Bismuth Wand | ??? |
+ | Babingtonite Wand | ??? |
+ | Yuksporite Wand | ??? |
+ | Lithiophilite Wand | ??? |
+ | ??? | Broken-hearted Wand |
+ | Actinolite Wand | ??? |
+ | Clingfilm Wand | ??? |
+ | Cancrinite Wand | ??? |
 
 ::: exit:wandtable-12
 
@@ -279,19 +279,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-13 classes:"break-after"
 
-*Mysterious wands-*
+*Fun wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Fleetness |
- | ??? | Wand of Unworldliness |
- | Gratonite Wand | ??? |
- | Augelite Wand | ??? |
- | ??? | Fantastic Wand |
- | ??? | Fresh Wand |
- | Antlerite Wand | ??? |
- | ??? | Wand of Practicalness |
- | Plutonium Wand | ??? |
- | ??? | Penultimate Wand |
+ | ??? | Wand of Zestfulness |
+ | ??? | Hidden Wand |
+ | Larimar Wand | ??? |
+ | ??? | Wand of Packness |
+ | ??? | Glowing Wand |
+ | ??? | Wand of Fruitlessness |
+ | Chalcanthite Wand | ??? |
+ | ??? | Cryptic Wand |
+ | ??? | Solemn Wand |
+ | ??? | Wand of Bigness |
 
 ::: exit:wandtable-13
 
@@ -299,19 +299,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-14 classes:"break-after"
 
-*Party wands-*
+*Quivering wands-*
 | Material | Effect |
 |-|-|
- | Geodes Wand | ??? |
- | Gaspeite Wand | ??? |
- | Sulfides Wand | ??? |
- | ??? | Wand of Prayerfulness |
- | Clingfilm Wand | ??? |
- | Olive wood Wand | ??? |
- | ??? | Essential Wand |
- | Onyx Wand | ??? |
- | ??? | Wand of Automaticity |
- | Paradamite Wand | ??? |
+ | Sugar Wand | ??? |
+ | ??? | Wand of Mitogenicity |
+ | Descloizite Wand | ??? |
+ | Zinc Wand | ??? |
+ | ??? | Wand of Illiberalness |
+ | ??? | Applied Wand |
+ | Thenardite Wand | ??? |
+ | ??? | Wand of Thriftiness |
+ | Ruby Wand | ??? |
+ | Plutonium Wand | ??? |
 
 ::: exit:wandtable-14
 
@@ -319,19 +319,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-15 classes:"break-after"
 
-*Outrageous wands-*
+*Celebrated wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Tearfulness |
- | ??? | Wand of Imaginariness |
- | Otavite Wand | ??? |
- | Gum Wand | ??? |
- | ??? | Wand of Quadruplicity |
- | Artinite Wand | ??? |
- | ??? | Wand of Demoness |
- | ??? | Meaningless Wand |
- | Aluminum Wand | ??? |
- | ??? | Wand of Eternalness |
+ | ??? | Wand of Continuousness |
+ | ??? | Dull Wand |
+ | Buttgenbachite Wand | ??? |
+ | Strunzite Wand | ??? |
+ | Talc Wand | ??? |
+ | Hydrozincite Wand | ??? |
+ | Gratonite Wand | ??? |
+ | ??? | Wand of Iciness |
+ | Franklinite Wand | ??? |
+ | Sanidine Wand | ??? |
 
 ::: exit:wandtable-15
 
@@ -339,19 +339,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-16 classes:"break-after"
 
-*Broken-hearted wands-*
+*Obedient wands-*
 | Material | Effect |
 |-|-|
- | ??? | Childish Wand |
- | ??? | Wand of Superplasticity |
- | Connellite Wand | ??? |
- | ??? | Wand of Liberalness |
+ | ??? | Political Wand |
+ | ??? | Wand of Atomicity |
+ | ??? | Wand of Fearfulness |
+ | ??? | Contented Wand |
+ | Magnetite Wand | ??? |
+ | ??? | Pure Wand |
+ | ??? | Wand of Sprightliness |
+ | Pyroaurite Wand | ??? |
+ | Kulanite Wand | ??? |
  | Epistilbite Wand | ??? |
- | Gratonite Wand | ??? |
- | ??? | Wand of Squatness |
- | Datolite Wand | ??? |
- | Stone Wand | ??? |
- | Whitlockite Wand | ??? |
 
 ::: exit:wandtable-16
 
@@ -359,19 +359,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-17 classes:"break-after"
 
-*New wands-*
+*Dull wands-*
 | Material | Effect |
 |-|-|
- | Benitoite Wand | ??? |
- | Boxwood Wand | ??? |
- | ??? | Beautiful Wand |
- | ??? | Delectable Wand |
- | Atacamite Wand | ??? |
- | Glaucophane Wand | ??? |
- | Oligoclase Wand | ??? |
- | Hornblend Wand | ??? |
- | Brazilianite Wand | ??? |
- | ??? | Primary Wand |
+ | ??? | Wand of Shadowiness |
+ | Teallite Wand | ??? |
+ | Anapaite Wand | ??? |
+ | Nephrite Wand | ??? |
+ | Muscovite Wand | ??? |
+ | Lazurite Wand | ??? |
+ | ??? | Berserk Wand |
+ | ??? | Wand of Slackness |
+ | ??? | Wand of Shrewdness |
+ | Planks of wood Wand | ??? |
 
 ::: exit:wandtable-17
 
@@ -379,19 +379,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-18 classes:"break-after"
 
-*Slow wands-*
+*Furthest wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Radicalness |
- | Humite Wand | ??? |
- | ??? | Wand of Drunkenness |
- | Vegetable oil Wand | ??? |
- | Paradamite Wand | ??? |
- | ??? | Fleet Wand |
- | Spessartine Wand | ??? |
- | Sperrylite Wand | ??? |
- | ??? | Wand of Reposefulness |
- | Selenite Wand | ??? |
+ | ??? | Wand of Libidinousness |
+ | Annabergite Wand | ??? |
+ | Topaz Wand | ??? |
+ | Gold Wand | ??? |
+ | Bif Wand | ??? |
+ | Uvite Wand | ??? |
+ | ??? | Wand of Veraciousness |
+ | ??? | Wand of Anelasticity |
+ | Plaster Wand | ??? |
+ | Brochantite Wand | ??? |
 
 ::: exit:wandtable-18
 
@@ -399,19 +399,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-19 classes:"break-after"
 
-*Rainy wands-*
+*Omnipresent wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Liberalness |
- | ??? | Artificial Wand |
- | Tarbuttite Wand | ??? |
- | Smithsonite Wand | ??? |
- | Elbaite Wand | ??? |
- | ??? | Wand of Mirthfulness |
- | Suolunite Wand | ??? |
- | ??? | Wand of Customariness |
- | ??? | Blue Wand |
- | ??? | Wand of Heedfulness |
+ | Cobaltocalcite Wand | ??? |
+ | Calaverite Wand | ??? |
+ | ??? | Spiritual Wand |
+ | Chalcotrichite Wand | ??? |
+ | ??? | Dogmatic Wand |
+ | ??? | Wand of Ungainliness |
+ | Actinolite Wand | ??? |
+ | Andersonite Wand | ??? |
+ | ??? | Deranged Wand |
+ | Hypersthene Wand | ??? |
 
 ::: exit:wandtable-19
 
@@ -419,19 +419,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-20 classes:"break-after"
 
-*Contented wands-*
+*Particular wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Brotherliness |
- | Uranophane Wand | ??? |
- | Acid Wand | ??? |
- | ??? | Wand of Dreamfulness |
- | Whiteite Wand | ??? |
- | Polyhalite Wand | ??? |
- | Thenardite Wand | ??? |
- | Aluminium Wand | ??? |
- | ??? | Bitter Wand |
- | ??? | Wand of Specialness |
+ | Meta-zeunerite Wand | ??? |
+ | Fruit leather Wand | ??? |
+ | ??? | Wand of Inaptness |
+ | ??? | Extinguished Wand |
+ | Chkalovite Wand | ??? |
+ | ??? | Wand of Tremendousness |
+ | Altaite Wand | ??? |
+ | ??? | Wand of Contrariness |
+ | Periclase Wand | ??? |
+ | Orpiment Wand | ??? |
 
 ::: exit:wandtable-20
 
@@ -439,19 +439,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-21 classes:"break-after"
 
-*Aristocratic wands-*
+*Theatrical wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Whimsicalness |
- | Hardystonite Wand | ??? |
- | ??? | Wand of Septicity |
- | ??? | Wand of Peartness |
- | Rose quartz Wand | ??? |
- | Andradite Wand | ??? |
- | ??? | Wand of Smartness |
- | ??? | Wand of Fastidiousness |
- | Pseudomalachite Wand | ??? |
- | Andradite Wand | ??? |
+ | Ruby Wand | ??? |
+ | Aurichalcite Wand | ??? |
+ | Wolframite Wand | ??? |
+ | ??? | Wand of Genteelness |
+ | ??? | Useful Wand |
+ | ??? | Wand of Civilness |
+ | Euxenite Wand | ??? |
+ | Paper-mache Wand | ??? |
+ | Hornblend Wand | ??? |
+ | Moissanite Wand | ??? |
 
 ::: exit:wandtable-21
 
@@ -459,19 +459,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-22 classes:"break-after"
 
-*Hirsute wands-*
+*Quarrelsome wands-*
 | Material | Effect |
 |-|-|
- | Betafite Wand | ??? |
- | ??? | Wand of Momentariness |
- | ??? | Ill Wand |
- | Calcite Wand | ??? |
- | ??? | Incredible Wand |
- | ??? | Wand of Syllabicity |
- | ??? | Wand of Brawniness |
- | Planks of wood Wand | ??? |
- | ??? | Dear Wand |
- | Realgar Wand | ??? |
+ | Clays Wand | ??? |
+ | Moonstone Wand | ??? |
+ | Orpiment Wand | ??? |
+ | ??? | Wand of Wishfulness |
+ | Styrofoam Wand | ??? |
+ | Vauxite Wand | ??? |
+ | Stilbite Wand | ??? |
+ | ??? | Wand of Dourness |
+ | Diamond Wand | ??? |
+ | Woven hair Wand | ??? |
 
 ::: exit:wandtable-22
 
@@ -479,19 +479,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-23 classes:"break-after"
 
-*Bureaucratic wands-*
+*Hopeful wands-*
 | Material | Effect |
 |-|-|
- | Childrenite Wand | ??? |
- | ??? | Plain Wand |
- | ??? | Wand of Causticity |
- | Vanadinite Wand | ??? |
- | Bournonite Wand | ??? |
- | ??? | Wand of Hipness |
- | ??? | Courageous Wand |
- | ??? | Wand of Kingliness |
- | Apophyllite Wand | ??? |
- | ??? | Wand of Neatness |
+ | Moonstone Wand | ??? |
+ | Fake fur Wand | ??? |
+ | Pseudomalachite Wand | ??? |
+ | Brass Wand | ??? |
+ | Edingtonite Wand | ??? |
+ | ??? | Wand of Hollowness |
+ | Flint Wand | ??? |
+ | ??? | Biased Wand |
+ | ??? | Wand of Motherliness |
+ | American oak Wand | ??? |
 
 ::: exit:wandtable-23
 
@@ -499,19 +499,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-24 classes:"break-after"
 
-*Weary wands-*
+*Post-freudian wands-*
 | Material | Effect |
 |-|-|
- | Beudantite Wand | ??? |
- | ??? | Delectable Wand |
- | ??? | Noncommittal Wand |
+ | ??? | Wand of Phytotoxicity |
+ | Papagoite Wand | ??? |
+ | ??? | Wand of Rightness |
+ | Alibaster Wand | ??? |
  | ??? | Wand of Bravery |
- | Oligoclase Wand | ??? |
- | Plasterboard Wand | ??? |
- | Goshenite Wand | ??? |
- | ??? | Angry Wand |
- | Tsumebite Wand | ??? |
- | ??? | Unitary Wand |
+ | Senarmontite Wand | ??? |
+ | ??? | Wand of Mateyness |
+ | ??? | Wand of Automaticity |
+ | Epsomite Wand | ??? |
+ | ??? | Wand of Covertness |
 
 ::: exit:wandtable-24
 
@@ -519,19 +519,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-25 classes:"break-after"
 
-*Sinister wands-*
+*Lonely wands-*
 | Material | Effect |
 |-|-|
- | Emerald Wand | ??? |
- | Bayldonite Wand | ??? |
- | ??? | Argumentative Wand |
- | Moldavite Wand | ??? |
- | Nepheline Wand | ??? |
- | ??? | Variable Wand |
- | ??? | Wand of Sorrowfulness |
- | ??? | Wand of Suspiciousness |
- | ??? | Wand of Greyness |
- | ??? | Bizarre Wand |
+ | ??? | Wand of Fastidiousness |
+ | Microlite Wand | ??? |
+ | ??? | Wand of Droughtiness |
+ | Beraunite Wand | ??? |
+ | ??? | Wand of Facticity |
+ | Staurolite Wand | ??? |
+ | ??? | Genetic Wand |
+ | ??? | Wand of Seditiousness |
+ | Dried glue Wand | ??? |
+ | ??? | Programmable Wand |
 
 ::: exit:wandtable-25
 
@@ -539,19 +539,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-26 classes:"break-after"
 
-*Smoky wands-*
+*Tearful wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Strictness |
- | ??? | Wand of Queerness |
- | ??? | Wand of Rhythmicity |
- | Chromium Wand | ??? |
- | Brazilianite Wand | ??? |
- | ??? | Wand of Erroneousness |
- | Powellite Wand | ??? |
- | Grain Wand | ??? |
- | Emplectite Wand | ??? |
- | Gmelinite Wand | ??? |
+ | ??? | Wand of Tumorigenicity |
+ | Jarosite Wand | ??? |
+ | Polyhalite Wand | ??? |
+ | Pharmacosiderite Wand | ??? |
+ | Leather Wand | ??? |
+ | ??? | Competitive Wand |
+ | Spangolite Wand | ??? |
+ | Mineraloids Wand | ??? |
+ | ??? | Wand of Salubriousness |
+ | Laueite Wand | ??? |
 
 ::: exit:wandtable-26
 
@@ -559,19 +559,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-27 classes:"break-after"
 
-*Hopeful wands-*
+*Omnivorous wands-*
 | Material | Effect |
 |-|-|
- | Animals fur Wand | ??? |
- | ??? | Wand of Straitness |
- | Ceramic Wand | ??? |
- | ??? | Wand of Robustness |
- | Rock crystal Wand | ??? |
- | Leather Wand | ??? |
- | ??? | Wand of Comradeliness |
- | ??? | Wand of Meetness |
- | Halite Wand | ??? |
- | Andesite Wand | ??? |
+ | ??? | Wand of Initialness |
+ | ??? | Noble Wand |
+ | ??? | Wand of Motherliness |
+ | Leifite Wand | ??? |
+ | ??? | Brokenhearted Wand |
+ | ??? | Etiological Wand |
+ | Hydroxylbastnasite Wand | ??? |
+ | ??? | Wand of Dreadfulness |
+ | Silver Wand | ??? |
+ | Sponge Wand | ??? |
 
 ::: exit:wandtable-27
 
@@ -579,19 +579,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-28 classes:"break-after"
 
-*Malignant wands-*
+*Argumentative wands-*
 | Material | Effect |
 |-|-|
- | Meat Wand | ??? |
- | ??? | Wand of Mercenariness |
- | Arsenic Wand | ??? |
- | Anglesite Wand | ??? |
- | ??? | Wand of Bleakness |
- | Tsumcorite Wand | ??? |
- | Flint Wand | ??? |
- | ??? | Wand of Greensickness |
- | ??? | Wand of Logicalness |
- | ??? | Quiet Wand |
+ | ??? | Vast Wand |
+ | Perovskite Wand | ??? |
+ | ??? | Wand of Cubicity |
+ | Dried blood Wand | ??? |
+ | Celestite Wand | ??? |
+ | ??? | Wand of Unlikeliness |
+ | ??? | Wand of Uncleanness |
+ | Uranophane Wand | ??? |
+ | ??? | Wand of Analogousness |
+ | Chondrodite Wand | ??? |
 
 ::: exit:wandtable-28
 
@@ -599,19 +599,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-29 classes:"break-after"
 
-*Willowy wands-*
+*Contemptible wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Stupendousness |
- | ??? | Etiological Wand |
- | ??? | Eery Wand |
- | ??? | Wand of Storminess |
- | Tarmac Wand | ??? |
- | Schmitterite Wand | ??? |
- | ??? | Wand of Rusticity |
- | Toothpaste Wand | ??? |
- | Conichalcite Wand | ??? |
- | ??? | Wand of Impudicity |
+ | Foam rubber Wand | ??? |
+ | Cancrinite Wand | ??? |
+ | ??? | Artificial Wand |
+ | ??? | Wand of Somberness |
+ | ??? | Hidden Wand |
+ | ??? | Wand of Clamminess |
+ | ??? | Patriarchal Wand |
+ | ??? | Wand of Slyness |
+ | ??? | Wand of Equivocalness |
+ | Dravite Wand | ??? |
 
 ::: exit:wandtable-29
 
@@ -619,19 +619,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-30 classes:"break-after"
 
-*Pathological wands-*
+*Optimal wands-*
 | Material | Effect |
 |-|-|
+ | ??? | Wand of Lustrousness |
+ | Crocodile skin Wand | ??? |
+ | Barite Wand | ??? |
+ | Zeolite Wand | ??? |
+ | Malachite Wand | ??? |
+ | ??? | Wand of Unholiness |
+ | ??? | Wand of Mercenariness |
+ | Berlinite Wand | ??? |
  | Chlorapatite Wand | ??? |
- | Meta-zeunerite Wand | ??? |
- | Mahogany Wand | ??? |
- | ??? | Wand of Motherliness |
- | Gold leaf Wand | ??? |
- | Minasgeraisite - Wand | ??? |
- | Minium Wand | ??? |
- | Metal Wand | ??? |
- | Kaemmererite Wand | ??? |
- | Cylindrite Wand | ??? |
+ | ??? | Wand of Reposefulness |
 
 ::: exit:wandtable-30
 
@@ -639,19 +639,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-31 classes:"break-after"
 
-*Gentle wands-*
+*Pitiful wands-*
 | Material | Effect |
 |-|-|
- | Bournonite Wand | ??? |
- | Stishovite Wand | ??? |
- | ??? | Interlocking Wand |
- | ??? | Calm Wand |
- | ??? | Wand of Effectualness |
- | Ferroglaucophane Wand | ??? |
- | Obsidian Wand | ??? |
- | ??? | Wand of Steaminess |
- | ??? | Wand of Handedness |
- | Larderellite Wand | ??? |
+ | ??? | Wand of Ironicalness |
+ | Kovdorskite Wand | ??? |
+ | ??? | Wand of Scornfulness |
+ | Wavellite Wand | ??? |
+ | ??? | Dark Wand |
+ | Milky_quartz Wand | ??? |
+ | ??? | Wand of Likeness |
+ | Emerald Wand | ??? |
+ | ??? | Wand of Monotonousness |
+ | ??? | Variable Wand |
 
 ::: exit:wandtable-31
 
@@ -659,19 +659,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-32 classes:"break-after"
 
-*Cheery wands-*
+*Perceptive wands-*
 | Material | Effect |
 |-|-|
- | Pyroxene Wand | ??? |
- | ??? | Wand of Somberness |
- | ??? | Post-revolutionary Wand |
- | ??? | Wand of Wellness |
- | Hydromagnesite Wand | ??? |
- | Knaufite Wand | ??? |
- | Kernite Wand | ??? |
- | ??? | Extraordinary Wand |
- | ??? | Talented Wand |
- | Rhabdophane Wand | ??? |
+ | ??? | Wand of Conicity |
+ | Grossular Wand | ??? |
+ | ??? | Contemporary Wand |
+ | Thaumasite Wand | ??? |
+ | ??? | Wand of Practicalness |
+ | Barbed wire Wand | ??? |
+ | ??? | Wand of Pitifulness |
+ | Kaemmererite Wand | ??? |
+ | ??? | Wand of Unjustness |
+ | ??? | Wand of Agility |
 
 ::: exit:wandtable-32
 
@@ -679,19 +679,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-33 classes:"break-after"
 
-*Noncommittal wands-*
+*Intriguing wands-*
 | Material | Effect |
 |-|-|
- | Lepidolite Wand | ??? |
- | Meta-ankoleite Wand | ??? |
- | ??? | Wand of Causticity |
- | Bideauxite Wand | ??? |
- | ??? | Wand of Slothfulness |
- | ??? | Wand of Indecorousness |
- | Arthurite Wand | ??? |
- | ??? | Wand of Heavenliness |
- | Descloizite Wand | ??? |
- | ??? | Bold Wand |
+ | ??? | Mysterious Wand |
+ | Planks of wood Wand | ??? |
+ | Plasterboard Wand | ??? |
+ | ??? | Wand of Inertness |
+ | ??? | Wand of Vivaciousness |
+ | ??? | Wand of Booziness |
+ | ??? | Wand of Stillness |
+ | Boleite Wand | ??? |
+ | ??? | Sorrowful Wand |
+ | Senarmontite Wand | ??? |
 
 ::: exit:wandtable-33
 
@@ -699,19 +699,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-34 classes:"break-after"
 
-*Fertile wands-*
+*Waxen wands-*
 | Material | Effect |
 |-|-|
- | Nephrite Wand | ??? |
- | ??? | Wand of Greenness |
- | ??? | Wand of Stillness |
- | ??? | Wand of Abruptness |
- | Chrysoprase Wand | ??? |
- | ??? | Wand of Helpfulness |
- | Datolite Wand | ??? |
- | Brochantite Wand | ??? |
- | Sklodowskite Wand | ??? |
- | ??? | Sad Wand |
+ | ??? | Wand of Criticalness |
+ | ??? | Wand of Waxiness |
+ | Comets Wand | ??? |
+ | ??? | Modern Wand |
+ | ??? | Wand of Mercurialness |
+ | Yuksporite Wand | ??? |
+ | ??? | Wand of Straitness |
+ | ??? | Wand of Laziness |
+ | Fluorrichterite Wand | ??? |
+ | ??? | Wand of Doubtfulness |
 
 ::: exit:wandtable-34
 
@@ -719,19 +719,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-35 classes:"break-after"
 
-*Ecstatic wands-*
+*Ontological wands-*
 | Material | Effect |
 |-|-|
- | ??? | Wand of Impudicity |
- | Titanium Wand | ??? |
- | Emmonsite Wand | ??? |
- | Carbocernaite Wand | ??? |
- | Flint Wand | ??? |
- | ??? | Wand of Censoriousness |
- | Basalt Wand | ??? |
- | Lazurite Wand | ??? |
- | ??? | Wand of Antibusiness |
- | ??? | Wand of Intactness |
+ | Rhodonite Wand | ??? |
+ | ??? | Wand of Criminal knowledge |
+ | ??? | Wand of Villainousness |
+ | Mud Wand | ??? |
+ | ??? | Plump Wand |
+ | ??? | Familiar Wand |
+ | Concrete Wand | ??? |
+ | ??? | Wand of Lustrousness |
+ | ??? | Wand of Hurtfulness |
+ | ??? | Wand of Blissfulness |
 
 ::: exit:wandtable-35
 
@@ -739,19 +739,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-36 classes:"break-after"
 
-*Good wands-*
+*Intentional wands-*
 | Material | Effect |
 |-|-|
- | Tremolite Wand | ??? |
- | ??? | Wand of Pepperiness |
- | Ktenasite Wand | ??? |
- | Chlorargyrite Wand | ??? |
- | Diamond Wand | ??? |
- | ??? | Wand of Justness |
- | ??? | Wand of Fractiousness |
- | ??? | Wand of Lightness |
- | ??? | Unprincipled Wand |
- | Tinaksite Wand | ??? |
+ | Rhodonite Wand | ??? |
+ | ??? | Wand of Pneumaticity |
+ | ??? | Wand of Monotonicity |
+ | ??? | Wand of Vaporousness |
+ | Parasymplesite Wand | ??? |
+ | ??? | Wand of Pyrogenicity |
+ | ??? | Essential Wand |
+ | ??? | Dangerous Wand |
+ | Sperrylite Wand | ??? |
+ | Kulanite Wand | ??? |
 
 ::: exit:wandtable-36
 
@@ -759,19 +759,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-37 classes:"break-after"
 
-*Awful wands-*
+*Pathological wands-*
 | Material | Effect |
 |-|-|
- | Hedenbergite Wand | ??? |
- | ??? | Wand of Greenness |
- | Variscite Wand | ??? |
- | Meta-uranocircite Wand | ??? |
- | Hodgkinsonite Wand | ??? |
- | ??? | Wand of Fruitfulness |
- | ??? | Wand of Fitness |
- | Apophyllite Wand | ??? |
- | ??? | Wand of Outrageousness |
- | Scolecite Wand | ??? |
+ | ??? | Wand of Poeticalness |
+ | Symplesite Wand | ??? |
+ | ??? | Wand of Peacefulness |
+ | Elpidite Wand | ??? |
+ | ??? | Smoky Wand |
+ | Laurionite Wand | ??? |
+ | Pyroxene Wand | ??? |
+ | Pirssonite Wand | ??? |
+ | ??? | Poor Wand |
+ | ??? | Rotten Wand |
 
 ::: exit:wandtable-37
 
@@ -779,19 +779,19 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-38 classes:"break-after"
 
-*Frightening wands-*
+*Theatrical wands-*
 | Material | Effect |
 |-|-|
- | Spinel Wand | ??? |
- | Bastnasite Wand | ??? |
- | ??? | Wand of Motherliness |
- | Flint Wand | ??? |
- | Variscite Wand | ??? |
- | ??? | Wand of Pushfulness |
- | Elpidite Wand | ??? |
- | Cummingtonite Wand | ??? |
- | ??? | Numinous Wand |
- | Polylithionite Wand | ??? |
+ | ??? | Wand of Typicalness |
+ | Mylar Wand | ??? |
+ | ??? | Wand of Anticity |
+ | ??? | Situationist Wand |
+ | Edenite Wand | ??? |
+ | ??? | Wand of Typicalness |
+ | ??? | Wand of Obliviousness |
+ | Nickeline Wand | ??? |
+ | ??? | Wand of Heartlessness |
+ | Anhydrite Wand | ??? |
 
 ::: exit:wandtable-38
 
@@ -799,20 +799,20 @@ The lithe and migniard form of a cobra.
 
 ::: section:wandtable-39 classes:"break-after"
 
-*Biological wands-*
+*Cosmic wands-*
 | Material | Effect |
 |-|-|
- | Ilmenite Wand | ??? |
- | ??? | Appreciative Wand |
- | Erionite Wand | ??? |
- | ??? | Wand of Hotness |
- | Hureaulite Wand | ??? |
- | ??? | Wand of Lordliness |
- | ??? | Mathematical Wand |
- | Ankerite Wand | ??? |
- | ??? | Falling Wand |
- | ??? | Wand of Sharpness |
+ | Gold leaf Wand | ??? |
+ | ??? | Wand of Slackness |
+ | Kaemmererite Wand | ??? |
+ | ??? | Unitary Wand |
+ | Laumontite Wand | ??? |
+ | ??? | Abundant Wand |
+ | ??? | Plucky Wand |
+ | ??? | Wand of Rankness |
+ | Ajoite Wand | ??? |
+ | Rock crystal Wand | ??? |
 
 ::: exit:wandtable-39
 
-::: exit:chapter-four
+::: exit:wands

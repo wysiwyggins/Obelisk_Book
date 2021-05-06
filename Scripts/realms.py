@@ -75,7 +75,7 @@ def generateRealm():
     realmText += '\n<img src=\"../images/maps/'+mapImage+'\" ' + 'alt=\"A map of a forgotten place\"/>\n'
     realmText += "\n## "+ title.title()+"\n\n"
     realmText += ""
-    realmText += "This was once known to be " +  addAorAn(adjective) + " land. Exports included " + getSubstance() + ", " + getSubstance() + ", " + getSubstance() +" and " + getSubstance() +". It was conquored and forgotten.\n"
+    realmText += "This was once known to be " +  addAorAn(adjective) + " land. Exports included " + getReagent() + ", " + getSubstance() + ", " + getSubstance() +" and " + getReagent() +". It was conquored and forgotten.\n"
     for number in range(20):
         try: 
             realmText += "\n" + text_model.make_short_sentence(250) + " "

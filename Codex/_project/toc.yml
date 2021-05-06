@@ -11,11 +11,10 @@
 - obelisk-title-page
 - Introduction
 - Interface
-- Realms
 - Potions
 - Runes
 - Wands
-- Artifacts
+- Realms
 - obelisk-colophon
 
 
@@ -24,3 +23,4 @@
     linear: true
     in_toc: false
 - Aknowledgements
+- Artifacts
