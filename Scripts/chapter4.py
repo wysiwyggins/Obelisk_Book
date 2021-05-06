@@ -16,13 +16,13 @@ with open("../Codex/_project/_markdown/Potions.md", "w") as myfile:
     myfile.write("\n::: chapter:chapter-four\n")
     myfile.write("# Potions\n\n")
     myfile.write(chapterQuote.generateQuote())
-    for x in range(50):
+    for x in range(40):
         myfile.write("\n\n::: section:potiontable-"+str(x)+" classes:\"break-after\"\n")
-        adjective = getAdjective()
-        myfile.write("\n*" + adjective.capitalize() + " Potions-*\n")
+        #adjective = getAdjective()
+        #myfile.write("\n*" + adjective.capitalize() + " Potions-*\n")
         myfile.write("| Reagent 1 | Reagent 2 | Reagent 3 | Appearance | Effect |\n")
         myfile.write("|-|-|-|-|-|\n")
-        for y in range(10):
+        for y in range(15):
             newPotion = potions.Potion()
             newPotion.generatePotion()
             myfile.write(str(newPotion))

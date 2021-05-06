@@ -16,7 +16,7 @@ with open("../Codex/_project/_markdown/Wands.md", "w") as myfile:
     myfile.write("\n::: chapter:chapter-four\n")
     myfile.write("# Wands\n\n")
     myfile.write(chapterQuote.generateQuote())
-    for x in range(50):
+    for x in range(40):
         myfile.write("\n\n::: section:wandtable-"+str(x)+" classes:\"break-after\"\n")
         adjective = getAdjective()
         myfile.write("\n*" + adjective.capitalize() + " wands-*\n")
