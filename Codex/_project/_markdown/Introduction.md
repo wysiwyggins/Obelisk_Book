@@ -11,7 +11,7 @@ type: bodymatter
 
 ::: blockquote:ch1quote citation:"Unknown Author, *The Book of Secrets*" classes:"break-after"
 
-The prison walls still stood firm, no matter how vast the continent within their borders grew. Each new spell the prisoner cast was longer and more convoluted than the last– until it took weeks for his parched lips to incant them, and the syllables dissolved into inchoate sounds. *There must be a time before or after captivity*, but he could imagine neither, and his dreams of freedom always crowned him king of nowhere, under the inescapable shadow of yet another looming obelisk.
+I used to think I had bought my freedom on that day, but in truth, I had taken up residence inside my own dreams– while the world was crumbling around us. As vast, elaborate and real as those dreams seemed, they were only shadows of the prison I had helped build.
 
 ::: exit:ch1quote
 ## Welcome to the incredible world of Obelisk!
