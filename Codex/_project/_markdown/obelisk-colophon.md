@@ -5,22 +5,23 @@ type: colophon
 
 ::: colophon:obelisk-colophon
 
-*Project Title* by Author
+*Obelisk Manual* by Wiley Wiggins
 
-Published by Publisher, 2019
+Published by Amplexxus, 1989, 2021
 
 ::: subchapter:credits
 
-© 2019 *Project Title*, by Author. Texts and images copyright the author, unless otherwise stated.
+© 2021 *Obelisk Manual*, by Wiley Wiggins. Texts and images copyright the author, unless otherwise stated.
 
 ::: exit:credits
 
-::: logo:publishers-logo source:default-publishers-logo.png
+::: logo:publishers-logo source:default-publishers-logo.png 
+::: logo:publishers-logo source:logo.svg
 
-Publisher
-1234 Street
-City, State Zip
-Country
+Amplexxus:
+A subsidiary of the Texas Egg Council,
+A forgotten place,
+A forgotten place,
 
 ::: logo:b-ber-logo source:b-ber-logo.png
 

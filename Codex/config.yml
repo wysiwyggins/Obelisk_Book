@@ -7,9 +7,15 @@ theme: b-ber-theme-serif
 themes_directory: ./themes
 base_url: 'http://localhost:4000/project-web'
 base_path: /
-remote_url: 'http://localhost:4000/'
-reader_url: 'http://localhost:4000/project-reader'
-downloads: []
+downloads:
+  - label: Download as Epub
+    title: b-ber All Directives Demo
+    url: >-
+      https://wileywiggins.com/obelisk-reader/339e849a459ca89b707c93e7fd6e508f3e2ecf6f.epub
+  - label: Download as Mobi
+    title: b-ber All Directives Demo
+    url: >-
+      https://wileywiggins.com/obelisk-reader/339e849a459ca89b707c93e7fd6e508f3e2ecf6f.mobi
 ui_options:
   navigation:
     header_icons:
