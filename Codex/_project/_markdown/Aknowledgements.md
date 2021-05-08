@@ -4,10 +4,10 @@ type: backmatter
 ---
 
 #Aknowledgements
-This work was created for UCLA's Design Media Arts Undergraduate Senior project in interactivity and games, under the supervision of Chandler McWilliams and with the help and support of the UCLA DMA Games Lab. Special thanks to Allison Parrish for her help with the asemic text generation used in the "Runes" chapter of this book. 
+This work was created for UCLA's Design Media Arts Undergraduate Senior project in interactivity and games, under the supervision of Chandler McWilliams and with the help and support of the UCLA DMA Games Lab. Special thanks to Allison Parrish for her help with the asemic text generation used in the "Runes" chapter of this book and Martin O'Leary for permitting the use of their fantasy map generator code for the "Realms" chapter. 
 
 #Text sources
-Portions of this book are algorithmically generated using several methods in Python, and utilize different text corpuses to do so. 
+Portions of this book are algorithmically generated and utilize different text corpuses to do so. 
 List of text sources-
 
 * List of medicinal herbs (translated) - https://raw.githubusercontent.com/yao8839836/PTM/master/data/herbs_list.txt
@@ -16,4 +16,4 @@ List of text sources-
 * List of unique color names from Ulysses, by James Joyce
 * Excerpts from "Zothique" fantasy collection by Clark Ashton Smith, as printed in "Weird Tales"
 
-Fragments of these works are used under "Fair Use" provisions as part of this noncommercial student work and software created to generate it.
+Fragments of these works are used under "Fair Use" provisions as part of this noncommercial student work.
