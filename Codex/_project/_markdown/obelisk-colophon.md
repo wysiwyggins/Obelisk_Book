@@ -1,5 +1,5 @@
 ---
-title: Project Name Colophon
+title: Colophon
 type: colophon
 ---
 

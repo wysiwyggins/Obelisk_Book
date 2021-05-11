@@ -5,10 +5,10 @@ cache: true
 ibooks_specified_fonts: true
 theme: b-ber-theme-serif
 themes_directory: ./themes
-base_url: 'https://wileywiggins.com/obelisk_reader/project-reader/'
-base_path: /obelisk_reader/project-reader/
+base_url: 'https://wileywiggins.com/'
+base_path: '/obelisk_reader/project-reader/'
 reader_url: 'https://wileywiggins.com/obelisk_reader/project-reader/'
-remote_url: 'https://wileywiggins.com/obelisk_reader/project-reader/'
+remote_url: 'https://wileywiggins.com/'
 downloads:
   - label: Download as Epub
     title: Obelisk Manual

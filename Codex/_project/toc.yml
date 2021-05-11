@@ -10,7 +10,7 @@
 # Project Contents
 - obelisk-title-page
 - Introduction
-- Interface
+- Instructions
 - Potions
 - Runes
 - Wands
@@ -23,4 +23,4 @@
     linear: true
     in_toc: false
 - Aknowledgements
-- Artifacts
+

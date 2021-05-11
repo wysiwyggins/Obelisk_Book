@@ -1,0 +1,945 @@
+When starting the game, the
+introductory story will appear.
+Press A or B to speed it up and
+continue to the main menu.
+Select NEW GAME, then decide
+on names and classes for the
+four central characters to begin a new game. Select CONTINUE to start the game from the last save point.
+Respond Rate
+Use  to set the speed at which messages are displayed during battle (respond rate). Select a speed from 1 (slow) to 8 (fast).
+● Character Name and Class
+Select the first character's class with  and
+confirm with A. Next, decide on a name of up to four letters or symbols (including numbers). Select each letter or symbol with , and press A to enter it. Press B to delete. When you have entered all four letters or symbols in a name, press A to move on to the next character. Once you have decided the names and classes of all four characters, press A to begin the game or B to make changes.
+Space
+♦ For names shorter than four letters/symbols, use the blank space below 'T' to fill the rest of the spaces.
+                1
+    1
+                         
+ ● Classes
+There are six classes. Each has its own abilities
+and can use class-specific items, such as different types of weapon and armour.
+     Fighter
+      Red Mage
+   Fighters are professional soldiers hardened after years of training. Extensive weapons training lets them equip almost anything.
+      Thief
+     The agile thief is an expert at both quick attacks and tactical retreats, but lacks resilience.
+      Black Belt
+   The master of martial arts is both mentally and physically tough, fighting effectively with both bare hands and martial arts weapons.
+    White Mage
+     These mages can heal wounds and cast protective spells. Their offensive spells are focused on obliterating the undead.
+    Black Mage
+   Black Mages have the ability to unleash powerful elemental spells
+which can attack, debilitate and disable entire legions.
+   A jack of all trades, the Red Mage has limited training in white and black magic, along with some
+weapons training.
+ 
+           3 Basic Play
+  Control the four characters and journey around the world, restoring light to your four mystical orbs. In general, you'll rely on three screens: the map screen, the menu screen and the battle screen.
+● Map Screen
+This is the main game screen. It shows various types of terrain, including populated areas.
+Move your party around the map to visit towns and castles, trek through forests and swamps, and traverse many other areas. Talk to everyone you see and fight lots of monsters to get more experience!
+● Menu Screen
+Press START on the map
+screen to go to the menu
+screen, where you can
+change your equipment,
+check out your characters' stats and use your items or magic.
+● Battle Screen
+When you run into enemies
+while adventuring, the action plays out here.
+          World Map
+Town
+                       
+           4 Map Screen
+  Move your party around the map screen with .
+● Talk and Search
+Talk to people and interact with objects by standing next to them and pressing A.
+Investigate everyone and everything – every piece of information is important.
+● Change Party Formation
+Press SELECT to check and change your party's formation. To change the formation, select a character you want to move with A.
+Then select another character and press A again to make the two characters swap places. The character at the top of the formation will be the one displayed on the map screen.
+♦ Slain, poisoned or petrified characters are automatically moved to the bottom of the formation at the end of a battle.
+● Using Town Facilities Various goods and services
+are available in towns and villages. Spend your gold wisely!
+                                  
+    Weapon Shop
+Buy and sell weapons such as swords or staves.
+         Armour Shop
+Buy and sell protective equipment such as armour or shields.
+          Item Shop
+Buy potions and other items.
+          White Magic Shop
+Learn white magic spells.
+          Black Magic Shop
+Learn black magic spells.
+          Inn
+Staying at an inn will restore the health your party members have lost and the
+magic they have used. You can save your game when you stay here.
+          Clinic
+Characters who have been slain in battle can be revived with 1HP (hit point) for a fee.
+        ● Vehicles
+As your adventure
+progresses, you will come across vehicles you can use for transportation.
+Ship Ship             Travel by sea and dock at ports.
+                     Canoe
+   Travel on rivers and lakes. You can also switch from the ship to the canoe at river mouths.
+ 
+ 
+Fly over seas and mountains. You can only land on open
+plains. Monsters will not attack you while you are flying in the airship.
+  
+Code Wheel
+Accompanying your game disks is a code wheel, used to allow your adventurers
+into the Obelisk. The code wheel consists of three parts:
+1. A large stationary wheel, the outer rim of which has pictures of objects printed
+around it.
+2. An inner wheel, attached at the center to the stationary wheel. More object
+pictures are printed on the rim of the inner wheel.
+3. Fiveholes,numbered 1 to5,areontheinnerwheel. Asyourotatetheinnerwheel,
+letters printed on the larger wheel will appear through the holes.
+
+The Nursery
+Here in the nursery you will create your own characters to adventure within the
+passages of the Obelisk. You will be presented with a blank birth certificate. Under
+the Heritage menu, you will find options which allow you to choose the child's
+mother and father, gender, race and aligmnent. The underlined fields of the birth
+certificate will fill in as you select each item, eventually completing the birth
+of human .'Amazon mother father,
+raised in. tlie course of a tulrdral. ~
+wi.th an inheritance of _gp.
+Each combination affects basic attributes of the future character, such as strength or
+intelligence, in a different manner.
+Hints: • Alignment MUST be Good or Evil (not Neutral) for a Oeric, Shaman or
+Knight.
+• Only Elven and Hobbit races have the Far Sight ability.
+• Dwarf and Gnome races have excellent night vision. Hobbits have
+better than average night vision.
+• Neuter characters (sexless) are better users of magic (fewer distractions).
+When you are finished, a button entitled "Birth" will appear and begin to flash. Click
+on it, and your character is born. The graph in the top left corner shows the levels
+(between 1 and 18) of the six character attributes the new child has. These attributes
+are listed in the table below:
+Attribute
+Strength
+Health
+Intelligence
+Knowledge
+Mein
+Coordination
+Areas Affected
+Higher damage in combat
+and has load carrying ability
+Endurance, hit points
+IQ, ability to learn
+and reason
+Willpower, judgment
+Appearance, Bargaining
+Agility, speed, balance
+IX
+Notes
+Can carry 10 lbs. of weight per
+point of strength
+Being raised from death in
+Temple reduces this score by 1.
+Once health drops below 4, the
+character caimot be raised again.
+Affects Wizard/Shaman spell
+power.
+Affects Cleric/Magi spell
+powers.
+A character with a high Mien
+score will fare better when
+dealing with the shopkeeper
+and other characters.
+Critical to Thief/Ninja
+After naming the character, depress the "AGE" button to continue.
+You will now be allowed to select what will occupy your childhood. You will be
+presented with 4 activities, and a clock, as shown below. By selecting an activity,
+and using the scroll bar, you can choose the number of hours per day your character
+will spend on each activity. Different activities will affect the character's abilitjes.
+| Labour | Study
+ Pray | Play
+Labour: Strength and Health
+Study: Intelligence
+Prayer: Wisd~m
+Play: Coordination and Health
+The effect of the activities you perform will be reflected in the graph of your abilities.
+You may now choose your character's class. There are nine classe~, Serf, Fighter,
+Thief, Wizard, Cleric, Magus, Knight, Shaman and Ninja. These are listed under the
+class menu. Each class requires that the character have certain minimum ability
+scores. If you obtain these minimums, the class will become available on the class
+menu. The various classes are described below, along with their minimum scores.
+Class Str Hlth Int Kno Mien Cord
+Fighter 11 9 5 5 3 5
+Thief 7 8 5 3 3 11
+Wizard 3 5 11 5 3 9
+Cleric 5 5 5 11 5 3
+Knight 11 9 7 11 7 7
+Ninja 11 8 7 7 7 11
+Shaman 7 7 9 11 7 9
+Magus 9 9 11 7 5 9
+X
+Fighter: Fighters are useful in battle. The use of weapons and armour are the
+fighter's strong points, but scrolls are the only magic they can use. Fighters may
+graduate into Knights after a time.
+Thief: Thieves are expert at picking locks and defusing traps, and can be useful in
+battle due to their ability to back stab. They may wear only leather armour, and are
+not permitted boots, gloves or shields. In time, they may graduate into Ninjas.
+Wizard: The use of magic is the wizard's main strength. They can create magic
+scrolls, and can put themselves into a trance. They are poor fighters, however, and
+can wear no armour. Wizards graduate into Magi. Trance is an option available to
+Wizards, Ninjas and Magus. Trance is used to slow the effects of the poison long
+enough to reach the temple to be cured. When the Wizard is put into a trance it also
+renders the character lifeless until the trance is removed.
+Cleric: Clerics can also use magic, but cannot create scrolls. They also have the
+ability to divine the presence of evil or good, monsters or objects. Clerics can have
+armour, but cannot wear helms, gloves or shields. They may graduate to become
+Sh11man.
+The higher classes (Knight, Ninja, Shmnan and Magus) 11re simply improved
+versions of the regular classes. When a Wizard becomes a Magus, a Cleric a Shmnan,
+or a Thief a Ninja, they gain the abilities of the Fighter class (the ability to wear
+armour, increased fighting ability, etc.). When a Fighter graduates into a Knight, he
+gains the abilities of the Cleric class, specifically the ability to cast spells.
+Once you have chosen a class for your character, you choose the number of years to
+apprentice. The time you spend will affect the primary characteristics of your
+character. The amount of gold you inherit upon your birth is displayed at the top
+left corner of the screen. The cost to apprentice is given at the bottom left. To
+apprentice, you may spend more than you have, as the bank will advance you the
+money, but you will then have nothing left to purchase supplies.
+You will then be prompted for a password for the character. If you wish, you may
+enter one, but the password cannot be changed or removed later, and it must be
+entered to use the character in 11 party.
+Finally, you may choose an icon which will represent your character throughout the
+game. There are 18 standard icons to choose from, or, by clicking on the "Roster
+Icons" button, you may see ones that are currently in use for other characters. Once
+you have chosen an icon, you may alter it to customize your character.
+XI
+The Village
+Within our village, several establishments arc available for you and your parly. In
+the tavern, brave and hardy adventurers gather to spin tales of heroism, and,
+possibly to embark upon a quest into the Obelisk. Hearty fare and a place to sleep
+are available at our excellent Hostel. All manner of weapons, clothing and sundry
+articles are available, for a reasonable price, at the village Shop. The fine friars of the
+local Temple are always at your service, and there is a Bank for your convenience.
+The Tavern
+To put together a party, select the characters you want to join, by dragging them to
+the grey box in the top left corner of the screen. You may select multiple characters
+to join your party by dragging a rectangle around all the icons you wish to join.
+To get a brief description of any character in the tavern, double click on their icon.
+Some characters may currently be in the
+Obelisk adventuring, healing in the temple, or
+training. These characters will not appear in
+the tavern. To find out who is not currently
+available for adventuring, click on the central
+figure at the bar (pictured above). He will
+inform you as to the whereabouts of these
+characters. Also in the tavern, is an "Idle"
+button, whicl1 will quickly cause one day of
+game time to pass. This is useful if there are
+characters in your party currently healing or
+training. No restoring of hit points or abilities
+occurs while waiting in the tavern, use the
+Hostel for this instead.
+The Hostel (resting and training)
+The hostel is for resting and rejuvenating your characters, or for arranging training
+to higher levels. To rest at the hostel, select the "Rest" button on the lower left of the
+screen until your characters have regained their lost abilities and hit points. The
+hostel will bill each character's bank account each day.
+The purpose of training is to increase a cl1aracter's class level and abilities. This
+results in a more capable character, and one more able to exploit their class talents
+(fighting, magic use, healing, etc.).
+To train one of your characters, selectthe character, and choose "Petition Guild"
+from the Town menu. If the character is ready to move up a level, the cost and time
+requirements will be displayed, and you may begin your training. If you choose to
+train, the character is unavailable until the period indicated has passed (see Tavern)
+and their bank account is adjusted downward.
+As you move up in levels, the guild, when petitioned, may offer you the opportunity
+to change the class of your character (from Fighter to Knight, or Wizard to Shaman,
+etc.) If you do so, you will gain the advantages of the new class (gaining extra
+abilities), but will be forced to begin at level 1 of the new class. ·
+XIII
+The Shop
+At the shop you may purchase weapons, armour, clothing and various other articles
+. the party may need in the Obelisk. Once in the shop, select a character. There are
+three options available to them, Browse, Sell and Identify.
+Browse allows the character to pqrchase items from the shopkeeper. The items for
+sale are divided into several types, at the right of the screen. When you click on an
+item type, a window containing all items of that type will pop up. To see information
+about an item, click on it. You will then be asked if you want to purchase the item.
+If you do, the shopkeeper will deduct the cost of the item from your bank account,
+and have it delivered to the camp.
+Sell will display any items the character is currently carrying. Select an item, and the
+shopkeeper will offer you a price for it. If you accept his offer, your bank balance will
+be updated, and the object will leave your possession. You may barter with him for
+a better price by refusing his offer.
+Identify: is used to get information about unknown objects in the characters possession.
+The shopkeeper will give a complete description of the object, for a price.
+The Temple
+The friars of the temple can perform three services for a character, for a fee,
+Cure will restore a character's hit points or cure them of any ailment which may be
+affecting them (poison, blindness, etc.). The cost and time required is dependent on
+the type of ailment. Simply restoring hit points will take place immediately, but
+other cures will require a stay in the temple during which the character will be
+unavai1;1ble.
+Raise will bring a character back from the dead. Each time a character is raised, they
+lose 1 point of Health. If they have a health score of 3 or less, they cannot be raised. The
+character is removed from the party and kept in the temple until the process is .
+complete, the cost and time of which depends on the character's level and age.
+Uncurse removes a curse from an object, for a fixed price. The priests wil] not
+indicate which objects are cursed, if any. You must know this, for they will ch;1rge
+you whether the object is actually cursed or not. Cursed items will cling to a
+character when being worn or wielded and cannot be removed until uncursed here.
+XIV
+The Bank
+Because your character can only carry so
+much weight, you must store your excess
+gold at the bank. In addition, it is a safe
+place to pool gold so that a party can pay
+for training or purchases which they could
+not individually afford. There are three
+activities available in the bank: ~osit,
+Withdraw and Transfer.
+Just outside of the village, the camp serves
+as a repository for the party's items outside
+the Obelisk. As you are adventuring,
+you may pick up more than you can carry.
+If you place these items in the "cache" at
+the campsite, they will be safe. The shopkeeper
+also delivers any items purchased
+in the shop to the camp cache. Each character
+has a private cache, viewable by
+clicking on a character and then on the
+character's name in the cache window.
+There is also a shared cache, available to
+all members of the party.
+To place an item into the cache, simply
+drag its icon into the cache window. To
+remove an item from the cache, drag its
+icon out, and place the item into a character
+icon (as described in the "Objects in
+Obelisk" chapter).
+xv
+Into the Obelisk
+Once you have accumulated a party of foolhardy adventurers, it is time to enter the
+Obelisk, and attempt to rescue Lady Synd. From the forest, double dicking on the
+stone archway will allow you to descend into the Obelisk.
+Using the Code Wheel
+The wheel is a relic needed _to gain entry to the buried keep. Immediately upon
+entering, you will be confronted by a wall, which contains upon it pictures of two
+objects. Match the picture on the outer rim of the code wheel with the lower picture
+on the wall. Rotate the inner part of the wheel to align this with the upper picture.
+Now locate the indicated box number and read the letter in view. Type the letter that
+appears there, and you will be permitted to enter.
+Once through this, several windows will be presented to you:
+The party window displays the characters who are currently adventuril.1.g. The
+positioning of the characters within the window reflects their actual positioning in
+the Obelisk, as though viewed from above. In this way, characters may be protected
+by being surrounded by other party members, or carried when unconscious by
+placing other player icons directly beside them.
+Below each of the character icons, is a status bar containing the current/maximum
+health score for the character. Clicking and holding the mouse button down on this
+status bar will cause a menu to pop up. This menu is identical to the one available
+under the character's name in the menu bar. This can be an effective short-cut. Also
+in the status bar, is a miniature icon of the weapon the character is currently
+wielding.
+One character in the party is the" current character'', and is indicated in the character
+window highlighted (the top right character in the window above). The threedimensional
+view of the Obelisk (see below) is shown as though through the eyes
+of the current character. Dwarf and Gnome characters have excellent night vision,
+so using them as the current character in dark areas of the Obelisk will improve the
+visibility through the view window.
+
+The Personae window shows statistjcs on all the characters in the party. You may
+show the Personae window by choosing it from the "Windows" menu item under
+the Options menu. Clicking on the ~ button will switch the display at the
+nLEVEL/GOLD/FREE,CLASS/RACE/ALIGNMENT,
+and WIELDS, to give a full description of the character. Clicking on the ( A~A]
+button changes the size of the text in this window. Clicking on a name selects that
+character, both here and in the party window. Double clicking will present the
+character's item window, exactly like double clicking on the character's icon in the
+party window.
+The movement window is used to control the party's travels through the Obelisk.
+The upward-pointing arrow will move the characters forward, while the ''bent''
+arrows beside it will turn the characters to face either left or right, while leaving them
+in the same place. The two side-po in ting arrows wj]J move the characters to the left
+orright, without altering the direction in which they are facing. The key button will
+make the current character attempt to open the door which is directly in front of the
+party. The frog button will cause all the characters in the party to leap forward. This
+button is useful for jumping over pits or other hazards ahead of the party. The final
+button is used to switch parties, as described below.
+XVIII
+Uiew
+The view window gives you a three-dimensional view of what the current character
+sees within the Obelisk. Walls and doorways will appear, as well as any objects or
+creatures in your way. As you move through the catacombs using the movement
+window (described below), the view will change accordingly.
+Splitting the Party .
+This feature of Obelisk can be useful, but care must be taken, as it is easily abused.
+The party should be split up only when absolutely necessary, such as when sending
+someoneforhelp. Tosplitacharacterfromtheparty,selectthecharacter,andehoose
+"Leave Behind" from the menu whose title is the character's name. The abandoned
+character's icon will appear in the view window. The rest of the party may now
+leave, and later, to switch play between the party and the abandoned character, click
+on the swap parties button in the movement window.
+NOTE: The game can only keep track of lwo separate parties. If you divide
+the original party into more than two groups, you must physically
+search through the Obelisk to find the third party.
+To reunite the parties, move one party through the Obelisk until they are in the same
+position as the characters who were left behind. As the active party approaches the
+inactive one, the character icons for the inactive party will appear in the view
+window. To rejoin the inactive characters to the active party, simply "pick up" their
+icons from the view window. Their icons will appear in the party window as you
+pick them up.
+XIX
+The time window is available to indicate how much time the party has spent
+adventuring within the Obelisk. All actions which the characters perform take some
+time, and the amount will be registered in the time window.
+xx
+Objects in Obelisk
+All the objects a character currently possesses are shown in the "Item Window"
+associated with the character. To see the item window while in the Obelisk, double
+click on the character's icon.
+Groy Mouse's I terns
+UJh~h1 W<~<tr (Open] ~Hamine] (Transfer]
+The icons for all the items carried by the character are shown. The miniature icons
+beneath the items show the positioning of the items on the character's person. The
+shield ( ~ ) signifies that the item is being worn by the character (the armour,
+quiver, and dagger above). The hand ( ~ ) indicates that the item is being carried
+in the character's free (non-fighting) hand. The sword <.Qm.)e ans that the
+character is wielding the item as a weapon. A miniature bag icon ( () ) above an
+item means that the item has pockets, which may themselves carry items. One item
+at a time can be selected by clicking upon it (the armour in the above picture). The
+row of buttons across the bottom of the window show options available for the
+selected item.
+The scroll icon at the far right, when double clicked, will bring up a list of the scrolls
+carried by all members of the party. This is useful for transferring scrolls between
+characters.
+Using Objects
+Within the Obelisk, objects may perform a wide variety of functions. In the items
+window shown above, the ''Open" button will cause the selected object to be
+opened, revealing what is in its pockets. Often, selecting an object will change the
+name of this button (selecting the bow will change the button to "Shoot", for
+example). Depressing the button may cause special things to happen. Double
+clicking is a short cut for selecting an item, and clicking on this button. The uses of
+objects within Obelisk is almost limitless, and discovering what certain objects do is
+part of the adventure.
+XXI
+Transferring Objects
+It is often desirable to have one character give an object to another. There are two
+methods of doing this. The first is to open the items window for the giving character
+(by double clicking on their icon), and select the desired object. The "Transfer"
+button in the items window will become available. Clicking on it produces a
+window which displays all the party characters, and their items. You may then
+select to whom the item is to be transferred.
+The second method also involves opening the items window for the giving character.
+Click and drag the object you wish to transfer. The object icon will "raise up"
+off the screen, and follow the mouse. Move the object over the icon cif the character
+to whom it will be transferred. If that character is able to receive the object (i.e. if they
+have room and can carry another item), their icon will highlight. Release the object
+icon, and the transfer is complete.
+When the game transfers an object, it attempts to place the object into the receiving
+character's free (non-fighting) hand. If that hand already has something in it, it will
+place it in the wielding (fighting) hand, or finally, make the receiving character wear
+the item. If the game cannot place the item into the free hand, it will signify this by.
+placing a miniature icon similar to those in the items window near the object being
+transferred, while it is suspended over the receiving character. For example, if
+Obelisk is going to cause the receiving character to wear the object being transferred,
+it will display a miniature shield ( ijJ) icon near the floating object. Not all objects
+can be worn, however, and if a character cannot receive an object, because they have
+no room, or ca1mot hold any more, their icon will not highlight when you drag the
+item over it.
+Getting and Dropping Objects
+Most of the objects you find in Obelisk will appear in the view window when you
+approach it. The item may be lying on the floor, attached to the wall, or placed
+anywhere within the view window. To pick up an object, move the mouse over its
+icon in the view window, and the cursor will become a hand. Clicking the mouse
+at this point will cause the current character to pick up the object, and place it in the
+first available space (free hand, fighting hand, or worn as described above in
+Transferring Objects). Optionally, clicking and dragging the mouse will cause the
+object's icon to follow the mouse, whereupon you can drop it into any party
+member's icon. As when transferring objects between characters, the receiving
+party member's icon will highlight as the object is dragged over it, if they can carry
+the new object.
+Combining Objects
+Placing objects within other objects is achieved using the same principle. Click on
+an object, and drag it over the icon of another object (both objects must be visible in
+the items window). If the receiving object has pockets, its icon will becoine
+highlighted. Releasing the mouse button will place the first object into a pocket of
+the second. In the same manner, gold sacks will combine into bigger sacks,
+containing up to 100 gold pieces.
+Doors
+Many places deep within the Obelisk
+are blocked by doors, some of which
+may be difficult to open, or locked.
+Locked doors appear in the view
+ while
+other doors have only a door knob or
+handle. To attempt to open a door,
+use the key button in the movement
+window (as described above). Alternatively,
+you may move the mouse
+into the view window. When positioned
+over the door knob or keyhole,the cursor will become either a hand
+or a key. Clicking it in this state will
+attempt to open the door. If the cursor is a key at the time, the current character has
+possession of the key which will unlock the door, and the door will always open. If
+it is a hand, then there is no guarantee that the current character can open the door.
+Thieves have a better chance of opening doors, due to their lock-picking abilities.
+Torches
+The main sources of light within the Obelisk are torches. In the early
+stages of the game, the party will find lit torches in holders on the
+walls, doubtless left there by other unfortunate adventurers. Not all
+torches are removable from torch holders (as you will find out on the
+entry level). To light a torch from another torch in your hand, simply
+click on the unlit torch in one hand and drag it on top of the lit torch
+in the other hand. To remove torches from their holders, click and
+drag them from the view window. Torches may also be placed into
+holders in the view window. There is a limit to the amount of time a
+torch will burn, during which it will become shorter, and begin to
+flicker. They are too large to be lit using flint, so they must be ignited
+using other torches. It is recommended that you light your torches
+only when needed, as you may quickly run out of them. To extinguish
+a burning torch, shake it vigorously.
+XXIII
+Doing Battle
+The Citad,il is not a deserted hulk: there are many creatures who inhabit its
+underground pathways. Sooner or later, as your party travels through the Obelisk,
+you will stumble across some of them. Most groups of creatures will move toward
+your J1artyo nce they know of your presence. Some are faster than others.
+Long Range Combat
+If you cannot avoid a group, it is possible to attack them from a distance, Many
+(but not all) attack spells are effective at long range. Cast the spell normally (as
+described in the following chapter). A hand will
+rise, and either lob the magic or wait for you to
+aim the hand and project the magic (simply
+point with the mouse in the view window).
+Provided a character has a bow, arrows may
+also be fired into a group of advancing creatures.
+To do so, open the item window for the
+character who has the bow, and double click on
+the bow icon. The cursor will begin to track
+your mouse movements, at which point you
+may aim the shot at the creatures in the view
+window. Depending on the character's coordination
+and skill, the shot may be difficult to aim
+accurately.
+Close Combat
+Soon the creatures are upon you. When the
+"Prepare to Defend Yourself!" message appears,
+· you know a fight is about to commence. A
+single large window will be displayed, with
+your party arrayed on it as they were in the
+party window. The attacking creatures appear
+as other icons arranged about you, and begin to
+close in. Some creatures prefer to attack from
+different positions, some may even drop into
+the middle of the party from above! They vary
+in their intelligence and fighting technique, and
+they may concentrate on certain characters.
+Moving into Battle
+To move characters around, click and drag them to a new position. Characters
+cannot move through other icons, but must be :tnanuvered around the obstruction.
+In addition, the speed at which an icon moves is determined by a character's
+coordination, level and status. The icons will drag for only a few seconds at a time,
+and slow characters may take several turns to move into position.
+To engage a monster, simply move a character icon next to a monster icon. A thin
+"line of fire" will be drawn between the combatants. The actual range at which the
+XXV
+icons engage can be shown momentarily by selecting "Show Ranges" from the
+Options menu. This command will display circles around all icons, representing the
+striking range of all characters and monsters, and wait for a mouse click to continue.
+To select a particular character, simply dick on their icon. The pop-up menu for each
+character is still available by clicking and holding on that character's status bar
+under the icon. This menu lists the possible actions available to the character. These
+actions are; cast a spell or scroll, change the wielded weapon, confront, attack, parry
+and back stab.
+Spells and Scrolls
+This menu option is only available if the character is clear (has no
+monsters in their attack circle). This is due to the fact that spell
+casting requires concentration, and may involve physical movement
+to focus the spell. Reading a scroll also demands a moment
+of uninterrupted action. The hierarchical section of the menu will
+contain all the scrolls a character has (and all the spells a Wizard
+or Cleric has memorized). Simply choosing one will cast the spell
+or scroll.
+Change Wielded Weapon
+This option is also only available ifthe character is clear. You will
+be able to select which item in the character's possession will be
+transferred to the wielding hand.
+Attack
+If you do not select another course of action for a
+character during the fight, they will default to this
+action. Attack causes the character to fight the
+nearest engaged monster as well as possible,
+accounting for their strength, coordination
+and wielded item.
+Parry
+This option causes the cl1aracter to defend exclusively, greatly reducing the amount
+of damage they take from physical attack, but voiding any hitting of their own.
+Back Stab
+This is available only to a Thief or a Ninja, and can be a highly effective form of
+secretive attack However, if the attempt to back stab is discovered, the character is
+in no position to defend well and can be struck easily by the monster.
+Confront
+This is a dangerous option! It causes the character to attract attention to itself, thus
+drawing attack away from others. This is only wise for good fighters to try. A confronter
+is struck by monsters at an advantage, but also strikes them at an advantage.
+XXVI
+Physical fighting skill is determined by class, strength, coordination and level.
+Coordination, class and level determine whether a hit is successful, and strength and
+level combined with the wielded weapon's hitting ability determine the amount of
+damage inflicted. All items will inflict damage, though they may prove to be poor
+weapons. A character without any wielded weapon will still fight if engaged, but
+at a severe disadvantage. The exception is a Ninja, who strikes easily with bare
+wielding hand!
+Picking Up Items
+While in battle, characters may pick up an item near themselves by moving the
+mouse over the item. If the cursor becomes a hand, clicking the mouse button will
+pick up the object. A character has a limited reach, and must be close to an object to
+be able to retrieve it.
+Throwing Items
+If a character icon's status bar is visible below the icon, clicking in the miniature
+wielded weapon icon and dragging will draw out a dashed line with the miniature
+icon on the leading end as the mouse pointer. Depending on tl1e throwing
+character's level and skill, the line may be difficult to aim. Releasing the mouse will
+throw the wielded item along that line. The item will travel the length of the line and
+stop unless it strikes-an intervening icon. Any icon struck will suffer damage and
+stop the item, including other party members. The item will then remain lying on
+the screen where it dropped until a character picks it up. Throwing is always
+dangerous, because it temporarily leaves the character without a wielded weapon.
+Shooting Arrows
+If a character is wielding a bow (indicated by the miniature bow icon in the status
+bar beneath the character's icon), clicking on the miniature icon and dragging will
+produce a dotted line which ends in an arrow. When the mouse button is released,
+XXVII
+the character will attempt to fire an arrow. This will only be successful if the
+character is actually in possession of any arrows, and again, the line may be difficult
+to aim, depending on the character's level and skill.
+Armour Class
+A character's AC (Armour Class) is a value determined from their natural coordination
+(quickness), and any armour and magical clothing they are wearing. The
+lower the armour class the better! This value is used to detei:mine whether or not a
+monster succeeds in hitting the character when it attacks.
+Ending the Battle
+If a party member is knocked unconscious, their icon will become immovable. If all
+party members are killed or rendered unconscious during a fight, they will be placed
+in the current position in the Obelisk, and you wHl be returned to town, to recover
+the party somehow or form a new one. Should all the monsters be destroyed, .
+however, congratulations! A Spoils and Bounty screen will appear, detailing the
+damage sustained by each party member, the experience points gained, and any
+items found on themonsters. These will be left lying on the ground in the view
+window when the game returns to the castle screen.
+XXVIII
+Using Magic
+Magic plays a very important role in Obelisk. Every character bas the opportunity
+to cast magic, using scrolls. Scrolls can be found throughout the Obelisk. The ability
+to memorize magic spells is what sets Wizards and Clerics apart from the other
+character classes. Wizards may copy the contents of scrolls into a spell book, once
+they have located one, from where they may read and memorize it many times over.
+Clerics receive their spell casting ability through meditation and prayer.
+Casting Spells
+The method for casting a spell is simple. After selecting a character to cast the spell,
+either pull down the menu which has the character's·name as its title, or click and
+hold the mouse button down over the status bar below the character's icon until the
+pop-up menu appears. On either menu, the item "Spells and Scrolls" will appear.
+Dragging down to this will reveal a hierarchical menu, which contains all the scrolls
+the character has, and also all the spells they have memorized. Selecting one of these
+will read the scroll, or cast the spell.
+There are two types of attack spells: Area and Range. Area spells apply over an area
+determined by the spell caster's level. Range spells are focused in a "beam", the
+range and strength of this is determined by the spell caster's level. Range spells are
+Hints: • All fight attack spells compare the spell caster's level to the individual
+monster's level and magic resistance. Each monster may therefore be
+affected differently by the same spell.
+• Some spells may affect only one person. If a spell of this type is cast during
+a fight, the person to be affected must be within the spell caster's
+range circle.
+• Some spells will only perform an action when in a certain venue (camp
+castle or fight). These spells will usually have a small mark preceding
+the name in the Spells and Scrolls menu list.
+• To add a scroll to your Spells and Scrolls list, you must drag the scroll
+to the Scroll Icon at the right of the Character's Item Wind ow. The Scroll
+can now be transferred to other characters by double clicking on the
+scroll icon or copied into the Spells Book. Once a scroll has been copied
+into the Spell Book, it is possible that it may not be highlighted for use.
+Your character may not be of a high enough level to be able to memo
+rize the spell or that the character has memorized a number of other
+spells that are taking up room. First level wizards can only memorize
+and retain one spell at a time.
+Memorizing Spells (Wizards, Shamen)
+A Wizard (or Shaman) may inherit some scrolls at birth, and may buy some, at an
+exorbitant price, from the shop. The only source of new scrolls, however, is in the
+Obelisk. Once in possession of a scroll, the Wizard may cast it at any time, just like
+
+any other character class. More use can be gained from the magic, however, by
+copying the contents of the scroll into a spell book ( which destroys the scroll). Once
+there, the Wizard may memorize and cast it over and over again. Spell books must
+be found or won within the Obelisk, there is no other way of getting one. Opening a
+spell book displays a complex screen which allows the Wizard to memorize spells
+from the book, or copy new scrolls into the book. Also, spells from within the book
+may be copied back onto scrolls, so any class of character can use them. Note that
+this does not destroy the spell in the book.
+Select a spell, and the usable buttons will be enabled. "Memorize" will commit the
+spell to memory. It appears in the Spells and Scrolls menu for future use. The
+amount of time thfs process takes is dependent on the level of the spell being
+memorized. Since the Wizard requires complete concentration during the memorization,
+higher level spells should not be memorized in the Obelisk, because of the
+possibility of being discovered by monsters. If the Wizard is interrupted before the
+memorization is complete, the magic is lost.
+To copy a scroll to the book, select a scroll in the pop-up Spells and Scrolls menu.
+, To create a scroll from a spell, selectthe spell and press the "Create" button. In order
+~
+~m ~.~ l ~ I []] [!]@] ~ I I 2:Alrt~ ~ir :fiN 'Wa.hr I
+1- i:~i1 -
+[
+Meditate--------
+Spells I (Done)
+XXX
+for the creation of the scroll to work, the Wizard must be holding a sheet of vellum
+while wielding a special ink and quill (all available from the shop in town at a
+premium price).
+Danger!
+Any time a Wizard or Shaman deals with a spell of a higher level than themselves,
+they risk destroying the spell, erasing it from the book, and probably injuring
+themselves in the bargain.
+Memorizing Spells (Clerics, Magi)
+Cleric classes gain their magic through meditation, and then commit the magic to a
+specific spell. Any Cletic or Shaman has, in their pop-up menu (selected by clicking
+and holding on the status bar beneath the character icon), an item labeled "Meditate
+... ". This brings forth a window like the one on the previous page. One of four
+kinds (or elementals) of magic may be prayed for at one time: earth, wind, fire or
+water. These are represented by the four symbols across the top of the window.
+Select a button within the "Meditate" box corresponding to the desired symbol, and
+the meditation process will begin. After a delay of some time, the symbol for that
+elemental will be added to the stack of elementals along the top of the window.
+Depending on the elemental being prayed for, this may take anywhere from 1 to 4
+hours.
+To create actual spells, select one or more elementals from one or more of the four
+types. The elementals will move from the stacks to form a "word" within the text
+box. Once the desired "word" of elementals is formed, click upon the "Memorize"
+button to commit the spell to memory, and make it appear on the Spells and Scrolls
+menu item. If the combination of elementals that form the "word'' is incorrect, then
+no magic can be formed from them, and they will simply vanish. Some of the earlier
+level combinations which can be used to create Clerical magic are listed in Appendix
+A, which describes all the spells available in Obelisk.
+Clerical magic has an advantage over Wizard magic in that elementals can be
+stockpiled for use while in camp, or a safe part of the Obelisk, and then quickly
+converted into particular spells desired at a later time.
+~
+XXXI
+Utilities a Mapping
+Within the Obelisk, there is one, and only one, J,Uap book. Finding and opening this
+will allow you to map your progress through the catacombs. Pages in the map book
+represent levels of the castle, and you may flip through pages using the folded flap
+at the bottom right corner of the page. It is up to whomever is mapping to mah1tain
+an accurate page number for the castle level the party is on. Using the map book
+involves pointing the mouse (which will appear as a pencil cursor), and clicking to
+make a mark on the grid. The type of mark depends on the setting of the Mapper
+menu: wall, torch wall, door, locked door, pit, stairs up, stairs down, hall, special
+and note. To change the pencil to a particular type of mark, simply pull down the
+Mapper menu, and select the desired option. For convenience, the Mapper menu is
+a "tear off" menu, which will act as a miniature window if pulled off of the menu bar
+(it is shown overlaying the Map Book window, above). The first seven types are
+simple: clicking in the grid with that option selected in the menu, will place a mark
+
+of that type on the grid. When the menu is set to "hall", clicking the mouse will erase
+the grid block under the mouse. Special may be used to indicate any special features
+on a level to whomever is reading the map.
+The final type of mark, "Note," deserves special mention. When a note mark is
+placed on the grid, a text box appears, and you may type up to 64 characters worth
+of information into it. Two buttons allow the note to be saved 'Permanent' to file,
+'Temporary' until the page is changed or the game ended. You may also use the
+'Delete' button to remove a note. When the Mapper menu is in the note mode, any
+locations which have notes attached to them will appear with a small "N" at the
+location.
+Customizing Obelisk
+Under the "File" menu, there is a "Preferences ... " item. This item displays a screen
+which allows you to change several of Obelisk's parameters.
+-·
+"''► •;
+. ..,-.,, .. . . ..
+18S1o und
+18P1a rty I con Popup Menus
+D Drag Icons UHth Titles
+181c1o ns in Menus
+€itade!© Preferences
+[ DK ( Cancel )
+,Clicking in one of the checkboxes enables or disables a particular preference:
+Sound: When enabled, all sounds in the game will be heard at the current speaker
+volume (set in the Control Panel under the Apple menu).
+Party Icon Pop-Up Menus: This preference determines whether or not you can
+produce a pop-up menu by clicking and holding on the status bar beneath the
+character icons, as described above. This pop-up menu is identical to the menu
+which appears in the menu bar and has the name of the current character as its title.
+If the Party Icon Pop-Up Menus item is disabled, the only method of seeing this
+menu is to use the one in the menu bar.
+Icons in Menus: With this preference turned on, the Items menu will display the
+iconic representation for all the objects listed therein.
+XXXIV
+Drag Icons with Title: Enables an item's or character's name being drawn beneath
+a dragging icon. This may also be toggled while dragging icons, by pressing the
+Option key.
+Utilities
+Finally, Obelisk provides some utilities which may come in handy during the game.
+The "Utilities" item is available under the "File" menu. Selecting this item will bring
+forth a window which contains four buttons:
+Transfer Character: This item will take a character in the current game, and copy that
+character to another saved game file (see "Starting from a Saved Game", in the
+"Starting Obelisk" section). This is done to facilitate moving characters between
+games. Important items cam1ot be transported.
+Print Character: This option will print an expanded version of the character
+information window, showing icons of carried items and contents of pockets in
+small icons.
+Print Map Page: This button will print the page to which the mapper is currently
+turned, complete with the map legend. This is only available when the map book
+has been opened.
+Reset Windows: This button will move all Obelisk windows to a default position on
+the screen. This is most useful when the program has been run on a Mac II with a
+large screen, possibly resulting in some windows beingJocated out of reach on a
+normal screen.
+[ Transfer Characters ... ]
+[ Print· Character ... ]
+[ Print Map Page ]
+[ Reset Windows ]
+..
+Appendix A .. Spells
+The pages that follow contain a list of the spells available to Wizards, Magi, Clerics
+and Shaman in Obelisk. The first 3 levels also contain the elemental magic symbols
+required by Clerics and Shaman to construct the spell (certain of these spells are not
+available at all to Clerics. These are listed as n/a).
+Name Where
+Haelen All
+Fortis All
+~(I)
+Bless Maze
+Name Where
+Percer Fight
+\}IQ
+HaelanAl All
+ff(I)
+Levitas All
+(n/a)
+Accelerare Fight
+(n/a)
+Divine All
+Level 1
+Notes
+Heal light wounds. Affects one person.
+Defense spell, lowers recipient's armour class. Affects
+one person.
+Special spell, casts a shield of protection over objects
+at the location the spell is cast. Protects from wandering
+monsters for 1 hour times the spell caster's level.
+Returning to the objects nullifies the spell.
+Level 2
+Notes
+Attack spell, reduces armour class of monsters ·
+making them easier to hit. Area spell.
+Heal light wounds. Applies to entire party.
+Special spell, lifts entire party off ground. Allows a
+party to float over pits, and carry any number of dead
+people.
+In a fight, party icons can be moved farther once this
+magic has been cast.
+Always successful form of regular divination.
+XXXVII
+Level 3 Level 5
+Name Where Notes
+Name Where Notes
+Gestun Fight Attack spell, blast of wind. Light damage to all
+~\{IQ monsters. Enfeeble Fight Weakness spell, see Veikr. Area Spell.
+Cicatrize All Heal medium wounds. Entire party affected. Cural All Healing spell, strong curing spell affects whole party.
+~q,'\J'(J) Sanctifis All Special Spell, see Bless. Time multiplier is one day.
+Slo Potionis All Healing spell, slows the rate of hit point loss of e(l)e poisoned character. Potency affected by caster's level. Freosan Fight Attack spell, freezes monsters to one location, so they
+Affects one person. cannot move to attack. Area Spell.
+Spice All Conjures up objects. Item is selected randomly from a Missilus Fight Attack spell, creates missiles which may be aimed at
+list, dependent upon caster's level. monsters. Range Spell.
+Sumos Castle Summon monster to join the party, if there is room
+(less than 6 party members). Type of monster
+depends on caster's level. Monsters will not leave
+dungeon (return to tavern, etc.), and will run off if left behind or if split parties are switched between. Level6
+Name Where Notes
+Level4 Dispellere Learned in Dispel Monster. When learned, displays list of
+Name Where Notes Castle or monster types, of which 1 can be selected. Places a
+Camp. Cast spell in "Spells & Scrolls" menu which, when cast in
+Faer Fight Attack spell, slows monsters, making them indecisive in Fight fight, will dissolve all monsters of that type.
+and less prone to move or attack. Area spell.
+Awake All Curing Spell, awakens a person who has been
+Fortis Al All Defense spell, affects whole party, see Fortis. rendered unconscious.
+Locatus All Special Spell, allows the caster to determine the lnvidere Fight Defense spell, makes a party member invisible for a
+current level within the Obelisk, and how many duration of time based on caster's level. Monsters
+'blocks' the party is from the entrance as <"11 x,y who have keen senses may still be able to detect their
+position appropriate for use with Mapper. presence by smell, sound, etc.
+Veikr Fight Attack spell, reduces monster strength and ability to Terror Fight Attack spell, Range Spell version of Faer.
+hit. Range spell.
+Open Castle Special Spell, causes caster to make one attempt to
+Cista Castle Special spell, conjures a magic chest. This chest has Portal open door at a bonus skill level (like a high level Thief
+four pockets which accumulate no encumbrance (i.e. or Ninja). Failure does not indicate that succeeding
+putting items in the chest does not add to its weight). attempts will fail, but does generate noise, which
+There is only one of these chests, so casting the spell a might attract monsters.
+second time will remove the chest from wherever it
+was, and cause it to appear at the feet of the spell
+caster, with all contents still intact.
+XXXVIII XXXIX
+Name Where
+Gifan Shift All
+Anti-Magic Fight
+Dopplegang Fight
+Schatem Fight
+- Hold-Portal Castle
+Name Where
+No Potionis All
+Striken Fight
+Morale Fight
+Scrincan Fight
+Level 7
+Notes
+Cure spell, cures blindness.
+Attack spell, reduces monsters' resistance to magical
+attacks. Area Spell.
+Attack spell, creates duplicate ofone party member
+for a duration of time based upon the caster's level.
+Only one doppleganger may exist at one time. Any
+damage or injury done to one is simultaneously
+inflicted on the twin. Doppleganger disappears
+when fight ends.
+Attack spell, reduces a monster's ability to defend
+against attack, see Percer. Range Spell.
+-Conjures a locked door in a doorway or archway.
+Levels
+Notes
+Cure spell, cures poison.
+Attack spell, lightning strike on monster. Range
+Spell.
+Defense spell, boosts morale of party. As a result,
+characters will do more damage while fighting.
+Duration based on caster's level.
+Defence spell, reduces range the monster's can strike
+within. Area Spell.
+XL
+Name Where
+Percer Magic Fight
+FyrStriken Fight
+Blast Portal Castle
+Bricg Pytt Castle
+Name Where
+Cleric Touch All
+Invidere All Fight
+Wish All
+Level 9.
+Notes
+Attack spell, range version of Anti-Magic.
+Attack spell, fire storm. Heavy reduction of all
+monsters' hit points.
+Special Spell, attempts to permanently blow open a
+door. Very noisy and attracts wandering monsters._
+Special spell, permanently fills most pits. Pit to be
+filled must be directly in front of party.
+Level 10
+Notes
+Healing spell, very high level Haelen.
+Defense spell,makes entire party invisible for
+duration of the battle.
+Special spell, allows the caster to modify alinost any
+characteristic or attribute of any member of the
+party.

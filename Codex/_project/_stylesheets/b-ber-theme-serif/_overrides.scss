@@ -25,6 +25,11 @@ p {
     padding-bottom: 1em;
 }
 
+img {
+    width: fit-content;
+    max-width: 400px;
+}
+
 blockquote p, blockquote{
     &::first-letter {
         initial-letter: 2;
