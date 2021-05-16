@@ -11,11 +11,9 @@ from unidecode import unidecode
 
 def generateInstructions():
     files = os.listdir("../Codex/_project/_images/instructions/")
-    instructionsNumber = random.randint(0, len(files)-1)
-    instructionsImage = files[instructionsNumber]
-    if "DS_Store" in instructionsImage:
-        instructionsImage = files[instructionsNumber]
-
+    nonHiddenFiles = [ filename for filename in files  if not filename.startswith(".") ]
+    instructionsNumber = random.randint(0, len(nonHiddenFiles)-1)
+    instructionsImage = nonHiddenFiles[instructionsNumber]
     instructionText = " "
 
     nlp = spacy.load("en_core_web_sm")

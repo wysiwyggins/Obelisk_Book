@@ -6,14 +6,23 @@ ibooks_specified_fonts: true
 theme: b-ber-theme-serif
 themes_directory: ./themes
 base_url: 'https://wileywiggins.com/'
-base_path: '/obelisk_reader/project-reader/'
+base_path: /obelisk_reader/project-reader/
 reader_url: 'https://wileywiggins.com/obelisk_reader/project-reader/'
-remote_url: 'https://wileywiggins.com/'
+remote_url: 'https://wileywiggins.com/obelisk_reader/project-reader/'
 downloads:
   - label: Download as Epub
     title: Obelisk Manual
     url: >-
       https://wileywiggins.com/obelisk_reader/339e849a459ca89b707c93e7fd6e508f3e2ecf6f.epub
+
+pdf_options:
+  paper_size: a5
+  pdf_page_numbers: true
+  pdf_page_margin_top: 25
+  pdf_page_margin_right: 25
+  pdf_page_margin_bottom: 25
+  pdf_page_margin_left: 25
+  
 ui_options:
   navigation:
     header_icons:
@@ -24,7 +33,7 @@ ui_options:
     footer_icons:
       chapter: true
       page: true
-private: false
+private: true
 ignore: []
 autoprefixer_options:
   overrideBrowserslist:

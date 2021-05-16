@@ -15,12 +15,15 @@
 - Runes
 - Wands
 - Realms
-- obelisk-colophon
+
 
 
 
 - notes:
-    linear: true
+    linear: false
     in_toc: false
 - Aknowledgements
+- obelisk-colophon
 
+
+- Player-Notes

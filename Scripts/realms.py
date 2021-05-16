@@ -23,6 +23,14 @@ def getSubstance():
         substance = substance.rstrip("\n")
         return substance
 
+def getSaying():
+        sayingFO = io.open("words/realmlist.txt", encoding="utf-8")
+        sayingList = list(sayingFO)
+        selection = random.randint(0, len(sayingList) - 1)
+        saying = sayingList[selection]
+        saying = saying.rstrip("\n")
+        return saying
+
 def getReagent():
     reagentsFO = io.open("words/reagents.txt", encoding="utf-8")
     reagentsList = list(reagentsFO)
@@ -76,10 +84,6 @@ def generateRealm():
     realmText += "\n## "+ title.title()+"\n\n"
     realmText += ""
     realmText += "This was once known to be " +  addAorAn(adjective) + " land. Exports included " + getReagent() + ", " + getSubstance() + ", " + getSubstance() +" and " + getReagent() +". It was conquored and forgotten.\n"
-    for number in range(20):
-        try: 
-            realmText += "\n" + text_model.make_short_sentence(250) + " "
-        except:
-            realmText = text_model.make_sentence()
+    realmText += getSaying()
     
     return realmText
