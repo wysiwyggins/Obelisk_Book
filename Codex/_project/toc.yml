@@ -6,7 +6,7 @@
         linear: false
 # Cover
 - cover:
-        in_toc: true
+        in_toc: false
 # Project Contents
 - obelisk-title-page
 - Introduction
@@ -24,6 +24,5 @@
     in_toc: false
 - Aknowledgements
 - obelisk-colophon
-
-
 - Player-Notes
+

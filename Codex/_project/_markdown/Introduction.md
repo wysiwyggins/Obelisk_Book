@@ -20,11 +20,12 @@ In obelisk you play the role of an adventurer on a quest for one of many legenda
 
 This book serves as your guide through the many mysteries of the world of Obelisks!
 
+### What is an Obelisk? ###
+  
+  
+In a primeval land, tribal peoples once sought great stones to give as dowry. These stones were used to build a new families' home on earth. Stones were also an offering to the dead, building their fortresses in the afterlife, protecting them from demons. These stones formed a sort of ceremonial currency, and the quarrymasters became powerful as stone dwindled and need grew.  
 
-
-## What is an Obelisk? ##
-
-In a primeval land, tribal peoples once sought great stones to give as dowry. These stones were used to build a new families' home on earth. Stones were also an offering to the dead, building their fortresses in the afterlife, protecting them from demons. These stones formed a sort of ceremonial currency, and the quarrymasters became powerful as stone dwindled and need grew.  Some people became deeply indebted to quarrymasters, enough to enter servitude to them as pawns, or to give their family members over to them to work cutting stone, ever deeper. Some tribes, desperate to free themselves or loved ones, began to take “loans” of stone from the funerary obelisks of their ancestors, transferring their debts to the dead. 
+Some people became deeply indebted to quarrymasters, enough to enter servitude to them as pawns, or to give their family members over to them to work cutting stone, ever deeper. Some tribes, desperate to free themselves or loved ones, began to take “loans” of stone from the funerary obelisks of their ancestors, transferring their debts to the dead. 
  Adventurer! you were born into a time of great upheaval and potential! The dead demand tribute, and promise treasure and glory to those who obey.
 
 [^1]: ObeliskNet requires a local AppleTalk connection or modem and corresponding ObeliskNet server software

@@ -23,6 +23,7 @@ h2 {
 
 p {
     padding-bottom: 1em;
+    font-size: 1em;
 }
 
 img {
@@ -53,12 +54,32 @@ th {
 
 table {
     margin-top: 0;
-    font-size: x-small;
-    max-width: fit-content;
+    //font-size:x-small;
+    tr td{
+        font-size: .8em;
+        line-height: 1em;
+        max-width:inherit;
+    }
+    
+    //max-width: fit-content;
+    
+}
+.break-after {
+    table {
+        margin-top: 0;
+        tr td {
+            font-size: .8em;
+            line-height: 1em;
+            max-width: fit-content;
+        }
+        
+    }
 }
 
+
+
 td img, td svg {
-    max-width: 40px; 
+    max-width: 60px; 
     width: 100%; 
     height: auto;
     overflow: visible

@@ -5,15 +5,18 @@ cache: true
 ibooks_specified_fonts: true
 theme: b-ber-theme-serif
 themes_directory: ./themes
-base_url: 'https://wileywiggins.com/'
+base_url: https://wileywiggins.com/
 base_path: /obelisk_reader/project-reader/
-reader_url: 'https://wileywiggins.com/obelisk_reader/project-reader/'
-remote_url: 'https://wileywiggins.com/obelisk_reader/project-reader/'
+reader_url: https://wileywiggins.com/obelisk_reader/project-reader/
 downloads:
   - label: Download as Epub
     title: Obelisk Manual
     url: >-
       https://wileywiggins.com/obelisk_reader/339e849a459ca89b707c93e7fd6e508f3e2ecf6f.epub
+  - label: Download as PDF
+    title: Obelisk Manual
+    url: >-
+      https://wileywiggins.com/obelisk_reader/Obelisk_User's_Manual_Book_of_Secrets-Amplexxus.pdf
 
 pdf_options:
   paper_size: a5
@@ -22,12 +25,12 @@ pdf_options:
   pdf_page_margin_right: 25
   pdf_page_margin_bottom: 25
   pdf_page_margin_left: 25
-  
+
 ui_options:
   navigation:
     header_icons:
       info: true
-      home: true
+      home: false
       downloads: true
       toc: true
     footer_icons:

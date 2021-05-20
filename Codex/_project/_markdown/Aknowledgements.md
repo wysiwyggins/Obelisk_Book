@@ -6,7 +6,7 @@ type: backmatter
 ::: chapter:aknowledgements
 
 # Aknowledgements
-This work was created for UCLA's Design Media Arts Undergraduate Senior project in interactivity and games, under the supervision of Chandler McWilliams and with the help and support of the UCLA Game Lab. Special thanks to Allison Parrish for her help with the asemic text generation used in the "Runes" chapter of this book and Martin O'Leary for permitting the use of their fantasy map generator code for the "Realms" chapter. 
+This work was created for UCLA's Design Media Arts Undergraduate Senior project in interactivity and games, under the supervision of Chandler McWilliams and with the help and support of the UCLA Game Lab. Special thanks to Allison Parrish for her help with the asemic text generation used in the "Runes" chapter of this book and Martin O'Leary for permitting the use of their fantasy map generator code for the "Realms" chapter. Thanks also to Caleb Waldorf and Maxwell Simmer for answering my questions about B-Ber, the browser based epub reader used to publish this book. 
 
 # Text sources
 Portions of this book are programmatically generated and utilize different text corpuses to do so. 

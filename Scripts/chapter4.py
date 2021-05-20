@@ -25,13 +25,13 @@ with open("../Codex/_project/_markdown/Runes.md", "w") as myfile:
     for rune in sorted(runes.runeDict):
         runeCounter += 1
         myfile.write('|<img src=\"../images/glyphs/'+runes.runeDict[rune]+'\" ' + 'alt=\"A glyph made from wedge-shaped marks\"/> |' + rune + ' |\n')
-        if runeCounter % 10 == 0:
+        if runeCounter % 8 == 0:
             nextSectionNumber = str(int(runeCounter *.1))
             lastSectionNumber = str(int(runeCounter *.1-1))
             myfile.write("\n\n")
             myfile.write("| Glyph | Translation |\n")
             myfile.write("|-|-|\n")
-        if runeCounter >= len(runes.runeDict) and runeCounter % 10 != 0:
+        if runeCounter >= len(runes.runeDict) and runeCounter % 8 != 0:
             print("I think I'm done")
 
 
