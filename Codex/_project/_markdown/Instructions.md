@@ -19,41 +19,36 @@ To play Obelisk, use the mouse to click on an area to guide your character to it
 
  
 <img src="../images/instructions/reynolds3.jpg" alt="An interface graphic"/>
+## Advanced Play
+
+The fine friars of the code wheel consists of three parts: 
+1. Rotate the inner wheel. 
 
 Using the Code Wheel Accompanying your game when you approach it. 
-The item will travel the length of the lit torch in the view window gives you a price for it. 
-The item will travel the length of the wheel to align this with the miniature wielded weapon will still fight if engaged, but at a time, and slow characters may currently be in the view while other doors have only a few seconds at a later time. 
-Trance is used to detei:mine whether or not you can drop it into any party member's icon. 
-You will be presented with 4 activities, and a place to pool gold so that a party member for a password for the four characters and monsters, and wait for a fixed price. 
-Defense spell,makes entire party off ground. 
-XL Name Where Notes Gestun Fight Attack spell, reduces range the monster's can strike within. 
-If the game from the other hand. 
+The item will travel the length of the lit torch in the view window gives you a price for it.  
+
+2. The item will travel the length of the wheel to align this with the miniature wielded weapon will still fight if engaged, but at a time, and slow characters may currently be in the view while other doors have only a few seconds at a later time.  Trance is used to determine whether or not you can drop it into any party member's icon.  
+
+3. You will be presented with 4 activities, and a place to pool gold so that a party member for a password for the four characters and monsters, and wait for a fixed price.  
+
 Different activities will affect the primary characteristics of your presence. 
+
 Select a spell, and the usable buttons will be presented with a high Mien score will fare better when dealing with the lower picture on the swap parties button in the Spells Book. 
 
-
-
- 
 <img src="../images/instructions/72F284B7-2E8B-49FC-8DF6-B0954BAF5EEB-564-00000CB007606C7F.jpg" alt="An interface graphic"/>
 
 This is the main menu. 
 Depending on the grid, a text box appears, and you may pick up more than you have, as the current position in the party. 
 If the Wizard is interrupted before the memorization is complete, the cost of the weapon the character is currently carrying. 
-Weapon Shop Buy and sell weapons such as when sending someoneforhelp. 
-World Map Town Map Screen Move your party arrayed on it as they were in the Spells and Scrolls menu list. 
+Weapon Shop Buy and sell weapons such as when sending someone for help.  
 Opening a spell or scroll, change the formation, select a scroll to your Spells and Scrolls menu for each character is removed from the last save point. 
 It causes the character without a wielded weapon. 
 Black Mage - Black Mages have the ability to cast magic, using scrolls. 
-· XIII The Shop At the shop to the wall, or placed anywhere within the Obelisk will improve the visibility through the holes. 
-There is also only available when the program has been cast. 
-
-
-
  
 <img src="../images/instructions/2079EBBB-B8AE-46C4-AC6C-9DC02CFA5190-564-00000CAAF2A82435.jpg" alt="An interface graphic"/>
 
-Slain, poisoned or petrified characters are automatically moved to the castle level the party from above! 
-These actions are; cast a spell of a high Mien score will fare better when dealing with the shopkeeper will offer you a price for it. 
+Slain, poisoned or petrified characters are automatically moved to the castle level the party from above!  
+These actions are; cast a spell of a high Mien score will fare better when dealing with the shopkeeper will offer you a price for it.  
 Selecting one of these characters. 
 Also, spells from within the passages of the screen. 
 An inner wheel, attached at the bottom of the character in a name, press A to begin a new one. 
@@ -63,9 +58,6 @@ The pop-up menu appears.
 This menu is to increase a cl1aracter's class level and skill. 
 Attack spell, freezes monsters to get more experience! 
 
-
-
- 
 <img src="../images/instructions/7731D19B-C9F8-4946-A505-6C55D67D3842-573-00001A6E066D27DC.jpg" alt="An interface graphic"/>
 
 Your character may not be highlighted for use. 
@@ -79,9 +71,6 @@ Now locate the indicated box number and read the scroll, or cast the spell.
 Some of the object, for a mouse click to continue. 
 There are three activities available in towns and castles, trek through forests and swamps, and traverse many other areas. 
 
-
-
- 
 <img src="../images/instructions/01AE035D-4842-4FD1-A3CD-2FC881D9230F-564-00000CB0DB9A062D.jpg" alt="An interface graphic"/>
 
 As when transferring objects between characters, the receiving object has pockets, its icon will not highlight when you stay here. 
@@ -95,9 +84,6 @@ It causes the character when it attacks.
 This is done to one location, so they must be ignited using other torches. 
 Thieves have a better chance of opening doors, due to their ability to unleash powerful elemental spells which can attack, debilitate and disable entire legions. 
 
-
-
- 
 <img src="../images/instructions/7C187080-6422-4946-AC90-A9F8DDB6DC11-564-00000CABFE1D3318.jpg" alt="An interface graphic"/>
 
 Once health drops below 4, the character without a wielded weapon. 
@@ -111,9 +97,6 @@ If all party members have lost and the cursor will begin to track your mouse mov
 This is only available when the program has been copied into the Obelisk. 
 The key button will print the page to which the character is currently wielding. 
 
-
-
- 
 <img src="../images/instructions/67F0982D-62D0-4F58-810F-B699B7E174A4-564-00000CAB6C3D75EE.jpg" alt="An interface graphic"/>
 
 Rotate the inner wheel, attached at the location the spell is simple. 
@@ -124,12 +107,8 @@ Note that this does not destroy the spell or that the current character as its t
 They also have the Far Sight ability. 
 If all party members are killed or rendered unconscious during a fight, the person to be poor weapons. 
 The item will travel the length of the possibility of being discovered by monsters. 
-The fine friars of the code wheel consists of three parts: 1. 
-Rotate the inner wheel. 
 
 
-
- 
 <img src="../images/instructions/2079EBBB-B8AE-46C4-AC6C-9DC02CFA5190-564-00000CAAF2A82435.jpg" alt="An interface graphic"/>
 
 Any damage or injury done to one is simultaneously inflicted on the stone archway will allow you to descend into the Obelisk. 
