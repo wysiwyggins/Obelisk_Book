@@ -6,7 +6,7 @@ ibooks_specified_fonts: true
 theme: b-ber-theme-serif
 themes_directory: ./themes
 base_url: https://wileywiggins.com/
-base_path: /obelisk_reader/project-reader/
+base_path: https://wileywiggins.com/obelisk_reader/project-reader/
 reader_url: https://wileywiggins.com/obelisk_reader/project-reader/
 downloads:
   - label: Download as Epub

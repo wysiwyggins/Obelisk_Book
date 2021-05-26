@@ -16,7 +16,7 @@ Published by Amplexxus, 1989, 2021
 ::: exit:credits
 
 ::: logo:publishers-logo source:default-publishers-logo.png 
-::: logo:publishers-logo source:logo.svg
+::: logo:publishers-logo2 source:logo.svg
 
 Amplexxus:
 A subsidiary of the Texas Egg Council,
