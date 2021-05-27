@@ -19,6 +19,7 @@ To play Obelisk, use the mouse to click on an area to guide your character to it
 
  
 <img src="../images/instructions/reynolds3.jpg" alt="An interface graphic"/>
+
 ## Advanced Play
 
 The fine friars of the code wheel consists of three parts: 
