@@ -50,7 +50,7 @@ And he spoke of his enthr allm ent.
  | Whet stone | Lead | ??? | ??? | Anxious Potion |
  | Whale sperm | Galbano plant | Lead nitrate | ??? | Potion of Centricity |
  | Rue water | Perrin | Wheat flour | Greyish Potion | ??? |
- | The urine of a 12 year old boy | Pearl ginseng | ??? | Lightsalmon Potion | ??? |
+ | The urine of a bishop | Pearl ginseng | ??? | Lightsalmon Potion | ??? |
  | Ants eggs | Water of Pine resin (Ragio di Pino)? | Skimmed honey | Bloodcoloured Potion | ??? |
  | Red wine tartar | ??? | Pomegranate wine | Goldenrod Potion | ??? |
  | Rose roots | Saw Palmetto | Pepper | Yellowslobbered Potion | ??? |

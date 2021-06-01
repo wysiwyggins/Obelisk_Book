@@ -8,6 +8,13 @@ import spacy
 from unidecode import unidecode
 
 
+nlp = spacy.load("en_core_web_sm")
+with open("corpus/instructions.txt") as f:
+    text = f.read()
+
+text_model = markovify.Text(text)
+text_model = text_model.compile()
+
 
 def generateInstructions():
     files = os.listdir("../Codex/_project/_images/instructions/")
@@ -46,12 +53,18 @@ with open("../Codex/_project/_markdown/Instructions.md", "w") as myfile:
     myfile.write("---\ntitle: Instructions\ntype: bodymatter\n---\n")
     myfile.write("\n::: chapter:instructions\n")
     myfile.write("# instructions\n\n")
+    myfile.write(chapterQuote.generateQuote())
     myfile.write("\n::: figure-inline:figure-one source:interface.png alt:\"Image of Obelisk game interface\"\n:: 1. Game Year and Zodiac, Character Name  2. Moon Phase, Soul Tokens  3. Action Cursor    4. Player Character     5. Verb Palette\n::")
     myfile.write("\n\nTo play Obelisk, use the mouse to click on an area to guide your character to it. To carry out an action, right click to cycle actions, or click an action button, then click on an area where you would like to carry out that action.")
     myfile.write("\n\n::: figure-inline:mouse source:mouse.jpg alt:\"A Macintosh mouse control device\"\n\n")
+    myfile.write("## Advanced Play \n\n")
+    introInstruction = text_model.make_short_sentence(250)
+    introInstruction = introInstruction[:-1]
+    myfile.write(str(introInstruction))
+    myfile.write(" consists of ten parts: \n\n")
     for x in range(10):
         newinstruction = generateInstructions()
-        myfile.write("\n\n")
+        myfile.write("## " + str(x + 1) + ": ")
         myfile.write(str(newinstruction))
         myfile.write("\n\n")
     myfile.write("\n\n::: exit:instructions\n\n")
