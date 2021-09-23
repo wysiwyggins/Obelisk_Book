@@ -22,7 +22,7 @@ with open("../Codex/_project/_markdown/Wands.md", "w") as myfile:
         myfile.write("\n*" + adjective.capitalize() + " wands-*\n")
         myfile.write("| Material | Effect |\n")
         myfile.write("|-|-|\n")
-        for y in range(10):
+        for y in range(15):
             newWand = wands.Wand()
             newWand.generateWand()
             myfile.write(str(newWand))

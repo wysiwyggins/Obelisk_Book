@@ -8,112 +8,172 @@ type: bodymatter
 
  
 
-::: blockquote:id-LGFvT8 citation:"Unknown Author, *But The Crew And Merchants Of The Sea*"classes:"break-after"
+::: blockquote:id-x3HJsA citation:"Unknown Author, *Weary With Their Human Hands*"classes:"break-after"
 
-And the noises waxed, mounting to a red brand that seared her bosom. 
-Some of the catacombs. 
-The people gathered about him, crying out her name in an archaic script that few can read nowadays. 
+The place, however, was full of sharp and somber boscage. 
+A veil of weird and radiant beauty, the same tiny mole at one cor ner of her appetite. 
+Then, presently, the clamor the screaming of the gods of Calyz by the drowsy bachanalians. 
 
-::: exit:id-LGFvT8
+::: exit:id-x3HJsA
 
 
+
+
+::: section:realm-0 classes:"break-after"
  
-<img src="../images/maps/test-6.svg" alt="A map of a forgotten place"/>
+<img src="../images/maps/map006.svg" alt="A map of a forgotten place"/>
 
 ## A Forgotten Place
 
-This was once known to be a perpetual land. Exports included Roots of spanish broom, sjogrenite, stibnite and Sea buckthorn. It was conquored and forgotten.
-This land knew hunger and strife but persevered through work and kinship.
+This was once known to be a fertile land. Exports included Cyclohexanone, meta-variscite, crocidolite and Mercuric oxide. It was conquored and forgotten.
+The limb of the horizon, viewed from the dark rocks of its shores, was engulfed in the green sea and the teeming business of whales.
+
+
+::: exit:realm-0
 
 
 
+
+
+::: section:realm-1 classes:"break-after"
  
-<img src="../images/maps/test-1.svg" alt="A map of a forgotten place"/>
+<img src="../images/maps/map000.svg" alt="A map of a forgotten place"/>
 
 ## A Forgotten Place
 
-This was once known to be a zesty land. Exports included Black pitch, barbed wire, leucite and Red Realgar. It was conquored and forgotten.
+This was once known to be a pliable land. Exports included Sweet almonds, marcasite, sunstone and Opium juice. It was conquored and forgotten.
 The people of this land were close and storied and they sang great epics of their histories. 
 
 
-
- 
-<img src="../images/maps/test-5.svg" alt="A map of a forgotten place"/>
-
-## A Forgotten Place
-
-This was once known to be a theatrical land. Exports included Olive oil dregs, jelly, acanthite and Hazlenut shells. It was conquored and forgotten.
-The people of this land were close and storied and they sang great epics of their histories. 
+::: exit:realm-1
 
 
 
- 
-<img src="../images/maps/test-0.svg" alt="A map of a forgotten place"/>
-
-## A Forgotten Place
-
-This was once known to be a rambling land. Exports included Rosewood, pharmacolite, howlite and Laurel seeds. It was conquored and forgotten.
-The stones of this land were full of beautiful gems and useful metals that were treasured but never knew a price.
 
 
-
- 
-<img src="../images/maps/test-8.svg" alt="A map of a forgotten place"/>
-
-## A Forgotten Place
-
-This was once known to be an obedient land. Exports included Bloom of glass, foam rubber, digenite and Ba Li Ma. It was conquored and forgotten.
-The stones of this land were full of beautiful gems and useful metals that were treasured but never knew a price.
-
-
-
+::: section:realm-2 classes:"break-after"
  
 <img src="../images/maps/test-7.svg" alt="A map of a forgotten place"/>
 
 ## A Forgotten Place
 
-This was once known to be a strange land. Exports included Coffee, zircon, kermesite and Peacock grease/fat. It was conquored and forgotten.
-This was a peaceful land.
+This was once known to be joyous land. Exports included Bull's gall, whewellite, red mercury and Spices. It was conquored and forgotten.
+This land was filled with music.
+
+
+::: exit:realm-2
 
 
 
+
+
+::: section:realm-3 classes:"break-after"
  
-<img src="../images/maps/test-9.svg" alt="A map of a forgotten place"/>
+<img src="../images/maps/map008.svg" alt="A map of a forgotten place"/>
 
 ## A Forgotten Place
 
-This was once known to be a sinister land. Exports included Amonium cloride, lazurite, talc and Formic acid. It was conquored and forgotten.
-The seas here produced enough fish so that the waters were always thick with them, shimmering like quicksilver.
-
-
-
- 
-<img src="../images/maps/test-10.svg" alt="A map of a forgotten place"/>
-
-## A Forgotten Place
-
-This was once known to be a passive land. Exports included Balsam fruit oil, symplesite, fedorite and Wild pomegranate. It was conquored and forgotten.
+This was once known to be a symbolic land. Exports included Quaking Aspen, citrine, kinoite and Star anise. It was conquored and forgotten.
 The sun at noon was high and white and blessed the air and the clouds and the kingdom of birds that bore it aloft.
 
 
+::: exit:realm-3
 
+
+
+
+
+::: section:realm-4 classes:"break-after"
  
-<img src="../images/maps/test-11.svg" alt="A map of a forgotten place"/>
+<img src="../images/maps/map008.svg" alt="A map of a forgotten place"/>
 
 ## A Forgotten Place
 
-This was once known to be an omnilingual land. Exports included Wild boar gall, fluorite, symplesite and Geranium. It was conquored and forgotten.
-Its soils were fecund and bore great and plentiful fruit. 
+This was once known to be an absolute land. Exports included A mule's left hoof, fruit leather, ruby and Fructus Aurantii. It was conquored and forgotten.
+This land was filled with music.
+
+
+::: exit:realm-4
 
 
 
+
+
+::: section:realm-5 classes:"break-after"
  
-<img src="../images/maps/test-12.svg" alt="A map of a forgotten place"/>
+<img src="../images/maps/map007.svg" alt="A map of a forgotten place"/>
 
 ## A Forgotten Place
 
-This was once known to be an artistic land. Exports included Cardamon seeds, pharmacosiderite, lechatelierite and Agnus Castus. It was conquored and forgotten.
-Its soils were fecund and bore great and plentiful fruit. 
+This was once known to be an ephemeral land. Exports included Clary-sage roots, okenite, coesite and Ramie. It was conquored and forgotten.
+This land was filled with music.
+
+
+::: exit:realm-5
+
+
+
+
+
+::: section:realm-6 classes:"break-after"
+ 
+<img src="../images/maps/test-7.svg" alt="A map of a forgotten place"/>
+
+## A Forgotten Place
+
+This was once known to be an aristocratic land. Exports included Senecio, nickeline, collinsite and Dragon Tooth. It was conquored and forgotten.
+It is said that even the animals of this land were heroic and had known deeds and adventures that changed the history of the world and of which humans could only guess at.
+
+
+::: exit:realm-6
+
+
+
+
+
+::: section:realm-7 classes:"break-after"
+ 
+<img src="../images/maps/test-2.svg" alt="A map of a forgotten place"/>
+
+## A Forgotten Place
+
+This was once known to be an abysmal land. Exports included Wound-wort, polylithionite, fimo and Sodium compounds. It was conquored and forgotten.
+The forests of this land were rich and verdant. 
+
+
+::: exit:realm-7
+
+
+
+
+
+::: section:realm-8 classes:"break-after"
+ 
+<img src="../images/maps/test-8.svg" alt="A map of a forgotten place"/>
+
+## A Forgotten Place
+
+This was once known to be a difficult land. Exports included Pigeon blood, cordierite, niter and Magnesium sufate heptahydrate. It was conquored and forgotten.
+The limb of the horizon, viewed from the dark rocks of its shores, was engulfed in the green sea and the teeming business of whales.
+
+
+::: exit:realm-8
+
+
+
+
+
+::: section:realm-9 classes:"break-after"
+ 
+<img src="../images/maps/map007.svg" alt="A map of a forgotten place"/>
+
+## A Forgotten Place
+
+This was once known to be speechless land. Exports included Benzene, arsenic, erythrite and Sorrel seeds. It was conquored and forgotten.
+It is said that the days in this land were long and the weather fair.
+
+
+::: exit:realm-9
 
 
 

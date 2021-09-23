@@ -3,14 +3,6 @@ import runes
 import chapterQuote
 import io
 
-def getAdjective():
-    adjectiveFO = io.open("words/adjectives.txt", encoding="utf-8")
-    adjectiveList = list(adjectiveFO)
-    selection = random.randint(0, len(adjectiveList) - 1)
-    adjective = adjectiveList[selection]
-    adjective = adjective.rstrip("\n")
-    return adjective
-
 with open("../Codex/_project/_markdown/Runes.md", "w") as myfile:
     myfile.write("---\ntitle: Runes\ntype: bodymatter\n---\n")
     myfile.write("\n::: chapter:runes\n")
@@ -19,21 +11,20 @@ with open("../Codex/_project/_markdown/Runes.md", "w") as myfile:
 
     runes = runes.Runes()
     runeCounter= 0
-    myfile.write("\n\n")
+    myfile.write("\n\n\n")
     myfile.write("| Glyph | Translation |\n")
     myfile.write("|-|-|\n")
     for rune in sorted(runes.runeDict):
         runeCounter += 1
         myfile.write('|<img src=\"../images/glyphs/'+runes.runeDict[rune]+'\" ' + 'alt=\"A glyph made from wedge-shaped marks\"/> |' + rune + ' |\n')
-        if runeCounter % 8 == 0:
+        if runeCounter % 12 == 0:
             nextSectionNumber = str(int(runeCounter *.1))
             lastSectionNumber = str(int(runeCounter *.1-1))
             myfile.write("\n\n")
             myfile.write("| Glyph | Translation |\n")
             myfile.write("|-|-|\n")
-        if runeCounter >= len(runes.runeDict) and runeCounter % 8 != 0:
+        if runeCounter >= len(runes.runeDict) and runeCounter % 12 != 0:
             print("I think I'm done")
-
 
 
 
